@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="cipherscript.js"> </script>
+    <title>Bay Area Programming Contest</title>
+</head>
+<body>
+    <main>
+        <img id="logo" class="logo" src="BAPC_Logo.png" alt="Logo" onclick="fetch('/contest')">
+
+        <nav id="row1">
+            <a href="/">Home</a>
+            <a href="/contest">BAPC 2024</a>
+            <a href="/rules">Rules</a>
+            <a href="/archive">Archive</a>
+            <a href="/about_us">About Us</a>
+        </nav>
+        <div class="Name">
+            <!-- THE BIG TEXT IN OUR DESIGN -->
+            <h1>
+                <a class="cipher">BAPC 2024</a>
+            </h1>
+        </div>
+        <div class = "Summary">
+            <a>March 9th, 2024</a>
+        </div>
+        <div class = "Register">
+            <a href="/contest">More Information</a>
+        </div>
+    </main>
+
+    <header>
+        <h1>Coding Competition</h1>
+        <p>Challenge your coding skills and compete with fellow developers!</p>
+    </header>
+
+    <section class="hero">
+        <div class="background-image"></div>
+        <div class="content">
+            <h2>Join the Competition</h2>
+            <p>Showcase your coding expertise and win exciting prizes.</p>
+            <a href="#registration" class="cta-button">Register Now</a>
+        </div>
+    </section>
+
+    <section id="registration" class="registration-form">
+        <h2>Registration</h2>
+        <form action="submit_form.php" method="post">
+            <!-- Your registration form fields go here -->
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <button type="submit" class="cta-button">Submit</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Coding Competition. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
