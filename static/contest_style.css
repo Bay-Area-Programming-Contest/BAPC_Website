@@ -164,13 +164,17 @@ tr{
     font-size: 20px;
 }
 
+.ruleslist{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: left;
+    align-items: left;
+}
+
 tbody {
     display: flex;
     gap: 0px; /* Adjust the gap as needed */
     margin-left: 100px;
     margin-right: 100px;
 }
-
-
-
 
