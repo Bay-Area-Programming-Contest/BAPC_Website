@@ -9,6 +9,10 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + '/index.html');
 }); 
 
+app.get('/contest', function (req, res) {
+    res.sendFile(__dirname + '/static/contest.html');
+});
+
 app.get('/about', function (req, res) {
     res.sendFile(__dirname + '/about.html');
 });
