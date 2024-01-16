@@ -16,6 +16,7 @@ h1 {
 /* css for index.html */
 
 main {
+    position: relative;
 	background-image:url(/background_4.png);
 	background-size:cover;
 	background-position:50% 50%;
@@ -174,6 +175,21 @@ body header h1{
     text-align: center;
     background-color: #fcfcfc;
     border-radius: 10px;
+}
+
+.WhatIsBAPC .heading{
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    color: #fcfcfc;
+    font-family: "Space Mono", monospace;
+    font-size: 4rem;
+    letter-spacing: 5px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #ff5050;
+    border-radius: 10px;
+
 }
 
 .FAQ{
