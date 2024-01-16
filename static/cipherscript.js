@@ -2,7 +2,7 @@ window.onload = function () {
   const links = document.querySelectorAll("a.cipher");
   const solveMilliseconds = 2000;
   const characterSelectionMilliseconds = 20;
-  const delayMilliseconds = 200;
+  const delayMilliseconds = 0;
   const characters = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*#@/*!%&^"];
 
   const randomArrayElement = (arr) => {
