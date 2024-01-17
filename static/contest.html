@@ -10,13 +10,15 @@
 </head>
 <body>
     <main>
-        <img id="logo" class="logo" src="BAPC_Logo.png" alt="Logo" onclick="fetch('/contest')">
+        <a href="/">
+            <img id="logo" class="logo" src="BAPC_Logo.png" alt="BAPC">
+        </a> 
 
         <nav id="row1">
             <a href="/">Home</a>
             <a href="/contest">BAPC 2024</a>
             <a href="/archive">Archive</a>
-            <a href="/about_us">About Us</a>
+            <a href="/about">About Us</a>
         </nav>
         
     </main>
@@ -83,33 +85,30 @@
             <!-- Add more rows as needed -->
         </tbody>
     </table>
-    <table>
-        <tbody>
-            <tr class="card">
-                <th class="rules">
-                    <h1>Rules</h1>
-                    <p class="ruleslist">
-                    1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod.esdf;alskjfkl
-                    <br></br>
-                    2. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod.
-                    <br></br>
-                    3. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod.
-                    <br></br>
-                    4. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod.
-                    <br></br>
-                    5. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod.
-                    <br></br>
-                    6. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum condimentum felis ac mi ullamcorper, a dapibus nunc euismod. 
-                    </p>
-                </th>
-            </tr>
-        </tbody>
-    </table>    
+
     <table>
         <tbody>
             <div class="collapsible">
                 <div class="card-nonglow">
                     <button class="collapsible-btn">Rules <span class="toggle-icon">&#x002B</span></button>
+                    <div class="card-content">
+                        <h1>ICPC Style</h1>
+                        <p>This is the content of Card 1.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="collapsible">
+                <div class="card-nonglow">
+                    <button class="collapsible-btn">Online Mirror <span class="toggle-icon">&#x002B</span></button>
+                    <div class="card-content">
+                        <h1>Card 1</h1>
+                        <p>This is the content of Card 1.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="collapsible">
+                <div class="card-nonglow">
+                    <button class="collapsible-btn">Resources <span class="toggle-icon">&#x002B</span></button>
                     <div class="card-content">
                         <h1>Card 1</h1>
                         <p>This is the content of Card 1.</p>
@@ -121,7 +120,6 @@
     
     <script src="dropdown.js"></script>
 
-    <p>jasdlkfhkladjshgfjkasdhbfakjsdf</p>
 
 </body>
 </html>

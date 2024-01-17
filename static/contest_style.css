@@ -210,6 +210,9 @@ tbody {
 }
 
 .card-content {
+    border-top: 3px solid #ff5050;
+    margin-left: 20px;
+    margin-right: 20px;
     max-height: 0;
     color: white;
     padding-left: 20px;
@@ -220,7 +223,12 @@ tbody {
 }
 
 .card-content h1 {
-    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.card-content p{
+    font-size: 20px;
+    margin-left: 20px;
 }
 
 .collapsible.expanded .card-content {
