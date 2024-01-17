@@ -116,6 +116,7 @@ tr{
     justify-content: center;
 }
 
+.card-nonglow,
 .card {
     transition: box-shadow 0.3s;
     position: relative;
@@ -128,6 +129,7 @@ tr{
     flex: 1;
 }
 
+
 .card:hover {
     box-shadow: 0 0 20px 1px rgb(255, 0, 0), 0 0 40px 10px rgba(255, 99, 99, 0.5);
 }
@@ -136,6 +138,7 @@ tr{
     opacity: 0;
 }
 
+.card-nonglow::before,
 .card::before {
     content: "";
     position: absolute;
@@ -178,3 +181,49 @@ tbody {
     margin-right: 100px;
 }
 
+.collapsible{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.collapsible-btn {
+    background-color: #000000;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    align-self: center;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    font-size: 40px;
+}
+
+.collapsible-btn:hover {
+    color:#ff5050;
+}
+
+.toggle-icon {
+    float: right;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.card-content {
+    max-height: 0;
+    color: white;
+    padding-left: 20px;
+    overflow: hidden;
+    transition: max-height 0.5s ease-out; /* Add animation transition for dropping down and collapsing */
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out; /* Add fade-in animation */
+}
+
+.card-content h1 {
+    margin-bottom: 10px;
+}
+
+.collapsible.expanded .card-content {
+    max-height: 400px; /* Adjust the max height as needed */
+    opacity: 1;
+}
