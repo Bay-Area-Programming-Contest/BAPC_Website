@@ -3,45 +3,88 @@
 <head>
     <link rel="stylesheet" href="style.css">
     <script type="text/javascript" src="cipherscript.js"> </script>
+    <script src="fade.js"></script>
     <title>Bay Area Programming Contest</title>
 </head>
-<body class = "home-screen">
-    <main>
+<body>
+    <main class="Home">
+        <div class="blur-section"></div>
+
         <a href="/">
             <img id="logo" class="logo" src="BAPC_Logo.png" alt="BAPC">
         </a> 
+
         <nav id="row1">
-            <a href="/">Home</a>
+            <a href="/">HOME</a>
             <a href="/contest">BAPC 2024</a>
-            <a href="/archive">Archive</a>
-            <a href="/about">About Us</a>
+            <a href="/archive">ARCHIVE</a>
+            <a href="/about_us">ABOUT US</a>
         </nav>
-        <div class="Name">
-            <!-- THE BIG TEXT IN OUR DESIGN -->
-            <h1>
-                <a class="cipher">BAPC 2024</a>
-            </h1>
-        </div>
+        <h1>
+            <a class="cipher">BAPC 2024</a>
+        </h1>
         <div class = "Summary">
-            <a>March 9th, 2024</a>
+            <a>03.09.2024</a>
         </div>
         <div class = "Register">
-            <a href="/contest">Contest Information</a>
+            <a href="/contest">REGISTER HERE</a>
         </div>
-    </main>
+    
 
-    <header>
-        <h1>Bay Area Programming Competition</h1>
-    </header>
+        <img id="delayed-button" style="display: none;opacity: 0;transition: opacity 2s ease-out;height: 37px;position: absolute;top: 90%;" onclick="scrollToSection()" src="downarrow.png">
+        <script>
+            function scrollToSection() {
+                var secondSection = document.getElementsByClassName('WhatIsBAPC')[0];
+                secondSection.scrollIntoView({ behavior: 'smooth' });
+            }
+        </script>
+        <script>
+            // Delay the appearance of the button by 2000 milliseconds (2 seconds)
+            setTimeout(function() {
+                var delayedButton = document.getElementById('delayed-button');
+                delayedButton.style.display = 'block'; // Show the button
+                setTimeout(function() {
+                    delayedButton.style.opacity = '1'; // Make the button visible
+                }, 50); 
+            }, 2000);
+        </script>
+        <!--make the image bounce up and down smoothly-->
+        <script>
+            var delayedButton = document.getElementById('delayed-button');
+            var bounceUp = true;
+            var position = 90;
+            setInterval(function() {
+                if (bounceUp) {
+                    position += 0.01;
+                    delayedButton.style.top = position + '%';
+                    if(position >= 91) {
+                        bounceUp = false;
+                    }
+                } else {
+                    position -= 0.01;
+                    delayedButton.style.top = position + '%';
+                    if(position <= 90) {
+                        bounceUp = true;
+                    }
+                }
+            }, 7);
+        </script>
+
+
+    </main>
 
     <div class="WhatIsBAPC">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-12">
-                    <div class="heading"> Who Are We? </div>
-                    <div class="bodyText">The Bay Area Programming Contest (BAPC) is a programming contest for contestants of all levels designed by Gunn's Competitive Programming Club. We hope to give Bay Area high school students an opportunity to compete with peers and solve some interesting problems in an ICPC style format!<br>
-                        <br>To see what our problems look like, 
-                        <a class="emphasized" href="/Contest/Resources">Check out our resource page!</a>
+                    <div class="fade-in-text" data-delay="0"><div class="heading"> ABOUT BAPC </div>
+                    <div class="bodyText">
+                        <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
+                        <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels designed by<br></div>
+                        <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay Area<br></div>
+                        <div class="fade-in-text" data-delay="400">high school students an opportunity tocompete with peers and solve<br></div>
+                        <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br></div>
+                    </div>
                     </div>
                 </div>
             </div>
@@ -50,25 +93,25 @@
 
     <div class="FAQ">
         <div class="container">
-            <div class="heading"> Frequently Asked Questions </div>
+            <div class="fade-in-text" data-delay="0"><div class="heading"> Frequently Asked Questions </div></div> 
             <div class="row">
                 <div class="col-lg-6 col-12">
-                    <div class="question"> Where will BAPC be held? </div>
-                    <div class="answer"> BAPC will be held in the Gunn High School Library, however there will be an online mirror for those who can't make it. </div>
+                    <div class="fade-in-text" data-delay="100"><div class="question"> Where will BAPC be held? </div></div>
+                    <div class="fade-in-text" data-delay="200"><div class="answer"> BAPC will be held in the Titan Gym at Gunn High School. There will be an online mirror for those who can't make it. </div></div>
                 </div>
                 <div class="col-lg-6 col-12">
-                    <div class="question"> How do I register? </div>
-                    <div class="answer"> Registration is not open yet. Check back later! </div>
+                    <div class="fade-in-text" data-delay="300"><div class="question"> How do I register? </div></div>
+                    <div class="fade-in-text" data-delay="400"><div class="answer"> Registration is not open yet. Check back later! </div></div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-6 col-12">
-                    <div class="question"> What is the format of the contest? </div>
-                    <div class="answer"> The contest will be a 5 hour long ICPC style contest. You will be given 10 problems to solve with your team. </div>
+                    <div class="fade-in-text" data-delay="500"><div class="question"> What is the format of the contest? </div></div>
+                    <div class="fade-in-text" data-delay="600"><div class="answer"> The contest will be a 5 hour long ICPC style contest. You will be given 10 problems to solve with your team. </div></div> 
                 </div>
                 <div class="col-lg-6 col-12">
-                    <div class="question"> What is the team size? </div>
-                    <div class="answer"> The team size is 3. </div>
+                    <div class="fade-in-text" data-delay="700"><div class="question"> What is the team size? </div></div>
+                    <div class="fade-in-text" data-delay="800"><div class="answer"> Teams may have up to 3 members. </div></div>
                 </div>
             </div>
         </div>
@@ -79,13 +122,13 @@
             <div class="heading"> Our Sponsors </div>
             <div class="row">
                 <div class="col-lg-4 col-12">
-                    <img src="/assets/Google-Logo.png" style="width: 100%;">
+                    <img src="/BAPC_Logo.png" style="width: 20%;">
                 </div>
                 <div class="col-lg-4 col-12">
-                    <img src="/assets/Amazon-Logo.png" style="width: 100%;">
+                    <img src="/CPC.png" style="width: 20%;">
                 </div>
                 <div class="col-lg-4 col-12">
-                    <img src="/assets/Apple-Logo.png" style="width: 100%;">
+                    <img src="/background_green.png" style="width: 20%;">
                 </div>
             </div>
         </div>
