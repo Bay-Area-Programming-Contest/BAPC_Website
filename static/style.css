@@ -95,25 +95,25 @@ main div.Register a:hover{
 }
 
 .WhatIsBAPC{
-    background-size: cover;
-    padding: 100px;
-    margin: 50px;
-    height: 72vh;
+    min-height: 100vh;
+    background-position:50% 50%;
+    padding: 0px;
+    margin: 0px;
     line-height: 200%;
     position: relative;
     color: #fcfcfc;
     font-family: "Jura", monospace;
-    font-size: 2rem;
+    font-size: 32px;
     letter-spacing: 5px;
     text-decoration: none;
     text-align: center;
     background-color: black;
     border-radius: 30px;
-    
 }
 
 .WhatIsBAPC .heading{
     margin: 50px;
+    padding-top: 100px;
     position: relative;
     color: #ff1144;
     font-family: "Jura", monospace;
