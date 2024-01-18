@@ -112,7 +112,7 @@ main div.Register a:hover{
 }
 
 .WhatIsBAPC .heading{
-    padding: 20px;
+    background-size: cover;
     margin: 50px;
     position: relative;
     color: #ff1144;
