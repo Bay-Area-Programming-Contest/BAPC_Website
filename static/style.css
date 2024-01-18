@@ -95,6 +95,7 @@ main div.Register a:hover{
 }
 
 .WhatIsBAPC{
+    background-size: cover;
     padding: 100px;
     margin: 50px;
     height: 72vh;
@@ -106,13 +107,12 @@ main div.Register a:hover{
     letter-spacing: 5px;
     text-decoration: none;
     text-align: center;
-    background-color: #000000;
+    background-color: black;
     border-radius: 30px;
     
 }
 
 .WhatIsBAPC .heading{
-    background-size: cover;
     margin: 50px;
     position: relative;
     color: #ff1144;
