@@ -309,10 +309,6 @@ tr{
 
 .card h1{
     font-weight: 1000;
-}
-
-
-.card h1{
     color: #ff1144;
     font-size: 40px;
 }
@@ -401,3 +397,151 @@ tbody {
 .fade-in-text.fade-in {
     opacity: 1;
 }
+
+
+
+
+.namecard {
+    width: 100%;
+    height: 40vh;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    flex: 1;
+}
+
+.namecard-front {
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: black;
+    border: 4px solid #ff1144;
+    font-family: "Jura", monospace;
+    flex: 1;
+}
+
+.namecard-back{
+    transform: rotateY(180deg);
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: black;
+    border: 4px solid #ff1144;
+    font-family: "Jura", monospace;
+    flex: 1;
+}
+
+
+.namecard-inner {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: top;
+    display: grid;
+    place-items: center;
+    transform-style: preserve-3d;
+    transition: transform 0.5s; /* Set the transition duration */
+}
+
+.namecard:hover .namecard-inner {
+    transform: rotateY(180deg); /* Rotate the card on hover */
+}
+
+.namecard-face {
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    align-items: top;
+    display: grid;
+    place-items: center;
+    position: absolute;
+    backface-visibility: hidden; /* Hide the back face of the card */
+}
+
+
+
+.namecard h1{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 30px;
+    margin: 0px;
+    margin-top: 5px;
+}
+
+.namecard p{
+    color: #ff1144;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.circle-cutout {
+    width: 80%; /* Set the desired width */
+    height: auto; /* Set the desired height */
+    overflow: hidden;
+    border-radius: 25%; /* Make the container circular */
+    margin-bottom: 20px;
+}
+
+.circle-cutout img {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Remove extra space under the image */
+}
+
+
+.nameplate {
+    transition: box-shadow 0.3s;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: black;
+    border: 4px solid #ff1144;
+    font-family: "Jura", monospace;
+    flex: 1;
+}
+
+.nameplate tr{
+    display: flex;
+    align-items: left;
+    padding: 0px;;
+}
+
+.nameplate th{
+    padding: 0px;
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 10px; /* Adjust the gap between divs */
+}
+
+.nameplate h1{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 60px;
+    margin: 0px;
+    margin-top: 50px;
+}
+
+.nameplate p{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 40px;
+    margin: 50px;
+    margin-top: 5px;
+}
+
+
