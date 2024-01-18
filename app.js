@@ -17,7 +17,7 @@ app.get('/archive', function (req, res) {
     res.sendFile(__dirname + '/static/archive.html');
 });
 
-app.get('/about', function (req, res) {
+app.get('/about_us', function (req, res) {
     res.sendFile(__dirname + '/static/about-us.html');
 });
 
