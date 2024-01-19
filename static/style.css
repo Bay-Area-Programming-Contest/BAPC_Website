@@ -314,8 +314,13 @@ tr{
 }
 
 .card p{
-    color: #ff1144;
-    font-size: 25px;
+    color: #F14;
+	text-align: center;
+	font-family: Jura;
+	font-size: 1.5625rem;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
 }
 
 .ruleslist{
@@ -549,22 +554,20 @@ tbody {
     justify-content: center;
     align-items: center;
     margin: 0;
+    fill: #fcfcfc;
 }
 
 .socials:hover{
-    transform: translateY(-1px);
+    transform: translateY(-2px);
     transition: all 0.3s ease-in-out;
 }
 
 .socials path{
     fill: #fcfcfc;
-    width: 100%;
 }
 
-.socials path:hover{
+.socials:hover path{
     fill: #ff1144;
-    transform: translateY(-1px);
-    transition: all 0.3s ease-in-out;
 }
 
 .svg-buttons {
@@ -572,13 +575,13 @@ tbody {
 }
 
 .svg-buttons svg {
-    width: 30px;
-    height: 30px;
+    width: 24px;
+    height: 24px;
     align-items: center;
     justify-content: center;
     justify-items: center;
     margin: 0px; /* Adjust margin as needed */
-    fill: blue;
+    border: 1px solid blue;
     cursor: pointer;
 }
 
