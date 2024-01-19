@@ -4,7 +4,7 @@ function scrollToSection() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-// Delay the appearance of the button by 2000 milliseconds (2 seconds)
+    // Delay the appearance of the button by 2000 milliseconds (2 seconds)
     setTimeout(function () {
         const delayedButton = document.getElementById('delayed-button');
         delayedButton.style.display = 'block'; // Show the button
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }, 2000);
 
 
-    <!--make the image bounce up and down smoothly-->
+    // make the image bounce up and down smoothly
     const delayedButton = document.getElementById('delayed-button');
     let bounceUp = true;
     let position = 90;
