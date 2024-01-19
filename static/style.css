@@ -484,6 +484,14 @@ tbody {
     margin-top: 5px;
 }
 
+.namecard .namecard-back h1{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 25px;
+    margin: 30px;
+}
+
+
 .namecard p{
     color: #ff1144;
     font-size: 20px;
