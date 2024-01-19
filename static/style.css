@@ -299,7 +299,7 @@ tr{
     margin-right: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
-    border-radius: 20px;
+    border-radius: 37px;
     background-color: black;
     border: 4px solid #ff1144;
     padding: 25px;
@@ -543,5 +543,44 @@ tbody {
     margin: 50px;
     margin-top: 5px;
 }
+
+.socials{
+    border: 1px solid orange;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.socials:hover{
+    transform: translateY(-1px);
+    transition: all 0.3s ease-in-out;
+}
+
+.socials path{
+    fill: #fcfcfc;
+    width: 100%;
+}
+
+.socials path:hover{
+    fill: #ff1144;
+    transform: translateY(-1px);
+    transition: all 0.3s ease-in-out;
+}
+
+.svg-buttons {
+    margin-bottom: 0px; /* Adjust margin as needed */
+}
+
+.svg-buttons svg {
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin: 0px; /* Adjust margin as needed */
+    fill: blue;
+    cursor: pointer;
+}
+
 
 
