@@ -550,7 +550,6 @@ tbody {
 }
 
 .socials{
-    border: 1px solid orange;
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -580,8 +579,7 @@ tbody {
     align-items: center;
     justify-content: center;
     justify-items: center;
-    margin: 0px; /* Adjust margin as needed */
-    border: 1px solid blue;
+    margin: 2px; /* Adjust margin as needed */
     cursor: pointer;
 }
 
