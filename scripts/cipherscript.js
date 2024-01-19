@@ -19,7 +19,7 @@ window.onload = function () {
   });
 
   function scrambleText(element) {
-    if (element.classList.contains("active") == false) {
+    if (element.classList.contains("active") === false) {
       let delay = 0;
       const elementText = element.innerText;
       const elementCharacters = [...elementText];
