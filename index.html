@@ -1,146 +1,169 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <link rel="stylesheet" href="styles/style.css">
-    <script type="text/javascript" src="scripts/cipherscript.js"> </script>
-    <script src="scripts/fade.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/scripts/cipherscript.js" type="text/javascript"></script>
+    <script src="/scripts/fade.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="/styles/style.css">
     <title>BAPC 2024 | Bay Area Programming Contest</title>
 </head>
 <body>
-    <main class="Home">
-        <div class="blur-section"></div>
+<main class="Home">
+    <div class="blur-section"></div>
 
-        <a href="/">
-            <img id="logo" class="logo" src="/images/BAPC_Logo.png" alt="BAPC">
-        </a> 
+    <a href="/">
+        <img id="logo" class="logo" src="/images/BAPC_Logo.png" alt="BAPC">
+    </a>
 
-        <nav id="row1">
-            <a href="/">HOME</a>
-            <a href="/contest.html">BAPC 2024</a>
-            <a href="/archive.html">ARCHIVE</a>
-            <a href="/about-us.html">ABOUT US</a>
-        </nav>
-        <h1>
-            <a class="cipher">BAPC 2024</a>
-        </h1>
-        <div class = "Summary">
-            <a>03.09.2024</a>
-        </div>
-        <div class = "Register">
-            <a id = "registerButton"href="/google forms or smth">REGISTER HERE</a>
-        </div>
+    <nav id="row1">
+        <a href="/">HOME</a>
+        <a href="/contest.html">BAPC 2024</a>
+        <a href="/archive.html">ARCHIVE</a>
+        <a href="/about-us.html">ABOUT US</a>
+    </nav>
+    <h1>
+        <a class="cipher">BAPC 2024</a>
+    </h1>
+    <div class="Summary">
+        <a>03.09.2024</a>
+    </div>
+    <div class="Register">
+        <a id="registerButton" href="/google forms or smth">REGISTER HERE</a>
+    </div>
 
-        
-    
-
-        <img id="delayed-button" style="display: none;opacity: 0;transition: opacity 2s ease-out;height: 37px;position: absolute;top: 90%;" onclick="scrollToSection()" src="/images/downarrow.png">
-        <script>
-            function scrollToSection() {
-                var secondSection = document.getElementsByClassName('WhatIsBAPC')[0];
-                secondSection.scrollIntoView({ behavior: 'smooth' });
-            }
-        </script>
-        <script>
-            // Delay the appearance of the button by 2000 milliseconds (2 seconds)
-            setTimeout(function() {
-                var delayedButton = document.getElementById('delayed-button');
-                delayedButton.style.display = 'block'; // Show the button
-                setTimeout(function() {
-                    delayedButton.style.opacity = '1'; // Make the button visible
-                }, 50); 
-            }, 2000);
-        </script>
-        <!--make the image bounce up and down smoothly-->
-        <script>
-            var delayedButton = document.getElementById('delayed-button');
-            var bounceUp = true;
-            var position = 90;
-            setInterval(function() {
-                if (bounceUp) {
-                    position += 0.01;
-                    delayedButton.style.top = position + '%';
-                    if(position >= 91) {
-                        bounceUp = false;
-                    }
-                } else {
-                    position -= 0.01;
-                    delayedButton.style.top = position + '%';
-                    if(position <= 90) {
-                        bounceUp = true;
-                    }
+    <img id="delayed-button"
+         style="display: none;opacity: 0;transition: opacity 2s ease-out;height: 37px;position: absolute;top: 90%;"
+         onclick="scrollToSection()" src="/images/downarrow.png">
+    <script>
+        function scrollToSection() {
+            const secondSection = document.getElementsByClassName('WhatIsBAPC')[0];
+            secondSection.scrollIntoView({behavior: 'smooth'});
+        }
+    </script>
+    <script>
+        // Delay the appearance of the button by 2000 milliseconds (2 seconds)
+        setTimeout(function () {
+            const delayedButton = document.getElementById('delayed-button');
+            delayedButton.style.display = 'block'; // Show the button
+            setTimeout(function () {
+                delayedButton.style.opacity = '1'; // Make the button visible
+            }, 50);
+        }, 2000);
+    </script>
+    <!--make the image bounce up and down smoothly-->
+    <script>
+        const delayedButton = document.getElementById('delayed-button');
+        let bounceUp = true;
+        let position = 90;
+        setInterval(function () {
+            if (bounceUp) {
+                position += 0.01;
+                delayedButton.style.top = position + '%';
+                if (position >= 91) {
+                    bounceUp = false;
                 }
-            }, 7);
-        </script>
+            } else {
+                position -= 0.01;
+                delayedButton.style.top = position + '%';
+                if (position <= 90) {
+                    bounceUp = true;
+                }
+            }
+        }, 7);
+    </script>
+</main>
 
-
-    </main>
-
-    <div class="WhatIsBAPC">
-        <div class="row">
-            <div class="col-lg-7 col-12">
-                <div class="fade-in-text" data-delay="0"><div class="heading"> ABOUT BAPC </div>
+<div class="WhatIsBAPC">
+    <div class="row">
+        <div class="col-lg-7 col-12">
+            <div class="fade-in-text" data-delay="0">
+                <div class="heading"> ABOUT BAPC</div>
                 <div class="bodyText">
                     <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
-                    <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels designed by<br></div>
-                    <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay Area<br></div>
-                    <div class="fade-in-text" data-delay="400">high school students an opportunity tocompete with peers and solve<br></div>
-                    <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br></div>
-                </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="FAQ">
-        <div class="container">
-            <div class="fade-in-text" data-delay="0"><div class="heading"> FREQUENTLY ASKED QUESTIONS </div></div> 
-            <div class="row">
-                <div class="col-lg-6 col-12">
-                    <div class="fade-in-text" data-delay="100"><div class="question"> WHERE WILL BAPC BE HELD? </div></div>
-                    <div class="fade-in-text" data-delay="200"><div class="answer"> BAPC will be held in the Titan Gym at Gunn High School. There will be an online mirror for those who can't make it. </div></div>
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="fade-in-text" data-delay="300"><div class="question"> HOW DO I REGISTER? </div></div>
-                    <div class="fade-in-text" data-delay="400"><div class="answer"> Registration is not open yet. Check back later! </div></div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-6 col-12">
-                    <div class="fade-in-text" data-delay="500"><div class="question"> WHAT IS THE FORMAT OF THE CONTEST? </div></div>
-                    <div class="fade-in-text" data-delay="600"><div class="answer"> The contest will be a 3 hour long ICPC style contest. You will be given between 8 and 16 problems to solve with your team. </div></div> 
-                </div>
-                <div class="col-lg-6 col-12">
-                    <div class="fade-in-text" data-delay="700"><div class="question"> HOW MANY PEOPLE CAN BE ON A TEAM? </div></div>
-                    <div class="fade-in-text" data-delay="800"><div class="answer"> Teams may have up to 3 members. </div></div>
+                    <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
+                        designed by<br></div>
+                    <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
+                        Area<br></div>
+                    <div class="fade-in-text" data-delay="400">high school students an opportunity tocompete with peers
+                        and solve<br></div>
+                    <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-    <div class="Sponsors">
-        <div class="container">
-            <div class="heading"> Our Sponsors </div>
-            <div class="row">
-                <div class="col-lg-4 col-12">
-                    <img src="/images/BAPC_Logo.png" style="width: 20%;">
+<div class="FAQ">
+    <div class="container">
+        <div class="fade-in-text" data-delay="0">
+            <div class="heading"> FREQUENTLY ASKED QUESTIONS</div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-12">
+                <div class="fade-in-text" data-delay="100">
+                    <div class="question"> WHERE WILL BAPC BE HELD?</div>
                 </div>
-                <div class="col-lg-4 col-12">
-                    <img src="/CPC.png" style="width: 20%;">
+                <div class="fade-in-text" data-delay="200">
+                    <div class="answer"> BAPC will be held in the Titan Gym at Gunn High School. There will be an online
+                        mirror for those who can't make it.
+                    </div>
                 </div>
-                <div class="col-lg-4 col-12">
-                    <img src="/images/background_green.png" style="width: 20%;">
+            </div>
+            <div class="col-lg-6 col-12">
+                <div class="fade-in-text" data-delay="300">
+                    <div class="question"> HOW DO I REGISTER?</div>
+                </div>
+                <div class="fade-in-text" data-delay="400">
+                    <div class="answer"> Registration is not open yet. Check back later!</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6 col-12">
+                <div class="fade-in-text" data-delay="500">
+                    <div class="question"> WHAT IS THE FORMAT OF THE CONTEST?</div>
+                </div>
+                <div class="fade-in-text" data-delay="600">
+                    <div class="answer"> The contest will be a 3 hour long ICPC style contest. You will be given between
+                        8 and 16 problems to solve with your team.
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-12">
+                <div class="fade-in-text" data-delay="700">
+                    <div class="question"> HOW MANY PEOPLE CAN BE ON A TEAM?</div>
+                </div>
+                <div class="fade-in-text" data-delay="800">
+                    <div class="answer"> Teams may have up to 3 members.</div>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-    
+<div class="Sponsors">
+    <div class="container">
+        <div class="heading"> Our Sponsors</div>
+        <div class="row">
+            <div class="col-lg-4 col-12">
+                <img src="/images/BAPC_Logo.png" style="width: 20%;">
+            </div>
+            <div class="col-lg-4 col-12">
+                <img src="/images/CPC_Logo.png" style="width: 20%;">
+            </div>
+            <div class="col-lg-4 col-12">
+                <img src="/images/background_green.png" style="width: 20%;">
+            </div>
+        </div>
+    </div>
+</div>
 
-    
 
-    <footer>
-        <p>&copy; 2024 Bay Area Porgramming Competition. All rights reserved.</p>
-    </footer>
+<footer>
+    <p>&copy; 2024 Bay Area Programming Competition. All rights reserved.</p>
+</footer>
 </body>
 </html>
 
