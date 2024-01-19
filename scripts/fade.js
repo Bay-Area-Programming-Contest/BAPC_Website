@@ -1,15 +1,13 @@
-// custom_script.js
-
 document.addEventListener('DOMContentLoaded', function() {
-    var fadeTexts = document.querySelectorAll('.fade-in-text');
+    const fadeTexts = document.querySelectorAll('.fade-in-text');
 
-    var options = {
+    const options = {
         root: null,
         rootMargin: '0px',
         threshold: 0.5
     };
 
-    var observer = new IntersectionObserver(function(entries, observer) {
+    const observer = new IntersectionObserver(function(entries, observer) {
         entries.forEach(function(entry) {
             if (entry.isIntersecting) {
                 setTimeout(function() {

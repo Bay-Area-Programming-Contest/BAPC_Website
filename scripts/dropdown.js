@@ -1,14 +1,11 @@
-// custom_script.js
-
-// JavaScript code
 document.addEventListener('DOMContentLoaded', function() {
-    var collapsibleBtns = document.querySelectorAll('.collapsible-btn');
+    const collapsibleBtns = document.querySelectorAll('.collapsible-btn');
 
     collapsibleBtns.forEach(function(btn) {
         btn.addEventListener('click', function() {
-            var card = btn.closest('.collapsible');
-            var content = card.querySelector('.card-content');
-            var toggleIcon = btn.querySelector('.toggle-icon');
+            const card = btn.closest('.collapsible');
+            const content = card.querySelector('.card-content');
+            const toggleIcon = btn.querySelector('.toggle-icon');
 
             card.classList.toggle('expanded');
 
@@ -22,14 +19,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function expandElement(element, iconElement) {
         iconElement.textContent = '\u2212'; // Change the icon to "-"
-        var maxHeight = element.scrollHeight;
-        var duration = 100; // Set the duration of the animation in milliseconds
-        var interval = 10; // Set the interval for each step in milliseconds
-        var steps = duration / interval;
-        var stepHeight = maxHeight / steps;
+        const maxHeight = element.scrollHeight;
+        const duration = 100; // Set the duration of the animation in milliseconds
+        const interval = 10; // Set the interval for each step in milliseconds
+        const steps = duration / interval;
+        const stepHeight = maxHeight / steps;
 
-        var currentHeight = 0;
-        var intervalId = setInterval(function() {
+        let currentHeight = 0;
+        const intervalId = setInterval(function() {
             currentHeight += stepHeight;
             element.style.maxHeight = currentHeight + 'px';
 
@@ -42,14 +39,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function collapseElement(element, iconElement) {
         iconElement.textContent = '\u002B'; // Change the icon to "+"
-        var maxHeight = element.scrollHeight;
-        var duration = 100; // Set the duration of the animation in milliseconds
-        var interval = 10; // Set the interval for each step in milliseconds
-        var steps = duration / interval;
-        var stepHeight = maxHeight / steps;
+        const maxHeight = element.scrollHeight;
+        const duration = 100; // Set the duration of the animation in milliseconds
+        const interval = 10; // Set the interval for each step in milliseconds
+        const steps = duration / interval;
+        const stepHeight = maxHeight / steps;
 
-        var currentHeight = maxHeight;
-        var intervalId = setInterval(function() {
+        let currentHeight = maxHeight;
+        const intervalId = setInterval(function() {
             currentHeight -= stepHeight;
             element.style.maxHeight = currentHeight + 'px';
 
