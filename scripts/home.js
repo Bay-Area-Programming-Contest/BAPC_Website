@@ -3,7 +3,7 @@ function scrollToSection() {
     secondSection.scrollIntoView({behavior: 'smooth'});
 }
 
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener("load", () => {
     // Delay the appearance of the button by 2000 milliseconds (2 seconds)
     setTimeout(function () {
         const delayedButton = document.getElementById('delayed-button');
