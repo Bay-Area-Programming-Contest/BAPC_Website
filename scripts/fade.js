@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener("load", () => {
     const fadeTexts = document.querySelectorAll('.fade-in-text');
 
     const options = {
@@ -7,10 +7,10 @@ document.addEventListener('DOMContentLoaded', function() {
         threshold: 0.5
     };
 
-    const observer = new IntersectionObserver(function(entries, observer) {
-        entries.forEach(function(entry) {
+    const observer = new IntersectionObserver(function (entries, observer) {
+        entries.forEach(function (entry) {
             if (entry.isIntersecting) {
-                setTimeout(function() {
+                setTimeout(function () {
                     entry.target.classList.add('fade-in');
                 }, entry.target.dataset.delay);
             } else {
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }, options);
 
-    fadeTexts.forEach(function(text) {
+    fadeTexts.forEach(function (text) {
         observer.observe(text);
     });
 });
