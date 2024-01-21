@@ -1,7 +1,7 @@
 window.addEventListener("load", () => {
     const links = document.querySelectorAll("a.cipher");
     const solveMilliseconds = 2000;
-    const characterSelectionMilliseconds = 20;
+    const characterSelectionMilliseconds = 50;
     const delayMilliseconds = 0;
     const characters = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*#@/*!%&^"];
 
@@ -10,7 +10,7 @@ window.addEventListener("load", () => {
     };
 
     links.forEach((element) => {
-        element.addEventListener("mouseenter", (e) => {
+        element.addEventListener("load", (e) => {
             const element = e.target;
             scrambleText(element);
             e.preventDefault();
