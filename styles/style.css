@@ -405,16 +405,24 @@ tbody {
 }
 
 
-
+.namecards {
+    display: grid;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    gap: 0px;
+    grid-template-columns: repeat(1, 1fr); /* Adjust the number of columns as needed */
+    align-items: center;
+    justify-content: center;
+}
 
 .namecard {
-    width: 100%;
-    height: 40vh;
+    width: auto;
+    height: 100vw;
     position: relative;
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     border-radius: 20px;
     flex: 1;
 }
@@ -449,8 +457,11 @@ tbody {
 .namecard .namecard-back h1{
     font-weight: 1000;
     color: #ff1144;
-    font-size: 25px;
-    margin: 30px;
+    font-size: 4vw;
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+
 }
 
 
@@ -477,6 +488,7 @@ tbody {
     text-align: center;
     align-items: top;
     display: grid;
+    grid-template-rows: auto 20%;
     place-items: center;
     position: absolute;
     backface-visibility: hidden; /* Hide the back face of the card */
@@ -487,14 +499,14 @@ tbody {
 .namecard h1{
     font-weight: 1000;
     color: #ff1144;
-    font-size: 30px;
+    font-size: 5vw;
     margin: 0px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .namecard p{
     color: #ff1144;
-    font-size: 20px;
+    font-size: 4vw;
     margin-top: 5px;
 }
 
@@ -516,8 +528,8 @@ tbody {
 .nameplate {
     transition: box-shadow 0.3s;
     position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 5vw;
+    margin-right: 5vw;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 20px;
@@ -527,33 +539,50 @@ tbody {
     flex: 1;
 }
 
-.nameplate tr{
-    display: flex;
-    align-items: left;
-    padding: 0px;;
+.nameplate-inner {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: top;
+    display: grid;
+    place-items: center;
 }
 
-.nameplate th{
+.nameplate-logo{
+    width: 100%;
+    height: 100%;
     padding: 0px;
     margin: 0px;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-    gap: 10px; /* Adjust the gap between divs */
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-.nameplate h1{
+.nameplate-name{
     font-weight: 1000;
     color: #ff1144;
-    font-size: 60px;
-    margin: 0px;
-    margin-top: 50px;
 }
 
-.nameplate p{
+.nameplate-name h1{
     font-weight: 1000;
     color: #ff1144;
-    font-size: 40px;
-    margin: 50px;
+    font-size: 5vw;
+    margin: 0;
+    margin-top: -5vw;
+}
+
+.nameplate-name p{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 4vw;
+    margin: 0;
+}
+
+.nameplate-text{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 3vw;
+    margin: 3vw;
     margin-top: 5px;
 }
 
@@ -592,4 +621,143 @@ tbody {
 }
 
 
+@media (min-width: 800px) {
+    .namecards {
+        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+    }
+    .namecard{
+        height: 55vw;
+    }
+    .namecard .namecard-back h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 2.5vw;
+        margin: 10px;
+        margin-left: 30px;
+        margin-right: 30px;
+    
+    }
 
+    .namecard h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 3vw;
+        margin: 0px;
+        margin-top: 20px;
+    }
+    
+    .namecard p{
+        color: #ff1144;
+        font-size: 2vw;
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .namecards {
+        grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    }   
+    .nameplate-inner{
+        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+        grid-template-rows: 35vw 1fr; /* Adjust the number of columns as needed */
+    }
+    .nameplate-name h1{
+        font-size: 7vw;
+        margin-right: 20px;
+        margin-top: 3vw;
+    }
+    .nameplate-name p{
+        font-size: 5.5vw;
+        margin-right: 20px;
+        margin-top: 0px;
+    }
+    .nameplate-logo{
+        grid-row-start: 1;
+        grid-column-start: 1;
+    }
+    .nameplate-text{
+        grid-row-start: 2;
+        grid-column-start: span 2;
+        font-size: 3vw;
+    }
+    .namecard{
+        height: 35vw;
+    }
+    .namecard .namecard-back h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 1.7vw;
+        margin: 10px;
+        margin-left: 30px;
+        margin-right: 30px;
+    
+    }
+
+    .namecard h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 2.5vw;
+        margin: 0px;
+        margin-top: 5px;
+    }
+    
+    .namecard p{
+        color: #ff1144;
+        font-size: 1.5vw;
+        margin-top: 5px;
+    }
+}
+
+@media (min-width: 1500px) {
+    .namecards {
+        grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as needed */
+    }  
+    .nameplate-name h1{
+        font-size: 4vw;
+        margin-right: 20px;
+        margin-top: 3vw;
+    }
+    .nameplate-name p{
+        font-size: 3.5vw;
+        margin-right: 20px;
+        margin-top: 0px;
+    }
+    .nameplate-text{
+        grid-row-start: 2;
+        grid-column-start: 2;
+        font-size: 2vw;
+    }
+    .nameplate-logo{
+        grid-row-start: span 2;
+        grid-column-start: 1;
+    }
+    .nameplate-inner{
+        grid-template-columns: 35vw auto; /* Adjust the number of columns as needed */
+        grid-template-rows: 13vw 1fr; /* Adjust the number of columns as needed */
+    }
+    .namecard{
+        height: 25vw;
+    }
+    .namecard .namecard-back h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 1.3vw;
+        margin: 10px;
+        margin-left: 30px;
+        margin-right: 30px;
+    
+    }
+    .namecard h1{
+        font-weight: 1000;
+        color: #ff1144;
+        font-size: 2vw;
+        margin: 0px;
+        margin-top: 5px;
+    }
+    
+    .namecard p{
+        color: #ff1144;
+        font-size: 1.1vw;
+        margin-top: 5px;
+    }
+}
