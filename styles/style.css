@@ -12,23 +12,10 @@
 	flex-direction:column;
 	align-items:center;
 	justify-content:center;
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
 }
 
-.blur-section {
-    width: 100%;
-    height: 100px; /* Adjust the height of the blurred section as needed */
-    margin: 0;
-    top: 0px;
-    position: absolute;
-    background: black;
-    /*filter: blur(10px); /* Adjust the blur radius as needed */
-
-}
-
-/*200px = 700%*/
-/*200px = 11.5vw*/
 
 a.cipher {
     color: #ff1144;
@@ -69,8 +56,8 @@ main div.Register a{
 	height:3vw;
     text-align: center;
     background-color: black;
-    border-radius: 10px;
-    outline: 2px solid #ff1144;
+    border-radius: 0.575vw;
+    outline: 0.115vw solid #ff1144;
     padding-left: 3vw;
     padding-right: 3vw;
     padding-top: 1.2vw;
@@ -91,8 +78,8 @@ main div.Register a:hover{
 	cursor:pointer;
 	height:3vw;
     text-align: center;
-    border-radius: 10px;
-    box-shadow: 0 0 20px 1px rgb(255, 0, 0);
+    border-radius: 0.575vw;
+    box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
     background-color: #000000;
 }
 
@@ -106,7 +93,7 @@ main div.Register a:hover{
     color: #fcfcfc;
     font-family: "Jura", monospace;
     font-size: 2.2vw;
-    letter-spacing: 5px;
+    letter-spacing: 0.2875vw;
     text-decoration: none;
     text-align: center;
     background-color: black;
@@ -120,11 +107,11 @@ main div.Register a:hover{
     font-family: "Jura", monospace;
     font-size: 6vw;
     font-weight: 1000;
-    letter-spacing: 5px;
+    letter-spacing: 0.2875vw;
     text-decoration: none;
     text-align: center;
     background-color: #000000;
-    border-radius: 20px;
+    border-radius: 1.15vw;
 }
 
 .FAQ{
@@ -134,7 +121,7 @@ main div.Register a:hover{
     color: #ff1144;
     font-family: "Jura", monospace;
     font-size: 3rem;
-    letter-spacing: 5px;
+    letter-spacing: 0.2875vw;
     text-decoration: none;
     text-align: center;
     background-color: #000000;
@@ -143,16 +130,16 @@ main div.Register a:hover{
 
 .question{
     padding: 1.2vw;
-    margin: 5px;
+    margin: 0.2875vw;
     position: relative;
     color: #ff1144;
     font-family: "Jura", monospace;
     font-size: 2rem;
-    letter-spacing: 2px;
+    letter-spacing: 0.115vw;
     text-decoration: none;
     text-align: left;
     background-color: #000000;
-    border-radius: 10px;
+    border-radius: 0.575vw;
 }
 
 .answer{
@@ -162,11 +149,11 @@ main div.Register a:hover{
     color: #fcfcfc;
     font-family: "Jura", monospace;
     font-size: 1.2rem;
-    letter-spacing: 2px;
+    letter-spacing: 0.115vw;
     text-decoration: none;
     text-align: left;
     background-color: #000000;
-    border-radius: 10px;
+    border-radius: 0.575vw;
 }
 
 .Sponsors{
@@ -176,11 +163,11 @@ main div.Register a:hover{
     color: #ff1144;
     font-family: "Jura", monospace;
     font-size: 4rem;
-    letter-spacing: 5px;
+    letter-spacing: 0.2875vw;
     text-decoration: none;
     text-align: center;
     background-color: #000000;
-    border-radius: 20px;
+    border-radius: 1.15vw;
 }
 
 /* every other page*/
@@ -192,8 +179,8 @@ main {
 	flex-direction:column;
 	align-items:center;
 	justify-content:center;
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
 }
 
 #logo {
@@ -258,15 +245,14 @@ main nav a:hover {
 
 body {
     background-color: black;
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
 }
 
 .title{
     color: white;
     text-align: center;
-    padding: 5px;
-    margin-left: 50px;
+    padding: 0.2875vw;
     font-size: 2vw;
     font-family: "Jura", monospace;
     font-weight: bold;
@@ -274,35 +260,17 @@ body {
 }
 
 
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: auto;
-    justify-content: space-between;
-}
-
-th, td {
-    padding: 15px;
-    text-align: center;
-}
-
-tr{
-    display: flex;
-    align-items: top;
-    justify-content: center;
-}
-
 .card-nonglow,
 .card {
     transition: box-shadow 0.3s;
     position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
     border-radius: 37px;
     background-color: black;
-    border: 4px solid #ff1144;
+    border: 0.23vw solid #ff1144;
     padding: 25px;
     font-family: "Jura", monospace;
     flex: 1;
@@ -326,21 +294,21 @@ tr{
 
 .ruleslist{
     color: rgb(255, 255, 255);
-    font-size: 20px;
+    font-size: 1.15vw;
     text-align: left;
     align-items: left;
 }
 
 tbody {
     display: flex;
-    gap: 0px; /* Adjust the gap as needed */
-    margin-left: 100px;
-    margin-right: 100px;
+    gap: 0; /* Adjust the gap as needed */
+    margin-left: 5.75vw;
+    margin-right: 5.75vw;
 }
 
 .collapsible{
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 5.75vw;
+    margin-right: 5.75vw;
 }
 
 .collapsible-btn {
@@ -349,8 +317,8 @@ tbody {
     color: #ff1144;
     font-family: "Jura", monospace;
     font-weight: 1000;
-    border-radius: 10px;
-    padding: 20px;
+    border-radius: 0.575vw;
+    padding: 1.15vw;
     align-self: center;
     cursor: pointer;
     width: 100%;
@@ -370,11 +338,11 @@ tbody {
 
 .card-content {
     border-top: 3px solid #ff1144;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
     max-height: 0;
     color: #ff1144;
-    padding-left: 20px;
+    padding-left: 1.15vw;
     overflow: hidden;
     transition: max-height 0.5s ease-out; /* Add animation transition for dropping down and collapsing */
     opacity: 0;
@@ -382,12 +350,12 @@ tbody {
 }
 
 .card-content h1 {
-    font-size: 30px;
+    font-size: 1.725vw;
 }
 
 .card-content p{
-    font-size: 20px;
-    margin-left: 20px;
+    font-size: 1.15vw;
+    margin-left: 1.15vw;
 }
 
 .collapsible.expanded .card-content {
@@ -409,7 +377,7 @@ tbody {
     display: grid;
     margin-left: 5vw;
     margin-right: 5vw;
-    gap: 0px;
+    gap: 0;
     grid-template-columns: repeat(1, 1fr); /* Adjust the number of columns as needed */
     align-items: center;
     justify-content: center;
@@ -419,23 +387,23 @@ tbody {
     width: auto;
     height: 100vw;
     position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-radius: 20px;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
+    border-radius: 1.15vw;
     flex: 1;
 }
 
 .namecard-front {
     position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-radius: 20px;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
+    border-radius: 1.15vw;
     background-color: black;
-    border: 4px solid #ff1144;
+    border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
     flex: 1;
 }
@@ -443,13 +411,13 @@ tbody {
 .namecard-back{
     transform: rotateY(180deg);
     position: relative;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-radius: 20px;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
+    border-radius: 1.15vw;
     background-color: black;
-    border: 4px solid #ff1144;
+    border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
     flex: 1;
 }
@@ -458,9 +426,9 @@ tbody {
     font-weight: 1000;
     color: #ff1144;
     font-size: 4vw;
-    margin: 10px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: 0.575vw;
+    margin-left: 1.725vw;
+    margin-right: 1.725vw;
 
 }
 
@@ -483,8 +451,8 @@ tbody {
 .namecard-face {
     width: 100%;
     height: 100%;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     text-align: center;
     align-items: top;
     display: grid;
@@ -500,14 +468,14 @@ tbody {
     font-weight: 1000;
     color: #ff1144;
     font-size: 5vw;
-    margin: 0px;
-    margin-top: 10px;
+    margin: 0;
+    margin-top: 0.575vw;
 }
 
 .namecard p{
     color: #ff1144;
     font-size: 4vw;
-    margin-top: 5px;
+    margin-top: 0.2875vw;
 }
 
 .circle-cutout {
@@ -515,7 +483,7 @@ tbody {
     height: auto; /* Set the desired height */
     overflow: hidden;
     border-radius: 25%; /* Make the container circular */
-    margin-bottom: 20px;
+    margin-bottom: 1.15vw;
 }
 
 .circle-cutout img {
@@ -530,11 +498,11 @@ tbody {
     position: relative;
     margin-left: 5vw;
     margin-right: 5vw;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    border-radius: 20px;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
+    border-radius: 1.15vw;
     background-color: black;
-    border: 4px solid #ff1144;
+    border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
     flex: 1;
 }
@@ -551,8 +519,8 @@ tbody {
 .nameplate-logo{
     width: 100%;
     height: 100%;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -583,7 +551,7 @@ tbody {
     color: #ff1144;
     font-size: 3vw;
     margin: 3vw;
-    margin-top: 5px;
+    margin-top: 0.2875vw;
 }
 
 .socials{
@@ -594,7 +562,7 @@ tbody {
 }
 
 .socials:hover{
-    transform: translateY(-2px);
+    transform: translateY(-0.115vw);
     transition: all 0.3s ease-in-out;
 }
 
@@ -607,7 +575,7 @@ tbody {
 }
 
 .svg-buttons {
-    margin-bottom: 0px; /* Adjust margin as needed */
+    margin-bottom: 0; /* Adjust margin as needed */
 }
 
 .svg-buttons svg {
@@ -616,7 +584,7 @@ tbody {
     align-items: center;
     justify-content: center;
     justify-items: center;
-    margin: 2px; /* Adjust margin as needed */
+    margin: 0.115vw; /* Adjust margin as needed */
     cursor: pointer;
 }
 
@@ -632,9 +600,9 @@ tbody {
         font-weight: 1000;
         color: #ff1144;
         font-size: 2.5vw;
-        margin: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
+        margin: 0.575vw;
+        margin-left: 1.725vw;
+        margin-right: 1.725vw;
     
     }
 
@@ -642,14 +610,14 @@ tbody {
         font-weight: 1000;
         color: #ff1144;
         font-size: 3vw;
-        margin: 0px;
-        margin-top: 20px;
+        margin: 0;
+        margin-top: 1.15vw;
     }
     
     .namecard p{
         color: #ff1144;
         font-size: 2vw;
-        margin-top: 5px;
+        margin-top: 0.2875vw;
     }
 }
 
@@ -663,13 +631,13 @@ tbody {
     }
     .nameplate-name h1{
         font-size: 7vw;
-        margin-right: 20px;
+        margin-right: 1.15vw;
         margin-top: 3vw;
     }
     .nameplate-name p{
         font-size: 5.5vw;
-        margin-right: 20px;
-        margin-top: 0px;
+        margin-right: 1.15vw;
+        margin-top: 0;
     }
     .nameplate-logo{
         grid-row-start: 1;
@@ -687,9 +655,9 @@ tbody {
         font-weight: 1000;
         color: #ff1144;
         font-size: 1.7vw;
-        margin: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
+        margin: 0.575vw;
+        margin-left: 1.725vw;
+        margin-right: 1.725vw;
     
     }
 
@@ -697,14 +665,14 @@ tbody {
         font-weight: 1000;
         color: #ff1144;
         font-size: 2.5vw;
-        margin: 0px;
-        margin-top: 5px;
+        margin: 0;
+        margin-top: 0.2875vw;
     }
     
     .namecard p{
         color: #ff1144;
         font-size: 1.5vw;
-        margin-top: 5px;
+        margin-top: 0.2875vw;
     }
 }
 
@@ -714,13 +682,13 @@ tbody {
     }  
     .nameplate-name h1{
         font-size: 4vw;
-        margin-right: 20px;
+        margin-right: 1.15vw;
         margin-top: 3vw;
     }
     .nameplate-name p{
         font-size: 3.5vw;
-        margin-right: 20px;
-        margin-top: 0px;
+        margin-right: 1.15vw;
+        margin-top: 0;
     }
     .nameplate-text{
         grid-row-start: 2;
@@ -742,22 +710,22 @@ tbody {
         font-weight: 1000;
         color: #ff1144;
         font-size: 1.3vw;
-        margin: 10px;
-        margin-left: 30px;
-        margin-right: 30px;
+        margin: 0.575vw;
+        margin-left: 1.725vw;
+        margin-right: 1.725vw;
     
     }
     .namecard h1{
         font-weight: 1000;
         color: #ff1144;
-        font-size: 2vw;
-        margin: 0px;
-        margin-top: 5px;
+        font-size: 1.9vw;
+        margin: 0;
+        margin-top: 0.2875vw;
     }
     
     .namecard p{
         color: #ff1144;
         font-size: 1.1vw;
-        margin-top: 5px;
+        margin-top: 0.2875vw;
     }
 }
