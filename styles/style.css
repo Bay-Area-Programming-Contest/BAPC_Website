@@ -260,6 +260,24 @@ body {
 }
 
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+}
+
+tr{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+
 .card-nonglow,
 .card {
     transition: box-shadow 0.3s;
