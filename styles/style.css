@@ -60,22 +60,21 @@ main div.Register a{
     align-items: center;
     justify-content: center;
 	color:#ff1144;
-    font-size:3em;
+    font-size:2.8vw;
     font-family: "Jura", monospace;
     font-weight: bold;
 	text-decoration:none;
 	padding:0.5em;
 	cursor:pointer;
-	height:50px;
+	height:3vw;
     text-align: center;
-    border-radius: 3px;
     background-color: black;
     border-radius: 10px;
     outline: 2px solid #ff1144;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 1.2vw;
+    padding-bottom: 1.2vw;
     
 }
 
@@ -85,12 +84,12 @@ main div.Register a:hover{
     align-items: center;
     justify-content: center;
 	color: #ff1144;
-    font-size:3em;
+    font-size:2.8vw;
     font-family: "Jura", monospace;
     font-weight: bold;
 	text-decoration:none;
 	cursor:pointer;
-	height:50px;
+	height:3vw;
     text-align: center;
     border-radius: 10px;
     box-shadow: 0 0 20px 1px rgb(255, 0, 0);
@@ -100,27 +99,26 @@ main div.Register a:hover{
 .WhatIsBAPC{
     min-height: 100vh;
     background-position:50% 50%;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     line-height: 200%;
     position: relative;
     color: #fcfcfc;
     font-family: "Jura", monospace;
-    font-size: 32px;
+    font-size: 2.2vw;
     letter-spacing: 5px;
     text-decoration: none;
     text-align: center;
     background-color: black;
-    border-radius: 30px;
 }
 
 .WhatIsBAPC .heading{
-    margin: 50px;
-    padding-top: 100px;
+    margin: 3vw;
+    padding-top: 5.5vw;
     position: relative;
     color: #ff1144;
     font-family: "Jura", monospace;
-    font-size: 5rem;
+    font-size: 6vw;
     font-weight: 1000;
     letter-spacing: 5px;
     text-decoration: none;
@@ -130,8 +128,8 @@ main div.Register a:hover{
 }
 
 .FAQ{
-    padding: 20px;
-    margin: 50px;
+    padding: 1.2vw;
+    margin: 3vw;
     position: relative;
     color: #ff1144;
     font-family: "Jura", monospace;
@@ -140,11 +138,11 @@ main div.Register a:hover{
     text-decoration: none;
     text-align: center;
     background-color: #000000;
-    border-radius: 20px;
+    border-radius: 1.2vw;
 }
 
 .question{
-    padding: 20px;
+    padding: 1.2vw;
     margin: 5px;
     position: relative;
     color: #ff1144;
@@ -158,8 +156,8 @@ main div.Register a:hover{
 }
 
 .answer{
-    padding: 20px;
-    margin: 30px;
+    padding: 1.2vw;
+    margin: 1.8vw;
     position: relative;
     color: #fcfcfc;
     font-family: "Jura", monospace;
@@ -172,8 +170,8 @@ main div.Register a:hover{
 }
 
 .Sponsors{
-    padding: 20px;
-    margin: 50px;
+    padding: 1.2vw;
+    margin: 3vw;
     position: relative;
     color: #ff1144;
     font-family: "Jura", monospace;
@@ -244,7 +242,7 @@ main nav a {
 	text-decoration:none;
 	padding:0.5em;
 	cursor:pointer;
-	height:50px;
+	height:3vw;
     text-align: center;
     background-color: #000000;
     border-radius: 3px;
@@ -446,6 +444,13 @@ tbody {
     border: 4px solid #ff1144;
     font-family: "Jura", monospace;
     flex: 1;
+}
+
+.namecard .namecard-back h1{
+    font-weight: 1000;
+    color: #ff1144;
+    font-size: 25px;
+    margin: 30px;
 }
 
 
