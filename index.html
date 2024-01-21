@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="/scripts/cipherscript.js" type="text/javascript"></script>
-    <script src="/scripts/fade.js" type="text/javascript"></script>
+    <script src="/scripts/cipherscript.js" async defer type="text/javascript"></script>
+    <script src="/scripts/home.js" async defer type="text/javascript"></script>
+    <script src="/scripts/fade.js" async defer type="text/javascript"></script>
     <link rel="stylesheet" href="/styles/style.css">
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     <title>BAPC 2024 | Bay Area Programming Contest</title>
@@ -36,57 +37,20 @@
     <img id="delayed-button"
          style="display: none;opacity: 0;transition: opacity 2s ease-out;height: 37px;position: absolute;top: 90%;"
          onclick="scrollToSection()" src="/images/downarrow.png">
-    <script>
-        function scrollToSection() {
-            const secondSection = document.getElementsByClassName('WhatIsBAPC')[0];
-            secondSection.scrollIntoView({behavior: 'smooth'});
-        }
-    </script>
-    <script>
-        // Delay the appearance of the button by 2000 milliseconds (2 seconds)
-        setTimeout(function () {
-            const delayedButton = document.getElementById('delayed-button');
-            delayedButton.style.display = 'block'; // Show the button
-            setTimeout(function () {
-                delayedButton.style.opacity = '1'; // Make the button visible
-            }, 50);
-        }, 2000);
-    </script>
-    <!--make the image bounce up and down smoothly-->
-    <script>
-        const delayedButton = document.getElementById('delayed-button');
-        let bounceUp = true;
-        let position = 90;
-        setInterval(function () {
-            if (bounceUp) {
-                position += 0.01;
-                delayedButton.style.top = position + '%';
-                if (position >= 91) {
-                    bounceUp = false;
-                }
-            } else {
-                position -= 0.01;
-                delayedButton.style.top = position + '%';
-                if (position <= 90) {
-                    bounceUp = true;
-                }
-            }
-        }, 7);
-    </script>
 </main>
 
 <div class="WhatIsBAPC">
     <div class="row">
         <div class="col-lg-7 col-12">
             <div class="fade-in-text" data-delay="0">
-                <div class="heading"> ABOUT BAPC</div>
+                <div class="heading">ABOUT BAPC</div>
                 <div class="bodyText">
                     <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
                     <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
                         designed by<br></div>
                     <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
                         Area<br></div>
-                    <div class="fade-in-text" data-delay="400">high school students an opportunity tocompete with peers
+                    <div class="fade-in-text" data-delay="400">high school students an opportunity to compete with peers
                         and solve<br></div>
                     <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br>
                     </div>
@@ -160,8 +124,6 @@
         </div>
     </div>
 </div>
-
-
 <footer>
     <p>&copy; 2024 Bay Area Programming Competition. All rights reserved.</p>
 </footer>
