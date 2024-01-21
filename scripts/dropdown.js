@@ -1,8 +1,8 @@
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener("load", () => {
     const collapsibleBtns = document.querySelectorAll('.collapsible-btn');
 
-    collapsibleBtns.forEach(function(btn) {
-        btn.addEventListener('click', function() {
+    collapsibleBtns.forEach(function (btn) {
+        btn.addEventListener('click', function () {
             const card = btn.closest('.collapsible');
             const content = card.querySelector('.card-content');
             const toggleIcon = btn.querySelector('.toggle-icon');
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const stepHeight = maxHeight / steps;
 
         let currentHeight = 0;
-        const intervalId = setInterval(function() {
+        const intervalId = setInterval(function () {
             currentHeight += stepHeight;
             element.style.maxHeight = currentHeight + 'px';
 
@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const stepHeight = maxHeight / steps;
 
         let currentHeight = maxHeight;
-        const intervalId = setInterval(function() {
+        const intervalId = setInterval(function () {
             currentHeight -= stepHeight;
             element.style.maxHeight = currentHeight + 'px';
 

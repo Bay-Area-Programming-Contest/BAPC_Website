@@ -1,65 +1,53 @@
-window.onload = function () {
-  const links = document.querySelectorAll("a.cipher");
-  const solveMilliseconds = 2000;
-  const characterSelectionMilliseconds = 20;
-  const delayMilliseconds = 0;
-  const characters = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*#@/*!%&^"];
+window.addEventListener("load", () => {
+    const links = document.querySelectorAll("a.cipher");
+    const solveMilliseconds = 2000;
+    const characterSelectionMilliseconds = 20;
+    const delayMilliseconds = 0;
+    const characters = [..."ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890*#@/*!%&^"];
 
-  const randomArrayElement = (arr) => {
-    return arr[(arr.length * Math.random()) | 0];
-  };
+    const randomArrayElement = (arr) => {
+        return arr[(arr.length * Math.random()) | 0];
+    };
 
-  links.forEach((element) => {
-    element.addEventListener("mouseenter", (e) => {
-      const element = e.target;
-      scrambleText(element);
-      e.preventDefault();
-    });
-    scrambleText(element);
-  });
+    links.forEach((element) => {
+        element.addEventListener("mouseenter", (e) => {
+            const element = e.target;
+            scrambleText(element);
+            e.preventDefault();
+        });
+        scrambleText(element);
+    })
 
-  function scrambleText(element) {
-    if (element.classList.contains("active") === false) {
-      let delay = 0;
-      const elementText = element.innerText;
-      const elementCharacters = [...elementText];
-      const lockMilliseconds =
-        delayMilliseconds * elementCharacters.length + solveMilliseconds;
+    function scrambleText(element) {
+        if (element.classList.contains("active") === false) {
+            let delay = 0;
+            const elementText = element.innerText;
+            const elementCharacters = [...elementText];
+            const lockMilliseconds = delayMilliseconds * elementCharacters.length + solveMilliseconds;
 
-      element.classList.add("active");
+            element.classList.add("active");
 
-      setTimeout(() => {
-        element.classList.remove("active");
-      }, lockMilliseconds);
+            setTimeout(() => {
+                element.classList.remove("active");
+            }, lockMilliseconds);
 
-      elementCharacters.forEach((character, index) => {
-        setTimeout(
-          () => {
-            let intervalId = setInterval(() => {
-              const randomCharacter = randomArrayElement(characters);
-              element.innerText = replaceCharacter(
-                element.innerText,
-                index,
-                randomCharacter
-              );
+            elementCharacters.forEach((character, index) => {
+                setTimeout(() => {
+                    let intervalId = setInterval(() => {
+                        const randomCharacter = randomArrayElement(characters);
+                        element.innerText = replaceCharacter(element.innerText, index, randomCharacter);
 
-              setTimeout(() => {
-                clearInterval(intervalId);
-                element.innerText = replaceCharacter(
-                  element.innerText,
-                  index,
-                  elementCharacters[index]
-                );
-              }, solveMilliseconds);
-            }, characterSelectionMilliseconds);
-          },
-          delay === 0 ? (delay += 1) : (delay += delayMilliseconds)
-        );
-      });
+                        setTimeout(() => {
+                            clearInterval(intervalId);
+                            element.innerText = replaceCharacter(element.innerText, index, elementCharacters[index]);
+                        }, solveMilliseconds);
+                    }, characterSelectionMilliseconds);
+                }, delay === 0 ? (delay += 1) : (delay += delayMilliseconds));
+            });
+        }
     }
-  }
 
-  function replaceCharacter(str, index, chr) {
-    return `${str.substring(0, index)}${chr}${str.substring(index + 1)}`;
-  }
-};
+    function replaceCharacter(str, index, chr) {
+        return `${str.substring(0, index)}${chr}${str.substring(index + 1)}`;
+    }
+});
