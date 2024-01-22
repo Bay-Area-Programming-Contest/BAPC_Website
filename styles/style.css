@@ -87,9 +87,9 @@ main div.Register a:hover{
     display: none;
     opacity: 0;
     transition: opacity 2s ease-out;
-    height: 37px;
+    height: 2.1275vw;
     position: absolute;
-    top: 90%;
+    bottom: 20%;
     padding: 20px;
 }
 
@@ -399,7 +399,7 @@ tbody {
     opacity: 1;
 }
 
-
+.cards
 .namecards {
     display: grid;
     margin-left: 5vw;
@@ -648,7 +648,7 @@ tbody {
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
     }   
