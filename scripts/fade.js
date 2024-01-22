@@ -1,25 +1,20 @@
-window.addEventListener("load", () => {
-    const fadeTexts = document.querySelectorAll('.fade-in-text');
+// Select all the text boxes
+const textBoxes = document.querySelectorAll('.fade-in-text');
 
-    const options = {
-        root: null,
-        rootMargin: '0px',
-        threshold: 0.5
-    };
+// Calculate the center of the screen
+const screenCenter = window.innerHeight / 2;
 
-    const observer = new IntersectionObserver(function (entries, observer) {
-        entries.forEach(function (entry) {
-            if (entry.isIntersecting) {
-                setTimeout(function () {
-                    entry.target.classList.add('fade-in');
-                }, entry.target.dataset.delay);
-            } else {
-                entry.target.classList.remove('fade-in');
-            }
-        });
-    }, options);
+window.addEventListener('scroll', () => {
+  // Iterate over each text box
+  textBoxes.forEach(textBox => {
+    // Calculate the distance of the text box from the center of the screen
+    console.log(textBox.getBoundingClientRect().top, textBox);
+    const distanceFromCenter = Math.abs(screenCenter - (textBox.getBoundingClientRect().top - textBox.getBoundingClientRect().height / 2));
 
-    fadeTexts.forEach(function (text) {
-        observer.observe(text);
-    });
+    // Normalize this distance to a value between 0 and 1
+    const opacity = 1 - Math.min(distanceFromCenter / screenCenter, 1);
+
+    // Set the opacity of the text box
+    textBox.style.opacity = opacity;
+  });
 });
