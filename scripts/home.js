@@ -17,18 +17,19 @@ window.addEventListener("load", () => {
     // make the image bounce up and down smoothly
     const delayedButton = document.getElementById('delayed-button');
     let bounceUp = true;
-    let position = 85;
+    let position = delayedButton.getBoundingClientRect().top;
+    let curposition = position;
     setInterval(function () {
         if (bounceUp) {
-            position += 0.01;
-            delayedButton.style.top = position + '%';
-            if (position >= 86) {
+            curposition += 0.01;
+            delayedButton.style.top = curposition + '%';
+            if (curposition >= position+1) {
                 bounceUp = false;
             }
         } else {
-            position -= 0.01;
-            delayedButton.style.top = position + '%';
-            if (position <= 85) {
+            curposition -= 0.01;
+            delayedButton.style.top = curposition + '%';
+            if (curposition <= position) {
                 bounceUp = true;
             }
         }
