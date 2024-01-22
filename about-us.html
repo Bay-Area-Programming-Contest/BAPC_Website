@@ -7,9 +7,7 @@ title: About Us | Bay Area Programming Contest
 <body>
 {% include navbar.html %}
 <main>
-    <div class="title">
-        <h1>ABOUT US</h1>
-    </div>
+    <h1 class="display-5 text-white text-center">ABOUT US</h1>
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 m-4">
         {% for person in site.data.people %}
@@ -17,7 +15,7 @@ title: About Us | Bay Area Programming Contest
             <div class="card card-flip h-100 text-center bg-black">
                 <div class="card-front card-border p-3">
                     <div>
-                        <h3 class="h3">{{ person.name | upcase }}</h3>
+                        <p class="h3">{{ person.name | upcase }}</p>
                         <p>{{ person.role | upcase }}</p>
                     </div>
                     <div class="circle-cutout">
@@ -26,7 +24,7 @@ title: About Us | Bay Area Programming Contest
                 </div>
                 <div class="card-back card-border d-flex flex-column justify-content-between p-3">
                     <div></div>
-                    <h5>{{ person.description }}</h5>
+                    <p class="h5">{{ person.description }}</p>
                     <div class="svg-buttons">
                         {% if person.codeforces %}
                         <a href="https://codeforces.com/profile/{{ person.codeforces }}" target="_blank"
@@ -68,7 +66,7 @@ title: About Us | Bay Area Programming Contest
                             </div>
                         </div>
                         <div class="col-md-6 text-center d-flex flex-column justify-content-center">
-                            <h3 class="display-1">GUNN CPC</h3>
+                            <p class="display-1">GUNN CPC</p>
                             <p class="display-2">HOST</p>
                             <p class="display-6 d-none d-xl-block text-center">
                                 Gunn CPC is the Competitive Programming Club of Gunn High School in Palo Alto,
