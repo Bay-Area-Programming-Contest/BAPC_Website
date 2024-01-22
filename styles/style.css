@@ -231,19 +231,8 @@ body {
     text-align: left;
 }
 
-.card h1{
-    font-weight: 1000;
+.card {
     color: #ff1144;
-    font-size: 2.3vw;
-}
-
-.card p{
-    color: #F14;
-	text-align: center;
-	font-size: 1.5625vw;
-	font-style: normal;
-	font-weight: 300;
-	line-height: normal;
 }
 
 .ruleslist{
@@ -288,15 +277,6 @@ body {
     overflow: hidden;
     opacity: 0;
     transition: opacity 0.5s ease-in-out; /* Add fade-in animation */
-}
-
-.card-content h1 {
-    font-size: 1.725vw;
-}
-
-.card-content p{
-    font-size: 1.15vw;
-    margin-left: 1.15vw;
 }
 
 .collapsible.expanded .card-content {
