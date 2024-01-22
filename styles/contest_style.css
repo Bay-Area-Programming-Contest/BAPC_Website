@@ -184,16 +184,6 @@ main {
     padding:0px;
 }
 
-#logo {
-    position:absolute;
-    top:10px;
-    left:20px;
-    width:auto;
-    height:80px;
-    margin:0px;
-    padding:0px;
-}
-
 main div {
 	margin:20px;
 	text-align:top;
