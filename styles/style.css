@@ -266,28 +266,20 @@ body {
     height: auto;
 }
 
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: auto;
-    justify-content: space-between;
-}
-
-th, td {
-    padding: 0.87vw;
-    text-align: center;
-}
-
-tr{
-    display: flex;
-    align-items: top;
+.cards {
+    display: grid;
+    margin: 2vw;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    gap: 0;
+    grid-template-columns: repeat(1, 1fr); /* Adjust the number of columns as needed */
+    align-items: center;
     justify-content: center;
 }
 
-.card-nonglow,
-.card {
+.card-nonglow {
     transition: box-shadow 0.3s;
+    height: 80%;
     position: relative;
     margin-left: 1.15vw;
     margin-right: 1.15vw;
@@ -299,6 +291,23 @@ tr{
     padding: 1.5vw;
     font-family: "Jura", monospace;
     flex: 1;
+    text-align: left;
+}
+.card {
+    transition: box-shadow 0.3s;
+    height: 80%;
+    position: relative;
+    margin-left: 1.15vw;
+    margin-right: 1.15vw;
+    margin-top: 1.15vw;
+    margin-bottom: 1.15vw;
+    border-radius: 2.2vw;
+    background-color: black;
+    border: 0.23vw solid #ff1144;
+    padding: 1.5vw;
+    font-family: "Jura", monospace;
+    flex: 1;
+    text-align: center;
 }
 
 .card h1{
@@ -322,13 +331,6 @@ tr{
     font-size: 1.15vw;
     text-align: left;
     align-items: left;
-}
-
-tbody {
-    display: flex;
-    gap: 0; /* Adjust the gap as needed */
-    margin-left: 5.75vw;
-    margin-right: 5.75vw;
 }
 
 .collapsible{
@@ -392,7 +394,6 @@ tbody {
     opacity: 1;
 }
 
-.cards,
 .namecards {
     display: grid;
     margin-left: 5vw;
@@ -613,6 +614,7 @@ tbody {
 
 
 @media (min-width: 800px) {
+
     .namecards {
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
     }
@@ -645,6 +647,16 @@ tbody {
 }
 
 @media (min-width: 1000px) {
+
+    #r1{
+        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+    }
+    #r2{
+        grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    }
+    #r3{
+        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+    }
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
     }   
