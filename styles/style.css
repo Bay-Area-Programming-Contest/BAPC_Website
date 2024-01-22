@@ -399,7 +399,7 @@ tbody {
     opacity: 1;
 }
 
-.cards
+.cards,
 .namecards {
     display: grid;
     margin-left: 5vw;
@@ -648,7 +648,7 @@ tbody {
     }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 1000px) {
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
     }   
