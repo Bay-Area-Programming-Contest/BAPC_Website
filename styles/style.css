@@ -29,7 +29,6 @@ a.cipher {
 
 main div.Summary {
     position: relative;
-    top: 0;
     color: #fcfcfc;
     font-family: "Jura", monospace;
     font-size: 5vw;
@@ -50,18 +49,14 @@ main div.Register a{
     font-family: "Jura", monospace;
     font-weight: bold;
 	text-decoration:none;
-	padding:0.46vw;
+	padding: 3vw;
 	cursor:pointer;
 	height:3vw;
     text-align: center;
     background-color: black;
     border-radius: 0.575vw;
     outline: 0.2vw solid #ff1144;
-    padding-left: 3vw;
-    padding-right: 3vw;
-    padding-top: 1.2vw;
-    padding-bottom: 1.2vw;
-    
+
 }
 
 main div.Register a:hover{
@@ -89,6 +84,7 @@ main div.Register a:hover{
     height: 2.1275vw;
     position: absolute;
     padding: 1.15vw;
+    box-sizing: content-box;
 }
 
 .WhatIsBAPC{
@@ -178,19 +174,6 @@ main div.Register a:hover{
     border-radius: 1.15vw;
 }
 
-/* every other page*/
-main {
-    position: relative;
-    width: 100vw;
-    height: 100px;
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-	justify-content:center;
-    margin:0;
-    padding:0;
-}
-
 #logo {
     position:absolute;
     top:10px;
@@ -199,13 +182,6 @@ main {
     height:80px;
     margin:0;
     padding:0;
-}
-
-main div {
-	margin:1.15vw;
-	text-align:top;
-	background-color: #000000;
-	padding:0;
 }
 
 #row1{
@@ -224,22 +200,11 @@ main div {
     vertical-align: middle;
 }
 
-main nav a {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-	color:white;
-    font-size:1.5em;
+nav.navbar {
+    --bs-navbar-nav-link-padding-x: 1.3rem;
+    --bs-nav-link-font-size: 1.5rem;
+    --bs-nav-link-font-weight: bold;
     font-family: "Jura", monospace;
-    font-weight: bold;
-	text-decoration:none;
-	padding:0.5em;
-	cursor:pointer;
-	height:3vw;
-    text-align: center;
-    background-color: #000000;
-    border-radius: 0.1725vw;
 }
 
 main nav a:hover {
@@ -505,7 +470,7 @@ body {
     height: auto; /* Set the desired height */
     overflow: hidden;
     border-radius: 25%; /* Make the container circular */
-    margin-bottom: 1.15vw;
+    margin: auto auto 1.15vw;
 }
 
 .circle-cutout img {
@@ -614,7 +579,6 @@ body {
 
 
 @media (min-width: 800px) {
-
     .namecards {
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
     }
@@ -629,7 +593,6 @@ body {
         margin: 0.575vw;
         margin-left: 1.725vw;
         margin-right: 1.725vw;
-        
     }
     .nameplate,
     .namecard-back,
@@ -677,7 +640,7 @@ body {
     }
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-    }   
+    }
     .nameplate-inner{
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
         grid-template-rows: 35vw 1fr; /* Adjust the number of columns as needed */
@@ -711,7 +674,6 @@ body {
         margin: 0.575vw;
         margin-left: 1.725vw;
         margin-right: 1.725vw;
-    
     }
 
     .namecard h1{
@@ -721,7 +683,7 @@ body {
         margin: 0;
         margin-top: 0.2875vw;
     }
-    
+
     .namecard p{
         color: #ff1144;
         font-size: 1.5vw;
@@ -738,7 +700,7 @@ body {
 @media (min-width: 1500px) {
     .namecards {
         grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as needed */
-    }  
+    }
     .nameplate-name h1{
         font-size: 4vw;
         margin-right: 1.15vw;
@@ -772,7 +734,6 @@ body {
         margin: 0.575vw;
         margin-left: 1.725vw;
         margin-right: 1.725vw;
-    
     }
     .namecard h1{
         font-weight: 1000;
@@ -781,7 +742,7 @@ body {
         margin: 0;
         margin-top: 0.2875vw;
     }
-    
+
     .namecard p{
         color: #ff1144;
         font-size: 1.1vw;

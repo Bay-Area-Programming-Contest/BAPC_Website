@@ -1,0 +1,12 @@
+- name: index.html
+  link: /
+  title: HOME
+- name: contest.html
+  link: /contest
+  title: BAPC 2024
+- name: archive.html
+  link: /archive
+  title: ARCHIVE
+- name: about-us.html
+  link: /about-us
+  title: ABOUT US

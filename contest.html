@@ -1,75 +1,59 @@
+---
+title: Archive | Bay Area Programming Contest
+---
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="/scripts/dropdown.js" async defer type="text/javascript"></script>
-    <link rel="stylesheet" href="/styles/style.css">
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <title>BAPC 2024 | Bay Area Programming Contest</title>
-</head>
+{% include head.html dropdown="true" %}
 <body>
+{% include navbar.html %}
+
 <main>
-    <a href="/">
-        <img id="logo" class="logo" src="/images/BAPC_Logo.png" alt="BAPC">
-    </a>
-    <nav id="row1">
-        <a href="/">HOME</a>
-        <a href="/contest">BAPC 2024</a>
-        <a href="/archive">ARCHIVE</a>
-        <a href="/about-us">ABOUT US</a>
-    </nav>
-
-</main>
-
-<div class="title">
-    <h1>CONTEST INFORMATION</h1>
-</div>
-
-<div class="cards" id="r1">
-    <div class="card">
-        <h1>TIME & LOCATION</h1>
-        <p>BAPC 2024 will be held at Gunn High School in Palo Alto, California on March 3rd, 2024 from 11:00 AM to
-            4:00 PM. Exact location TBD. </p>
+    <div class="title">
+        <h1>CONTEST INFORMATION</h1>
     </div>
-    <div class="card">
-        <h1>CONTEST FORMAT</h1>
-        <p> The <b>3</b> hour long contest will be held through DomJudge. It will follow ICPC format (explained
-            further in the rules below).</p>
-    </div>  
-    <!-- Add more rows as needed -->
-</div>
 
-<div class="cards" id="r2">
-    <div class="card">
-        <h1>PROBLEMS</h1>
-        <p> You will be given between <b>8</b> and <b>18</b> problems to solve ranging from USACO Bronze to Platinum
-            difficulty. The problems will not be sorted by difficulty.</p>
+    <div class="cards" id="r1">
+        <div class="card">
+            <h1>TIME & LOCATION</h1>
+            <p>BAPC 2024 will be held at Gunn High School in Palo Alto, California on March 3rd, 2024 from 11:00 AM to
+                4:00 PM. Exact location TBD. </p>
+        </div>
+        <div class="card">
+            <h1>CONTEST FORMAT</h1>
+            <p> The <b>3</b> hour long contest will be held through DomJudge. It will follow ICPC format (explained
+                further in the rules below).</p>
+        </div>
+        <!-- Add more rows as needed -->
     </div>
-    <div class="card">
-        <h1>REGISTRATION</h1>
-        <p>The link to register is available <a href="https://forms.gle/yhwt4j8BoG9vKXMZ8" target="_blank" style="color: #ff1144;">here.</a></p>
-        <p>Join the Discord server <a href="https://discord.gg/KeCwPgwE82" target="_blank" style="color: #ff1144;">here.</a></p>
-    </div>
-    <div class="card">
-        <h1>TEAMS</h1>
-        <p> Teams may have at most <b>3</b> members and must use <b>1</b> computer during the contest.</p>
-    </div>
-</div>
 
-<div class="cards" id="r3">
-    <div class="card">
-        <h1>PRIZES</h1>
-        <p>The prizes are TBD. Prizes will only be provided to participants in the in-person contest.</p>
+    <div class="cards" id="r2">
+        <div class="card">
+            <h1>PROBLEMS</h1>
+            <p> You will be given between <b>8</b> and <b>18</b> problems to solve ranging from USACO Bronze to Platinum
+                difficulty. The problems will not be sorted by difficulty.</p>
+        </div>
+        <div class="card">
+            <h1>REGISTRATION</h1>
+            <p>The link to register is available <a href="https://forms.gle/yhwt4j8BoG9vKXMZ8" target="_blank" style="color: #ff1144;">here.</a></p>
+            <p>Join the Discord server <a href="https://discord.gg/KeCwPgwE82" target="_blank" style="color: #ff1144;">here.</a></p>
+        </div>
+        <div class="card">
+            <h1>TEAMS</h1>
+            <p> Teams may have at most <b>3</b> members and must use <b>1</b> computer during the contest.</p>
+        </div>
     </div>
-    <div class="card">
-        <h1>ONLINE MIRROR</h1>
-        <p>We will also be hosting an online mirror for those who cannot make this event in person. There will be a
-            separate set of rules for those taking the contest online (explained in the rules section).</p>
+
+    <div class="cards" id="r3">
+        <div class="card">
+            <h1>PRIZES</h1>
+            <p>The prizes are TBD. Prizes will only be provided to participants in the in-person contest.</p>
+        </div>
+        <div class="card">
+            <h1>ONLINE MIRROR</h1>
+            <p>We will also be hosting an online mirror for those who cannot make this event in person. There will be a
+                separate set of rules for those taking the contest online (explained in the rules section).</p>
+        </div>
     </div>
-</div>
-
-
 
     <div class="collapsible">
         <div class="card-nonglow">
@@ -117,7 +101,6 @@
             </div>
         </div>
     </div>
-
-
+</main>
 </body>
 </html>
