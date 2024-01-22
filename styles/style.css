@@ -89,8 +89,7 @@ main div.Register a:hover{
     transition: opacity 2s ease-out;
     height: 2.1275vw;
     position: absolute;
-    bottom: 20%;
-    padding: 20px;
+    padding: 1.15vw;
 }
 
 .WhatIsBAPC{
@@ -242,14 +241,14 @@ main nav a {
 	height:3vw;
     text-align: center;
     background-color: #000000;
-    border-radius: 3px;
+    border-radius: 0.1725vw;
 }
 
 main nav a:hover {
 	background-color:#000000;
 	color:#ff1144;
     text-shadow: 0 0 10px rgb(255, 0, 0);
-	border-radius:3px;
+	border-radius:0.1725vw;
 }
 
 
@@ -365,7 +364,7 @@ tbody {
 }
 
 .card-content {
-    border-top: 3px solid #ff1144;
+    border-top: 0.1725vw solid #ff1144;
     margin-left: 1.15vw;
     margin-right: 1.15vw;
     max-height: 0;
@@ -387,7 +386,6 @@ tbody {
 }
 
 .collapsible.expanded .card-content {
-    max-height: 400px; /* Adjust the max height as needed */
     opacity: 1;
 }
 
