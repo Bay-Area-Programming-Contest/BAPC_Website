@@ -51,13 +51,13 @@ main div.Register a{
     font-family: "Jura", monospace;
     font-weight: bold;
 	text-decoration:none;
-	padding:0.5em;
+	padding:0.46vw;
 	cursor:pointer;
 	height:3vw;
     text-align: center;
     background-color: black;
     border-radius: 0.575vw;
-    outline: 0.115vw solid #ff1144;
+    outline: 0.2vw solid #ff1144;
     padding-left: 3vw;
     padding-right: 3vw;
     padding-top: 1.2vw;
@@ -198,16 +198,15 @@ main {
     left:20px;
     width:auto;
     height:80px;
-    margin:0px;
-    padding:0px;
+    margin:0;
+    padding:0;
 }
 
 main div {
-	margin:20px;
+	margin:1.15vw;
 	text-align:top;
 	background-color: #000000;
-	border-radius:1px;	
-	padding:0px;
+	padding:0;
 }
 
 #row1{
@@ -277,7 +276,7 @@ table {
 }
 
 th, td {
-    padding: 15px;
+    padding: 0.87vw;
     text-align: center;
 }
 
@@ -295,10 +294,10 @@ tr{
     margin-right: 1.15vw;
     margin-top: 1.15vw;
     margin-bottom: 1.15vw;
-    border-radius: 37px;
+    border-radius: 2.2vw;
     background-color: black;
     border: 0.23vw solid #ff1144;
-    padding: 25px;
+    padding: 1.5vw;
     font-family: "Jura", monospace;
     flex: 1;
 }
@@ -306,7 +305,7 @@ tr{
 .card h1{
     font-weight: 1000;
     color: #ff1144;
-    font-size: 40px;
+    font-size: 2.3vw;
 }
 
 .card p{
@@ -350,7 +349,7 @@ tbody {
     cursor: pointer;
     width: 100%;
     text-align: left;
-    font-size: 40px;
+    font-size: 2.3vw;
 }
 
 .collapsible-btn:hover {
