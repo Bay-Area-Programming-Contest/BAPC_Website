@@ -36,38 +36,19 @@
 
 main div.Register a {
     display: flex;
-    flex-direction: column;
     align-items: center;
-    justify-content: center;
     color: #ff1144;
     font-size: 2.8vw;
-    font-weight: bold;
     text-decoration: none;
-    padding: 3vw;
-    cursor: pointer;
-    height: 3vw;
-    text-align: center;
-    background-color: black;
     border-radius: 0.575vw;
     outline: 0.2vw solid #ff1144;
-
+    padding: 1.2vw 3vw;
 }
 
 main div.Register a:hover {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: #ff1144;
-    font-size: 2.8vw;
     font-weight: bold;
-    text-decoration: none;
-    cursor: pointer;
-    height: 3vw;
-    text-align: center;
     border-radius: 0.575vw;
     box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
-    background-color: #000000;
 }
 
 #delayed-button {
@@ -81,84 +62,48 @@ main div.Register a:hover {
 }
 
 .WhatIsBAPC {
-    min-height: 100vh;
-    background-position: 50% 50%;
-    padding: 0;
-    margin: 0;
     line-height: 200%;
-    position: relative;
-    color: #fcfcfc;
     font-size: 2.2vw;
     letter-spacing: 0.2875vw;
-    text-decoration: none;
-    text-align: center;
-    background-color: black;
 }
 
 .WhatIsBAPC .heading {
     margin: 3vw;
     padding-top: 5.5vw;
-    position: relative;
-    color: #ff1144;
     font-size: 6vw;
-    font-weight: 1000;
-    letter-spacing: 0.2875vw;
-    text-decoration: none;
-    text-align: center;
-    background-color: #000000;
-    border-radius: 1.15vw;
 }
 
 .FAQ {
     padding: 1.2vw;
     margin: 3vw;
-    position: relative;
-    color: #ff1144;
     font-size: 3rem;
     letter-spacing: 0.2875vw;
-    text-decoration: none;
     text-align: center;
-    background-color: #000000;
-    border-radius: 1.2vw;
 }
 
 .question {
     padding: 1.2vw;
     margin: 0.2875vw;
-    position: relative;
-    color: #ff1144;
     font-size: 2rem;
     letter-spacing: 0.115vw;
-    text-decoration: none;
     text-align: left;
-    background-color: #000000;
-    border-radius: 0.575vw;
 }
 
 .answer {
     padding: 1.2vw;
     margin: 1.8vw;
-    position: relative;
     color: #fcfcfc;
     font-size: 1.2rem;
     letter-spacing: 0.115vw;
-    text-decoration: none;
     text-align: left;
-    background-color: #000000;
-    border-radius: 0.575vw;
 }
 
 .Sponsors {
     padding: 1.2vw;
     margin: 3vw;
-    position: relative;
-    color: #ff1144;
     font-size: 4rem;
     letter-spacing: 0.2875vw;
-    text-decoration: none;
     text-align: center;
-    background-color: #000000;
-    border-radius: 1.15vw;
 }
 
 .fade-in-text {
