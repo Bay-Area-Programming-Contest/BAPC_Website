@@ -1,27 +1,12 @@
+---
+title: BAPC 2024 | Bay Area Programming Contest
+---
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="/scripts/cipherscript.js" async defer type="text/javascript"></script>
-    <script src="/scripts/home.js" async defer type="text/javascript"></script>
-    <script src="/scripts/fade.js" async defer type="text/javascript"></script>
-    <link rel="stylesheet" href="/styles/style.css">
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    <title>BAPC 2024 | Bay Area Programming Contest</title>
-</head>
+{% include head.html cipherscript="true" home="true" fade="true" %}
 <body>
+{% include navbar.html %}
 <main class="Home">
-    <a href="/">
-        <img id="logo" class="logo" src="/images/BAPC_Logo.png" alt="BAPC">
-    </a>
-
-    <nav id="row1">
-        <a href="/">HOME</a>
-        <a href="/contest">BAPC 2024</a>
-        <a href="/archive">ARCHIVE</a>
-        <a href="/about-us">ABOUT US</a>
-    </nav>
     <h1>
         <a class="cipher">BAPC 2024</a>
     </h1>
@@ -36,28 +21,26 @@
 </main>
 
 <div class="WhatIsBAPC">
-    <div class="row">
-        <div class="col-lg-7 col-12">
-            <div class="heading" data-delay="0">
-                <div class="fade-in-text">ABOUT BAPC</div>
-            </div>
-                <div class="bodyText">
-                    <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
-                    <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
-                        designed by<br></div>
-                    <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
-                        Area<br></div>
-                    <div class="fade-in-text" data-delay="400">high school students an opportunity to compete with peers
-                        and solve<br></div>
-                    <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br>
-                </div>
+    <div class="col-12">
+        <div class="heading" data-delay="0">
+            <div class="fade-in-text">ABOUT BAPC</div>
+        </div>
+            <div class="bodyText">
+                <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
+                <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
+                    designed by<br></div>
+                <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
+                    Area<br></div>
+                <div class="fade-in-text" data-delay="400">high school students an opportunity to compete with peers
+                    and solve<br></div>
+                <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br>
             </div>
         </div>
     </div>
 </div>
 
 <div class="FAQ">
-    <div class="container">
+    <div class="container-fluid">
         <div class="fade-in-text" data-delay="0">
             <div class="heading"> FREQUENTLY ASKED QUESTIONS</div>
         </div>
@@ -106,16 +89,16 @@
 
 <div class="Sponsors">
     <div class="container">
-        <div class="heading"> Our Sponsors</div>
+        <div class="heading">Our Sponsors</div>
         <div class="row">
             <div class="col-lg-4 col-12">
-                <img src="/images/BAPC_Logo.png" style="width: 20%;">
+                <img src="/images/BAPC_Logo.png" style="width: 80%;">
             </div>
             <div class="col-lg-4 col-12">
-                <img src="/images/CPC_Logo.png" style="width: 20%;">
+                <img src="/images/CPC_Logo.png" style="width: 80%;">
             </div>
             <div class="col-lg-4 col-12">
-                <img src="/images/background_green.png" style="width: 20%;">
+                <img src="/images/background_green.png" style="width: 80%;">
             </div>
         </div>
     </div>
