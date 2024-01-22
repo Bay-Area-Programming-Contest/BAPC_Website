@@ -648,7 +648,7 @@ tbody {
     }
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 1200px) {
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
     }   
