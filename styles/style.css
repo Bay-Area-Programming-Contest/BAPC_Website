@@ -34,7 +34,6 @@ main div.Summary {
     font-size: 5vw;
     letter-spacing: 0.3vw;
     text-decoration: none;
-    text-align: top;
     margin: 0;
     top: -1.2vw;
 }
@@ -235,34 +234,11 @@ body {
 .card-nonglow {
     transition: box-shadow 0.3s;
     height: 80%;
-    position: relative;
-    margin-left: 1.15vw;
-    margin-right: 1.15vw;
-    margin-top: 1.15vw;
-    margin-bottom: 1.15vw;
-    border-radius: 2.2vw;
     background-color: black;
-    border: 0.23vw solid #ff1144;
     padding: 1.5vw;
     font-family: "Jura", monospace;
     flex: 1;
     text-align: left;
-}
-.card {
-    transition: box-shadow 0.3s;
-    height: auto;
-    position: relative;
-    margin-left: 1.15vw;
-    margin-right: 1.15vw;
-    margin-top: 1.15vw;
-    margin-bottom: 1.15vw;
-    border-radius: 2.2vw;
-    background-color: black;
-    border: 0.23vw solid #ff1144;
-    padding: 1.5vw;
-    font-family: "Jura", monospace;
-    flex: 1;
-    text-align: center;
 }
 
 .card h1{
@@ -285,7 +261,6 @@ body {
     color: rgb(255, 255, 255);
     font-size: 1.15vw;
     text-align: left;
-    align-items: left;
 }
 
 .collapsible{
@@ -349,110 +324,34 @@ body {
     opacity: 1;
 }
 
-.namecards {
-    display: grid;
-    margin-left: 5vw;
-    margin-right: 5vw;
-    gap: 0;
-    grid-template-columns: repeat(1, 1fr); /* Adjust the number of columns as needed */
-    align-items: center;
-    justify-content: center;
-}
-
-.namecard {
-    width: auto;
-    height: 100vw;
-    position: relative;
-    margin-left: 1.15vw;
-    margin-right: 1.15vw;
-    margin-top: 1.15vw;
-    margin-bottom: 1.15vw;
+.card-front, .card-back {
     border-radius: 5vw;
-    flex: 1;
-}
-
-.namecard-front {
-    position: relative;
-    margin-left: 1.15vw;
-    margin-right: 1.15vw;
-    margin-top: 1.15vw;
-    margin-bottom: 1.15vw;
-    border-radius: 5vw;
-    background-color: black;
     border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
-    flex: 1;
 }
 
-.namecard-back{
+.card-flip > div {
+    backface-visibility: hidden;
+    transition: transform 0.5s;
+    width: 100%;
+    height: 100%;
+}
+
+.card-front {
+    transform: rotateY(0deg);
+}
+
+.card-back {
     transform: rotateY(180deg);
-    position: relative;
-    margin-left: 1.15vw;
-    margin-right: 1.15vw;
-    margin-top: 1.15vw;
-    margin-bottom: 1.15vw;
-    border-radius: 5vw;
-    background-color: black;
-    border: 0.23vw solid #ff1144;
-    font-family: "Jura", monospace;
-    flex: 1;
-}
-
-.namecard .namecard-back h1{
-    font-weight: 1000;
-    color: #ff1144;
-    font-size: 4vw;
-    margin: 0.575vw;
-    margin-left: 1.725vw;
-    margin-right: 1.725vw;
-
-}
-
-
-.namecard-inner {
-    width: 100%;
-    height: 100%;
-    text-align: center;
-    align-items: top;
-    display: grid;
-    place-items: center;
-    transform-style: preserve-3d;
-    transition: transform 0.5s; /* Set the transition duration */
-}
-
-.namecard:hover .namecard-inner,
-.namecard:active .namecard-inner {
-    transform: rotateY(180deg); /* Rotate the card on hover */
-}
-
-.namecard-face {
-    width: 100%;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-    text-align: center;
-    align-items: top;
-    display: grid;
-    grid-template-rows: auto 20%;
-    place-items: center;
     position: absolute;
-    backface-visibility: hidden; /* Hide the back face of the card */
 }
 
-
-
-.namecard h1{
-    font-weight: 1000;
-    color: #ff1144;
-    font-size: 5vw;
-    margin: 0;
-    margin-top: 0.575vw;
+.card-flip:hover .card-front {
+    transform: rotateY(-180deg);
 }
 
-.namecard p{
-    color: #ff1144;
-    font-size: 4vw;
-    margin-top: 0.2875vw;
+.card-flip:hover .card-back {
+    transform: rotateY(0deg);
 }
 
 .circle-cutout {
@@ -468,7 +367,6 @@ body {
     height: auto; /* Maintain aspect ratio */
     display: block; /* Remove extra space under the image */
 }
-
 
 .nameplate {
     transition: box-shadow 0.3s;
@@ -488,7 +386,6 @@ body {
     width: 100%;
     height: 100%;
     text-align: center;
-    align-items: top;
     display: grid;
     place-items: center;
 }
@@ -569,39 +466,8 @@ body {
 
 
 @media (min-width: 800px) {
-    .namecards {
-        grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
-    }
-    .namecard{
-        height: 55vw;
+    .nameplate {
         border-radius: 2.2vw;
-    }
-    .namecard .namecard-back h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 2.5vw;
-        margin: 0.575vw;
-        margin-left: 1.725vw;
-        margin-right: 1.725vw;
-    }
-    .nameplate,
-    .namecard-back,
-    .namecard-front{
-        border-radius: 2.2vw;
-    }
-
-    .namecard h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 3vw;
-        margin: 0;
-        margin-top: 1.15vw;
-    }
-    
-    .namecard p{
-        color: #ff1144;
-        font-size: 2vw;
-        margin-top: 0.2875vw;
     }
 }
 
@@ -624,12 +490,6 @@ body {
         margin: 2vw;
         margin-left: 5vw;
         margin-right: 5vw;
-    }
-    .card{
-        height: 80%;
-    }
-    .namecards {
-        grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
     }
     .nameplate-inner{
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
@@ -654,43 +514,12 @@ body {
         grid-column-start: span 2;
         font-size: 3vw;
     }
-    .namecard{
-        height: 35vw;
-    }
-    .namecard .namecard-back h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 1.7vw;
-        margin: 0.575vw;
-        margin-left: 1.725vw;
-        margin-right: 1.725vw;
-    }
-
-    .namecard h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 2.5vw;
-        margin: 0;
-        margin-top: 0.2875vw;
-    }
-
-    .namecard p{
-        color: #ff1144;
-        font-size: 1.5vw;
-        margin-top: 0.2875vw;
-    }
-    .nameplate,
-    .namecard,
-    .namecard-back,
-    .namecard-front{
+    .nameplate {
         border-radius: 1.5vw;
     }
 }
 
 @media (min-width: 1500px) {
-    .namecards {
-        grid-template-columns: repeat(4, 1fr); /* Adjust the number of columns as needed */
-    }
     .nameplate-name h1{
         font-size: 4vw;
         margin-right: 1.15vw;
@@ -714,35 +543,8 @@ body {
         grid-template-columns: 35vw auto; /* Adjust the number of columns as needed */
         grid-template-rows: 13vw 1fr; /* Adjust the number of columns as needed */
     }
-    .namecard{
-        height: 25vw;
-    }
-    .namecard .namecard-back h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 1.3vw;
-        margin: 0.575vw;
-        margin-left: 1.725vw;
-        margin-right: 1.725vw;
-    }
-    .namecard h1{
-        font-weight: 1000;
-        color: #ff1144;
-        font-size: 1.9vw;
-        margin: 0;
-        margin-top: 0.2875vw;
-    }
 
-    .namecard p{
-        color: #ff1144;
-        font-size: 1.1vw;
-        margin-top: 0.2875vw;
-    }
-
-    .nameplate,
-    .namecard,
-    .namecard-back,
-    .namecard-front{
+    .nameplate {
         border-radius: 1.15vw;
     }
 }
