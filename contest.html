@@ -3,7 +3,7 @@ title: Archive | Bay Area Programming Contest
 ---
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html dropdown="true" %}
+{% include head.html %}
 <body>
 {% include navbar.html %}
 
@@ -70,67 +70,73 @@ title: Archive | Bay Area Programming Contest
     </div>
 
     <div class="row">
-        <div class="accordion bg-black">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="rules">
+        <div class="accordion">
+            <div class="card-border m-4">
+                <h3 class="accordion-header m-2" id="rules">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#rulesContent" aria-expanded="false" aria-controls="rulesContent">
-                        RULES
+                        <span class="h3 m-0">RULES</span>
                     </button>
-                </h2>
+                </h3>
                 <div id="rulesContent" class="accordion-collapse collapse" aria-labelledby="rules">
-                    <div class="accordion-body">
-                        <h1>International Collegiate Programming Contest (ICPC) Format </h1>
-                        <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total time
-                            penalty across solved problems. </p>
-                        <p>- Each incorrect submission will incur 10 additional minutes of time penalty. </p>
-                        <p>- Outside sources (other than reference manuals) are not allowed. </p>
-                        <p>- A codebook will be provided to each team before the contest. </p>
-                        <p>- Participants will be able to print their code. </p>
+                    <div class="accordion-body pt-0">
+                        <div class="border-top pt-3">
+                            <h4>International Collegiate Programming Contest (ICPC) Format </h4>
+                            <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total
+                                time penalty across solved problems. </p>
+                            <p>- Each incorrect submission will incur 10 additional minutes of time penalty. </p>
+                            <p>- Outside sources (other than reference manuals) are not allowed. </p>
+                            <p>- A codebook will be provided to each team before the contest. </p>
+                            <p>- Participants will be able to print their code. </p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="onlineMirror">
+            <div class="card-border m-4">
+                <h3 class="accordion-header m-2" id="onlineMirror">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#onlineMirrorContent" aria-expanded="false"
                             aria-controls="onlineMirrorContent">
-                        ONLINE MIRROR
+                        <span class="h3 m-0">ONLINE MIRROR</span>
                     </button>
-                </h2>
+                </h3>
                 <div id="onlineMirrorContent" class="accordion-collapse collapse" aria-labelledby="onlineMirror">
-                    <div class="accordion-body">
-                        <h1>Contest Format</h1>
-                        <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total time
-                            penalty across solved problems. </p>
-                        <p>- Each incorrect submission will incur 10 additional minutes of time penalty. </p>
-                        <p>- Prewritten code and use of the internet is allowed. </p>
-                        <p>- Participants are encouraged to meet up and use 1 computer; however, this isn't a
-                            requirement. </p>
+                    <div class="accordion-body pt-0">
+                        <div class="border-top pt-3">
+                            <h4>Contest Format</h4>
+                            <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total
+                                time penalty across solved problems. </p>
+                            <p>- Each incorrect submission will incur 10 additional minutes of time penalty. </p>
+                            <p>- Prewritten code and use of the internet is allowed. </p>
+                            <p>- Participants are encouraged to meet up and use 1 computer; however, this isn't a
+                                requirement. </p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="resources">
+            <div class="card-border m-4">
+                <h3 class="accordion-header m-2" id="resources">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#resourcesContent" aria-expanded="false" aria-controls="resourcesContent">
-                        RESOURCES
+                        <span class="h3 m-0">RESOURCES</span>
                     </button>
-                </h2>
+                </h3>
                 <div id="resourcesContent" class="accordion-collapse collapse" aria-labelledby="resources">
-                    <div class="accordion-body">
-                        <h1>Competitive Programming Resources</h1>
-                        <p>- <a href="http://usaco.org" style="color: #ff1144;">USA Computing Olympiad (USACO)</a>: The
-                            largest competitive programming contest for high school students in the USA. </p>
-                        <p>- <a href="https://codeforces.com" style="color: #ff1144;">Codeforces</a>: Regular
-                            competitive programming contests for people around the world. </p>
-                        <p>- <a href="https://usaco.guide" style="color: #ff1144;">USACO Guide</a>: A free student-run
-                            comprehensive guide to approaching and practicing for the USACO. </p>
-                        <h1>General Programming Resources</h1>
-                        <p>- <a href="https://codecademy.com" style="color: #ff1144;">Codecademy</a>: Self-guided
-                            tutorials for various programming languages. </p>
-                        <p>- <a href="https://learncpp.com" style="color: #ff1144;">Learn C++</a>: A free tutorial
-                            website for the C++ programming language. </p>
+                    <div class="accordion-body pt-0">
+                        <div class="border-top pt-3">
+                            <h4>Competitive Programming Resources</h4>
+                            <p>- <a href="http://usaco.org" style="color: #ff1144;">USA Computing Olympiad (USACO)</a>:
+                                The largest competitive programming contest for high school students in the USA. </p>
+                            <p>- <a href="https://codeforces.com" style="color: #ff1144;">Codeforces</a>: Regular
+                                competitive programming contests for people around the world. </p>
+                            <p>- <a href="https://usaco.guide" style="color: #ff1144;">USACO Guide</a>: A free
+                                student-run comprehensive guide to approaching and practicing for the USACO. </p>
+                            <h4>General Programming Resources</h4>
+                            <p>- <a href="https://codecademy.com" style="color: #ff1144;">Codecademy</a>: Self-guided
+                                tutorials for various programming languages. </p>
+                            <p>- <a href="https://learncpp.com" style="color: #ff1144;">Learn C++</a>: A free tutorial
+                                website for the C++ programming language. </p>
+                        </div>
                     </div>
                 </div>
             </div>
