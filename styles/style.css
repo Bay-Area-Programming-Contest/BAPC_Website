@@ -8,7 +8,7 @@
     --bs-body-bg: black;
     --bs-primary-bg-subtle: #111111;
 
-    --bs-link-color-rgb: 255,17,68;
+    --bs-link-color-rgb: 255, 17, 68;
 
     /* Override a bunch of styling for accordion in contest.html */
     --bs-accordion-border-color: transparent;
@@ -22,54 +22,30 @@
     --bs-nav-link-font-weight: bold;
 }
 
-/*home page*/
-.Home {
-	/*background-image:url(/background_4.png);*/
-	background-size:cover;
-	background-position:50% 50%;
-	width: 100%;
-	height:100vh;
-	display:flex;
-	flex-direction:column;
-	align-items:center;
-	justify-content:center;
-    margin:0;
-    padding:0;
-}
 
-
-a.cipher {
-    color: #ff1144;
+.hero {
+    font-weight: 600;
     font-size: 11.5vw;
     letter-spacing: 3vw;
-    text-decoration: none;
-    text-align: center;
-    margin: 0;
 }
 
-
-main div.Summary {
-    position: relative;
-    color: #fcfcfc;
+.date {
     font-size: 5vw;
     letter-spacing: 0.3vw;
-    text-decoration: none;
-    margin: 0;
-    top: -1.2vw;
 }
 
-main div.Register a{
+main div.Register a {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-	color:#ff1144;
-    font-size:2.8vw;
+    color: #ff1144;
+    font-size: 2.8vw;
     font-weight: bold;
-	text-decoration:none;
-	padding: 3vw;
-	cursor:pointer;
-	height:3vw;
+    text-decoration: none;
+    padding: 3vw;
+    cursor: pointer;
+    height: 3vw;
     text-align: center;
     background-color: black;
     border-radius: 0.575vw;
@@ -77,17 +53,17 @@ main div.Register a{
 
 }
 
-main div.Register a:hover{
+main div.Register a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-	color: #ff1144;
-    font-size:2.8vw;
+    color: #ff1144;
+    font-size: 2.8vw;
     font-weight: bold;
-	text-decoration:none;
-	cursor:pointer;
-	height:3vw;
+    text-decoration: none;
+    cursor: pointer;
+    height: 3vw;
     text-align: center;
     border-radius: 0.575vw;
     box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
@@ -104,9 +80,9 @@ main div.Register a:hover{
     box-sizing: content-box;
 }
 
-.WhatIsBAPC{
+.WhatIsBAPC {
     min-height: 100vh;
-    background-position:50% 50%;
+    background-position: 50% 50%;
     padding: 0;
     margin: 0;
     line-height: 200%;
@@ -119,7 +95,7 @@ main div.Register a:hover{
     background-color: black;
 }
 
-.WhatIsBAPC .heading{
+.WhatIsBAPC .heading {
     margin: 3vw;
     padding-top: 5.5vw;
     position: relative;
@@ -133,7 +109,7 @@ main div.Register a:hover{
     border-radius: 1.15vw;
 }
 
-.FAQ{
+.FAQ {
     padding: 1.2vw;
     margin: 3vw;
     position: relative;
@@ -146,7 +122,7 @@ main div.Register a:hover{
     border-radius: 1.2vw;
 }
 
-.question{
+.question {
     padding: 1.2vw;
     margin: 0.2875vw;
     position: relative;
@@ -159,7 +135,7 @@ main div.Register a:hover{
     border-radius: 0.575vw;
 }
 
-.answer{
+.answer {
     padding: 1.2vw;
     margin: 1.8vw;
     position: relative;
@@ -172,7 +148,7 @@ main div.Register a:hover{
     border-radius: 0.575vw;
 }
 
-.Sponsors{
+.Sponsors {
     padding: 1.2vw;
     margin: 3vw;
     position: relative;
@@ -183,12 +159,6 @@ main div.Register a:hover{
     text-align: center;
     background-color: #000000;
     border-radius: 1.15vw;
-}
-
-body {
-    background-color: black;
-    margin:0;
-    padding:0;
 }
 
 .fade-in-text {
@@ -243,7 +213,7 @@ body {
     display: block; /* Remove extra space under the image */
 }
 
-.socials{
+.socials {
     justify-content: center;
     align-items: center;
     margin: 0;
@@ -251,17 +221,17 @@ body {
 }
 
 .socials:hover,
-.socials:active{
+.socials:active {
     transform: translateY(-0.115vw);
     transition: all 0.3s ease-in-out;
 }
 
-.socials path{
+.socials path {
     fill: #fcfcfc;
 }
 
 .socials:hover path,
-.socials:active path{
+.socials:active path {
     fill: #ff1144;
 }
 
