@@ -186,7 +186,6 @@ main div.Register a:hover{
 	justify-content:flex-start;
 	gap: 20px;
 	margin-right:20px;
-    vertical-align: middle;
 }
 
 nav.navbar {
@@ -250,7 +249,7 @@ body {
 .card p{
     color: #F14;
 	text-align: center;
-	font-family: Jura;
+	font-family: "Jura", monospace;
 	font-size: 1.5625vw;
 	font-style: normal;
 	font-weight: 300;
@@ -298,7 +297,6 @@ body {
     color: #ff1144;
     padding-left: 1.15vw;
     overflow: hidden;
-    transition: max-height 0.5s ease-out; /* Add animation transition for dropping down and collapsing */
     opacity: 0;
     transition: opacity 0.5s ease-in-out; /* Add fade-in animation */
 }
