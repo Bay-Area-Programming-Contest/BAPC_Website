@@ -11,7 +11,7 @@ title: About Us | Bay Area Programming Contest
         <h1>ABOUT US</h1>
     </div>
 
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-3 m-2">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4 m-4">
         {% for person in site.data.people %}
         <div class="col">
             <div class="card card-flip h-100 text-center bg-black">
@@ -26,10 +26,11 @@ title: About Us | Bay Area Programming Contest
                 </div>
                 <div class="card-back card-border d-flex flex-column justify-content-between p-3">
                     <div></div>
-                    <h4>{{ person.description }}</h4>
+                    <h5>{{ person.description }}</h5>
                     <div class="svg-buttons">
                         {% if person.codeforces %}
-                        <a href="https://codeforces.com/profile/{{ person.codeforces }}" target="_blank" style="color: black;">
+                        <a href="https://codeforces.com/profile/{{ person.codeforces }}" target="_blank"
+                           style="color: black;">
                             <svg class="socials" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M22.5 10.5c.8 0 1.5.7 1.5 1.5v7.5c0 .8-.7 1.5-1.5 1.5h-3c-.8 0-1.5-.7-1.5-1.5V12c0-.8.7-1.5 1.5-1.5h3zM13.5 3c.8 0 1.5.7 1.5 1.5v15c0 .8-.7 1.5-1.5 1.5h-3c-.8 0-1.5-.7-1.5-1.5v-15c0-.8.7-1.5 1.5-1.5h3zM4.5 7.5C5.3 7.5 6 8.2 6 9v10.5c0 .8-.7 1.5-1.5 1.5h-3C.7 21 0 20.3 0 19.5V9c0-.8.7-1.5 1.5-1.5h3z"></path>
                             </svg>
@@ -56,23 +57,33 @@ title: About Us | Bay Area Programming Contest
         {% endfor %}
     </div>
 
-    <div class="nameplate">
-        <div class="nameplate-inner">
-            <div class="nameplate-logo">
-                <div class="circle-cutout" style="height: 30vw;width: 30vw;grid-column: 1;margin: 50px;">
-                    <img src="/images/CPC_Logo.png" alt="CPC logo">
+    <div class="row m-4">
+        <div class="col">
+            <div class="card card-border bg-black">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6 d-flex align-items-center">
+                            <div>
+                                <img src="/images/CPC_Logo.png" alt="CPC logo" class="w-100 h-100">
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-center d-flex flex-column justify-content-center">
+                            <h3 class="display-1">GUNN CPC</h3>
+                            <p class="display-2">HOST</p>
+                            <p class="display-6 d-none d-xl-block text-center">
+                                Gunn CPC is the Competitive Programming Club of Gunn High School in Palo Alto,
+                                California. Originally founded for the Zero Robotics Competition in 2016, it has grown
+                                into a community that practices for and participates in competitions like the USA
+                                Computing Olympiad (USACO).
+                            </p>
+                        </div>
+                    </div>
+                    <p class="display-6 d-block d-xl-none text-center">
+                        Gunn CPC is the Competitive Programming Club of Gunn High School in Palo Alto, California.
+                        Originally founded for the Zero Robotics Competition in 2016, it has grown into a community
+                        that practices for and participates in competitions like the USA Computing Olympiad (USACO).
+                    </p>
                 </div>
-            </div>
-            <div class="nameplate-name">
-                <h1>GUNN CPC</h1>
-                <p>HOST</p>
-            </div>
-
-            <div class="nameplate-text">
-                <p>Gunn CPC is the Competitive Programming Club of Gunn High School in Palo
-                    Alto, California. Originally founded for the Zero Robotics Competition in 2016, it has grown into a
-                    community that practices for and participates in competitions like the USA Computing Olympiad
-                    (USACO). </p>
             </div>
         </div>
     </div>
