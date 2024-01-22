@@ -240,25 +240,6 @@ body {
     padding:0px;
 }
 
-.title{
-    box-shadow: 0 0 100px 5px rgb(255, 0, 0), 0 0 40px 10px rgba(255, 99, 99, 0.5);
-    background-color: #ff5050;
-    color: white;
-    text-align: left;
-    padding: 5px;
-    border-top: 2px solid red;
-    border-bottom: 2px solid red;
-    margin: 0px;
-    font-size: 30px;
-    font-family: "Space Mono", monospace;
-    font-weight: bold;
-    height: auto;
-}
-
-.title h1{
-    text-shadow: 0 0 10px rgb(255, 255, 255,1);
-}
-
 table {
     border-collapse: collapse;
     width: 100%;
