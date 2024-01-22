@@ -412,7 +412,7 @@ body {
     margin-right: 1.15vw;
     margin-top: 1.15vw;
     margin-bottom: 1.15vw;
-    border-radius: 1.15vw;
+    border-radius: 5vw;
     flex: 1;
 }
 
@@ -422,7 +422,7 @@ body {
     margin-right: 1.15vw;
     margin-top: 1.15vw;
     margin-bottom: 1.15vw;
-    border-radius: 1.15vw;
+    border-radius: 5vw;
     background-color: black;
     border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
@@ -436,7 +436,7 @@ body {
     margin-right: 1.15vw;
     margin-top: 1.15vw;
     margin-bottom: 1.15vw;
-    border-radius: 1.15vw;
+    border-radius: 5vw;
     background-color: black;
     border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
@@ -522,7 +522,7 @@ body {
     margin-right: 5vw;
     margin-top: 1.15vw;
     margin-bottom: 1.15vw;
-    border-radius: 1.15vw;
+    border-radius: 5vw;
     background-color: black;
     border: 0.23vw solid #ff1144;
     font-family: "Jura", monospace;
@@ -620,6 +620,7 @@ body {
     }
     .namecard{
         height: 55vw;
+        border-radius: 2.2vw;
     }
     .namecard .namecard-back h1{
         font-weight: 1000;
@@ -628,7 +629,12 @@ body {
         margin: 0.575vw;
         margin-left: 1.725vw;
         margin-right: 1.725vw;
-    
+        
+    }
+    .nameplate,
+    .namecard-back,
+    .namecard-front{
+        border-radius: 2.2vw;
     }
 
     .namecard h1{
@@ -721,6 +727,12 @@ body {
         font-size: 1.5vw;
         margin-top: 0.2875vw;
     }
+    .nameplate,
+    .namecard,
+    .namecard-back,
+    .namecard-front{
+        border-radius: 1.5vw;
+    }
 }
 
 @media (min-width: 1500px) {
@@ -774,5 +786,12 @@ body {
         color: #ff1144;
         font-size: 1.1vw;
         margin-top: 0.2875vw;
+    }
+
+    .nameplate,
+    .namecard,
+    .namecard-back,
+    .namecard-front{
+        border-radius: 1.15vw;
     }
 }
