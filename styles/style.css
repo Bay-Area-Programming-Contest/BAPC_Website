@@ -351,7 +351,8 @@ tbody {
     font-size: 2.3vw;
 }
 
-.collapsible-btn:hover {
+.collapsible-btn:hover,
+.collapsible:active {
     color:#ff1144;
 }
 
@@ -467,7 +468,8 @@ tbody {
     transition: transform 0.5s; /* Set the transition duration */
 }
 
-.namecard:hover .namecard-inner {
+.namecard:hover .namecard-inner,
+.namecard:active .namecard-inner {
     transform: rotateY(180deg); /* Rotate the card on hover */
 }
 
@@ -584,7 +586,8 @@ tbody {
     fill: #fcfcfc;
 }
 
-.socials:hover{
+.socials:hover,
+.socials:active{
     transform: translateY(-0.115vw);
     transition: all 0.3s ease-in-out;
 }
@@ -593,7 +596,8 @@ tbody {
     fill: #fcfcfc;
 }
 
-.socials:hover path{
+.socials:hover path,
+.socials:active path{
     fill: #ff1144;
 }
 
