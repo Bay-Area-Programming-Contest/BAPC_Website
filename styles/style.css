@@ -180,20 +180,7 @@ main div.Register a:hover {
     fill: #ff1144;
 }
 
-.svg-buttons {
-    margin-bottom: 0; /* Adjust margin as needed */
-}
-
 .svg-buttons svg {
     width: 24px;
     height: 24px;
-    align-items: center;
-    justify-content: center;
-    justify-items: center;
-    margin: 0.115vw; /* Adjust margin as needed */
-    cursor: pointer;
-}
-
-footer{
-    text-align: center;
 }
