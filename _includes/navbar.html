@@ -11,11 +11,11 @@
         {% for navlink in site.data.navlinks %}
           {% if page.name == navlink.name %}
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="{{navlink.link}}">{{navlink.title | upcase}}</a>
+            <a class="nav-link active" aria-current="page" href="{{ navlink.link }}">{{ navlink.title | upcase }}</a>
           </li>
           {% else %}
           <li class="nav-item">
-            <a class="nav-link" href="{{navlink.link}}">{{navlink.title | upcase}}</a>
+            <a class="nav-link" href="{{navlink.link}}">{{ navlink.title | upcase }}</a>
           </li>
           {% endif %}
         {% endfor %}
