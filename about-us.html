@@ -15,7 +15,7 @@ title: About Us | Bay Area Programming Contest
         {% for person in site.data.people %}
         <div class="col">
             <div class="card card-flip h-100 text-center bg-black">
-                <div class="card-front">
+                <div class="card-front card-border">
                     <div>
                         <h1>{{ person.name | upcase }}</h1>
                         <p>{{ person.role | upcase }}</p>
@@ -24,7 +24,7 @@ title: About Us | Bay Area Programming Contest
                         <img src="/images/people/{{ person.image }}" alt="{{ person.name }}">
                     </div>
                 </div>
-                <div class="card-back">
+                <div class="card-back card-border">
                     <h1>{{ person.description }}</h1>
                     <div class="svg-buttons">
                         {% if person.codeforces %}
