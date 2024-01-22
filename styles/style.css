@@ -114,18 +114,6 @@ main div.Register a:hover {
     opacity: 1;
 }
 
-.card{
-    padding: 1.15vw;
-}
-
-.card-title{
-    font-size: 2.5vw;
-}
-
-.card-text{
-    font-size: 1.5vw;
-}
-
 .card-border {
     border-radius: 1rem;
     border: 0.23vw solid #ff1144;
