@@ -351,10 +351,6 @@ tbody {
     font-size: 2.3vw;
 }
 
-.collapsible-btn:hover,
-.collapsible:active {
-    color:#ff1144;
-}
 
 .toggle-icon {
     float: right;

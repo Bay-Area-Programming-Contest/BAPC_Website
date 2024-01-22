@@ -6,7 +6,7 @@ window.addEventListener("load", () => {
             const card = btn.closest('.collapsible');
             const content = card.querySelector('.card-content');
             const toggleIcon = btn.querySelector('.toggle-icon');
-
+            console.log("hi");
             card.classList.toggle('expanded');
 
             if (card.classList.contains('expanded')) {
@@ -24,15 +24,13 @@ window.addEventListener("load", () => {
         const interval = 10; // Set the interval for each step in milliseconds
         const steps = duration / interval;
         const stepHeight = maxHeight / steps;
-
         let currentHeight = 0;
         const intervalId = setInterval(function () {
             currentHeight += stepHeight;
             element.style.maxHeight = currentHeight + 'px';
-
             if (currentHeight >= maxHeight) {
                 clearInterval(intervalId);
-                element.style.maxHeight = null; // Allow content to grow beyond calculated max-height
+                element.style.maxHeight = currentHeight + 'px'; // Show the content by setting max-height to the max height
             }
         }, interval);
     }
