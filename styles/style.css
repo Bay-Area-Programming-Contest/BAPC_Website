@@ -193,3 +193,7 @@ main div.Register a:hover {
     margin: 0.115vw; /* Adjust margin as needed */
     cursor: pointer;
 }
+
+footer{
+    text-align: center;
+}
