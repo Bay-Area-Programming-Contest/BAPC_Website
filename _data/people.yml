@@ -19,7 +19,7 @@
   role: Organizer
   image: hongyi.png
   description: Hongyi is a junior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to play SET and other card games, hike, and work on his bioinfo projects.
-  codeforces: cclos
+  codeforces: clcos
 - name: Nathan Ye
   role: Organizer
   image: nathan.png
@@ -35,6 +35,6 @@
 - name: Stanley Zhong
   role: Advisor
   image: stanley.png
-  description: Stanley is a Gunn alum (class of 2023) who currently works at Google. He enjoys participating in Competitive Programming, AI, and CTF competitions. He also plays chess and ultimate frisbee. If the infrastructure breaks, it's probably his fault.
+  description: Stanley is a Gunn alum (class of 2023) who currently works at Google. He enjoys participating in competitive programming, AI, and CTF competitions and plays chess and ultimate frisbee. If the infrastructure breaks, it's probably his fault.
   codeforces: qpwoeirut
   github: qpwoeirut
