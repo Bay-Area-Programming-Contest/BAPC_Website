@@ -11,13 +11,13 @@ title: About Us | Bay Area Programming Contest
         <h1>ABOUT US</h1>
     </div>
 
-    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-3 m-2">
         {% for person in site.data.people %}
         <div class="col">
             <div class="card card-flip h-100 text-center bg-black">
                 <div class="card-front card-border">
                     <div>
-                        <h1>{{ person.name | upcase }}</h1>
+                        <h3 class="h3">{{ person.name | upcase }}</h3>
                         <p>{{ person.role | upcase }}</p>
                     </div>
                     <div class="circle-cutout">
@@ -25,7 +25,7 @@ title: About Us | Bay Area Programming Contest
                     </div>
                 </div>
                 <div class="card-back card-border">
-                    <h1>{{ person.description }}</h1>
+                    <p>{{ person.description }}</p>
                     <div class="svg-buttons">
                         {% if person.codeforces %}
                         <a href="https://codeforces.com/profile/{{ person.codeforces }}" target="_blank" style="color: black;">
