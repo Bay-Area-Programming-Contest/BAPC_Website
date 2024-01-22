@@ -56,7 +56,7 @@ main div.Register a:hover {
     opacity: 0;
     transition: opacity 2s ease-out;
     height: 2.1275vw;
-    position: absolute;
+    position: relative;
     padding: 1.15vw;
     box-sizing: content-box;
 }
