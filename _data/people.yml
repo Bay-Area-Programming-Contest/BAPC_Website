@@ -1,0 +1,40 @@
+- name: Ezra Furtado-Tiwari
+  role: Organizer
+  image: ezra.png
+  description: Ezra is a senior at Gunn High School, a participant in the USACO Platinum division, and a 3-time AIME Qualifier. Outside of competitive programming, he enjoys doing CTF contests and math.
+  codeforces: ezraft
+- name: Agastya Goel
+  role: Organizer
+  image: agastya.png
+  description: Agastya is a junior at Gunn High School, a participant of MOP, and a member of team USA at IOI 2023. In his free time, he sings, plays tennis, and always wins the card game Coup.
+  codeforces: gustergoose27
+- name: Om Mahesh
+  role: Organizer
+  image: om.png
+  description: Om is a senior at Gunn High School, an Expert on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes bouldering and has probably inhaled too much chalk.
+  codeforces: lce4113
+  github: lce4113
+  website: https://lce4113.github.io/
+- name: Hongyi Shi
+  role: Organizer
+  image: hongyi.png
+  description: Hongyi is a junior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to play SET and other card games, hike, and work on his bioinfo projects.
+  codeforces: cclos
+- name: Nathan Ye
+  role: Organizer
+  image: nathan.png
+  description: Nathan is a junior at Palo Alto High School. He is a participant in the USACO Gold division and a 5-time AIME Qualifier. He also enjoys CTFing with his friends.
+  codeforces: ench_lolz
+  github: enchlolz
+- name: William Tsin
+  role: Advisor
+  image: william.png
+  description: William is a Gunn alum (class of 2022) and student at CMU. He is an ICPC NAC Silver Medalist and a Grandmaster on the competitive programming website Codeforces.
+  codeforces: bucketpotato
+  github: bucketpotato01
+- name: Stanley Zhong
+  role: Advisor
+  image: stanley.png
+  description: Stanley is a Gunn alum (class of 2023) who currently works at Google. He enjoys participating in Competitive Programming, AI, and CTF competitions. He also plays chess and ultimate frisbee. If the infrastructure breaks, it's probably his fault.
+  codeforces: qpwoeirut
+  github: qpwoeirut
