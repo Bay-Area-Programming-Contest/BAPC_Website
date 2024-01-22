@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
-    const links = document.querySelectorAll("a.cipher");
+    const ciphers = document.querySelectorAll(".cipher");
     const solveMilliseconds = 2000;
     const characterSelectionMilliseconds = 50;
     const delayMilliseconds = 0;
@@ -9,7 +9,7 @@ window.addEventListener("load", () => {
         return arr[(arr.length * Math.random()) | 0];
     };
 
-    links.forEach((element) => {
+    ciphers.forEach((element) => {
         element.addEventListener("load", (e) => {
             const element = e.target;
             scrambleText(element);
