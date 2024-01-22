@@ -268,7 +268,7 @@ body {
 
 .cards {
     display: grid;
-    margin: 2vw;
+    margin: 0;
     margin-left: 5vw;
     margin-right: 5vw;
     gap: 0;
@@ -295,7 +295,7 @@ body {
 }
 .card {
     transition: box-shadow 0.3s;
-    height: 80%;
+    height: auto;
     position: relative;
     margin-left: 1.15vw;
     margin-right: 1.15vw;
@@ -320,7 +320,7 @@ body {
     color: #F14;
 	text-align: center;
 	font-family: Jura;
-	font-size: 1.5625rem;
+	font-size: 1.5625vw;
 	font-style: normal;
 	font-weight: 300;
 	line-height: normal;
@@ -650,12 +650,24 @@ body {
 
     #r1{
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+        margin: 2vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
     }
     #r2{
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+        margin: 2vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
     }
     #r3{
         grid-template-columns: repeat(2, 1fr); /* Adjust the number of columns as needed */
+        margin: 2vw;
+        margin-left: 5vw;
+        margin-right: 5vw;
+    }
+    .card{
+        height: 80%;
     }
     .namecards {
         grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
