@@ -1,12 +1,12 @@
 - name: index.html
   link: /
-  title: HOME
+  title: Home
 - name: contest.html
   link: /contest
   title: BAPC 2024
 - name: archive.html
   link: /archive
-  title: ARCHIVE
+  title: Archive
 - name: about-us.html
   link: /about-us
-  title: ABOUT US
+  title: About Us
