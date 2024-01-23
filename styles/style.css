@@ -115,18 +115,6 @@ main div.Register a:hover {
     opacity: 1;
 }
 
-.card{
-    padding: 1.15vw;
-}
-
-.card-title{
-    font-size: 2.5vw;
-}
-
-.card-text{
-    font-size: 1.5vw;
-}
-
 .card-border {
     border-radius: 1rem;
     border: 0.23vw solid #ff1144;
@@ -193,20 +181,7 @@ main div.Register a:hover {
     fill: #ff1144;
 }
 
-.svg-buttons {
-    margin-bottom: 0; /* Adjust margin as needed */
-}
-
 .svg-buttons svg {
     width: 24px;
     height: 24px;
-    align-items: center;
-    justify-content: center;
-    justify-items: center;
-    margin: 0.115vw; /* Adjust margin as needed */
-    cursor: pointer;
-}
-
-footer{
-    text-align: center;
 }
