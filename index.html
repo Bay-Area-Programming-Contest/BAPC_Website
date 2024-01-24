@@ -5,15 +5,18 @@ title: BAPC 2024 | Bay Area Programming Contest
 <html lang="en">
 {% include head.html cipherscript="true" home="true" fade="true" %}
 <body>
-{% include navbar.html %}
-<main class="vh-100 d-flex flex-column align-items-center justify-content-center">
-    <h1 class="hero cipher">BAPC 2024</h1>
-    <h2 class="date text-white mb-4">03.03.2024</h2>
-    <div class="Register">
-        <a id="registerButton" href="https://forms.gle/yhwt4j8BoG9vKXMZ8" target="_blank">REGISTER HERE</a>
+<main class="vh-100 d-flex flex-column align-items-center justify-content-between">
+<!--    Put navbar inside so that the vh-100 calculation includes it. Bit hacky but should work.-->
+    {% include navbar.html %}
+    <div class="d-flex flex-column align-items-center">
+        <h1 class="hero cipher">BAPC 2024</h1>
+        <h2 class="date text-white mb-4">03.03.2024</h2>
+        <div class="Register">
+            <a id="registerButton" href="https://forms.gle/yhwt4j8BoG9vKXMZ8" target="_blank">REGISTER HERE</a>
+        </div>
     </div>
 
-    <img id="delayed-button" onclick="scrollToSection()" src="/images/downarrow.png" alt="down arrow">
+    <img id="delayed-button" class="m-3" onclick="scrollToSection()" src="/images/downarrow.png" alt="down arrow">
 </main>
 
 <div class="WhatIsBAPC text-center vh-100">
