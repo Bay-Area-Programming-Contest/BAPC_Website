@@ -21,7 +21,7 @@ window.addEventListener("load", () => {
     function scrambleText(element) {
         if (element.classList.contains("active") === false) {
             let delay = 0;
-            const elementText = element.innerText;
+            const elementText = element.textContent;
             const elementCharacters = [...elementText];
             const lockMilliseconds = delayMilliseconds * elementCharacters.length + solveMilliseconds;
 
@@ -35,11 +35,11 @@ window.addEventListener("load", () => {
                 setTimeout(() => {
                     let intervalId = setInterval(() => {
                         const randomCharacter = randomArrayElement(characters);
-                        element.innerText = replaceCharacter(element.innerText, index, randomCharacter);
+                        element.textContent = replaceCharacter(element.textContent, index, randomCharacter);
 
                         setTimeout(() => {
                             clearInterval(intervalId);
-                            element.innerText = replaceCharacter(element.innerText, index, elementCharacters[index]);
+                            element.textContent = replaceCharacter(element.textContent, index, elementCharacters[index]);
                         }, solveMilliseconds);
                     }, characterSelectionMilliseconds);
                 }, delay === 0 ? (delay += 1) : (delay += delayMilliseconds));
