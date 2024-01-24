@@ -53,7 +53,7 @@ main div.Register a:hover {
 
 #delayed-button {
     opacity: 0;
-    transition: opacity 2s ease-out;
+    transition: opacity 1.2s ease-out;
     height: 2.1275vh;
 }
 #delayed-button.active {
