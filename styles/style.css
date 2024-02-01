@@ -115,6 +115,21 @@ main div.Register a:hover {
     text-align: center;
 }
 
+.sponsor-tier{
+    margin: 1vw;
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    color: white;
+    border-radius: 2vw;
+    border: 0.23vw solid #ff1144;
+}
+
+.Sponsors .row{
+    justify-content: center;
+}
+
 .fade-in-text {
     opacity: 0;
 }
