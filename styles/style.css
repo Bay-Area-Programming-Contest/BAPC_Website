@@ -51,6 +51,24 @@ main div.Register a:hover {
     box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
 }
 
+main div.Contest a {
+    display: flex;
+    align-items: center;
+    color: #ff1144;
+    font-size: 2.8vw;
+    text-decoration: none;
+    border-radius: 0.575vw;
+    outline: 0.2vw solid #ff1144;
+    padding: 1.2vw 3vw;
+    box-shadow: 0 0 1.15vw 5px rgb(255, 0, 0);
+}
+
+main div.Contest a:hover {
+    font-weight: bold;
+    border-radius: 0.575vw;
+    box-shadow: 0 0 1.15vw 10px rgb(255, 0, 0);
+}
+
 #delayed-button {
     opacity: 0;
     transition: opacity 1.2s ease-out;
