@@ -10,3 +10,6 @@
 - name: about-us.html
   link: /about-us
   title: About Us
+- name: photos.html
+  link: /photos
+  title: Photos

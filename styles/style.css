@@ -226,3 +226,74 @@ main div.Contest a:hover {
     width: 24px;
     height: 24px;
 }
+
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.btn-custom {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ff1144;
+    font-size: 3.6vw;
+    text-decoration: none;
+    border-radius: 0.575vw;
+    padding: 1.2vw 3vw;
+    width: 100%;
+    border-color: #ff1144;
+    border-width: 0.2vw;
+}
+
+
+/* Adjust button padding */
+.btn-custom-padding {
+padding: 10px 20px;
+}
+
+/* Change button size */
+.btn-custom-lg {
+font-size: 1.5rem;
+}
+
+/* Modify button shape */
+.btn-custom-rounded {
+border-radius: 20px;
+}
+
+/* Customize hover and focus states */
+.btn-custom:hover {
+    border-color: #ff1144;
+    border-width: 0.2vw;
+    box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
+    rotate: 1deg;
+    transition: all 0.2s ease-in-out;
+}
+.btn-custom:focus {
+    border-color: #ff1144;
+    border-width: 0.2vw;
+    color: black;
+    background-color: #ff1144;
+}
+
+.btn-custom:active{
+    border-color: #ff1144 !important;
+    border-width: 0.2vw;
+    color: black !important;
+    background-color: #ff1144 !important;
+    box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
+}
+
+
+.btn-image{
+    border-radius: 0;
+    border-width: 0;
+    width: 100%;
+    height: auto;
+}
+
+
+
