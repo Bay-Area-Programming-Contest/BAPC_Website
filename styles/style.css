@@ -295,5 +295,8 @@ border-radius: 20px;
     height: auto;
 }
 
+img{
+    loading: lazy !important;
+}
 
 
