@@ -1,5 +1,5 @@
 //console.log("applying animations");
-document.addEventListener('DOMContentLoaded', function() {
+window.addEventListener("load", function() {
     const speed = 1000;
     let translate = 350; 
     //console.log(window.innerWidth)
