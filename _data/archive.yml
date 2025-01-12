@@ -1,0 +1,58 @@
+- year: 2024
+  link: https://codeforces.com/blog/entry/126716
+  image: images/Archive2024image.png
+  leaderboard: https://codeforces.com/blog/entry/126716
+  sponsors:
+    - name: Jane Street
+      tier: Silver
+      image: Jane_Street_Logo.png
+      link: https://www.janestreet.com/
+    - name: X-Camp
+      tier: Gold
+      image: X-Camp.png
+      link: https://x-camp.academy/
+    - name: Citadel
+      tier: Silver
+      image: Citadel.png
+      link: https://www.citadelsecurities.com/
+    - name: Recursive Dragon
+      tier: Silver
+      image: Recursive_Dragon_Logo.png
+      link: https://recursivedragon.com/
+    - name: Aops
+      tier: Bronze
+      image: AoPS_Main_Logo_1_2.png
+      link: https://artofproblemsolving.com/
+    - name: Wolfram
+      tier: Bronze
+      image: Wolfram_Logo_1.png
+      link: https://wolfram.com/
+
+
+- year: 2022
+  link: https://codeforces.com/group/5kleZAqa52/
+  image: images/Old_BAPC_Logo.png
+
+  sponsors:
+    - name: Aops
+      tier: Bronze
+      image: AoPS_Main_Logo_1_2.png
+      link: https://artofproblemsolving.com/
+    - name: Wolfram
+      tier: Bronze
+      image: Wolfram_Logo_1.png
+      link: https://wolfram.com/
+    - name: Texas Instruments
+      tier: Bronze
+      image: TI_Logo.png
+      link: https://www.ti.com/
+    - name: PTSA
+      tier: Bronze
+      image: PTSA_Logo.png
+      link: https://gunn.paloaltopta.org/
+
+- year: 2021
+  link: https://codeforces.com/group/0HcLbgqiJ8/
+  image: images/Old_BAPC_Logo.png
+
+
