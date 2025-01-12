@@ -291,21 +291,28 @@ main div.Register a:hover {
     rotate: 1deg;
 }
 
-#discordButton{
+main div.Discord a {
     display: flex;
-    width: 100%;
     align-items: center;
+    width: 100%;
     justify-content: center;
     color: #9656ce;
-    font-size: 1.8vw;
+    font-size: 1.8vw;  /* Keep original smaller font size */
     text-decoration: none;
     border-radius: 10px;
     outline: 0.2vw solid #9656ce;
-    padding: 20px 20px;
+    padding: 20px 20px;  /* Keep original padding */
     position: relative;
     z-index: 3;
     backdrop-filter: blur(5px);
     background-color: #9656ce25;
+}
+
+main div.Discord a:hover {
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 0 1.15vw 1px rgb(150, 86, 206);
+    rotate: 1deg;
 }
 
 main div.Contest a {
