@@ -7,5 +7,5 @@ window.addEventListener("load", () => {
     const delayedButton = document.getElementById('delayed-button');
     setTimeout(function () {
         delayedButton.classList.add("active");
-    }, 2000);
+    }, 3000);
 });

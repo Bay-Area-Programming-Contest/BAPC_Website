@@ -1,37 +1,69 @@
-- name: Ezra Furtado-Tiwari
-  role: Organizer
-  image: ezra.jpeg
-  description: Ezra is a senior at Gunn High School, a participant in the USACO Platinum division, and a 3-time AIME Qualifier. Outside of competitive programming, he enjoys doing CTF contests and math.
-  codeforces: ezraft
 - name: Agastya Goel
   role: Organizer
   image: agastya.png
-  description: Agastya is a junior at Gunn High School, a participant of MOP, and a member of team USA at IOI 2023. In his free time, he sings, plays tennis, and always wins the card game Coup.
+  description: Agastya is a senior at Gunn High School, a participant of MOP, and a member of team USA at IOI 2023. In his free time, he sings, plays tennis, and always wins the card game Coup.
   codeforces: gustergoose27
-- name: Om Mahesh
-  role: Organizer
-  image: om.png
-  description: Om is a senior at Gunn High School, an Expert on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes bouldering and has probably inhaled too much chalk.
-  codeforces: lce4113
-  github: lce4113
-  website: https://lce4113.github.io/
-- name: Hongyi Shi
-  role: Organizer
-  image: hongyi.png
-  description: Hongyi is a junior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to play SET and other card games, hike, and work on his bioinfo projects.
-  codeforces: clcos
+
 - name: Nathan Ye
   role: Organizer
   image: nathan.png
-  description: Nathan is a junior at Palo Alto High School. He is a participant in the USACO Platinum division and a 5-time AIME Qualifier. He also enjoys CTFing with his friends.
+  description: Nathan is a senior at Palo Alto High School. He is a participant in the USACO Platinum division and a 6-time AIME Qualifier. He also enjoys CTFing with his friends.
   codeforces: ench_lolz
   github: enchlolz
+
+- name: Hongyi Shi
+  role: Organizer
+  image: hongyi.png
+  description: Hongyi is a senior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics reserach, play SET, and hike.
+  codeforces: clcos
+  github: resplendentHSHI
+
+- name: Jason Lin
+  role: Organizer
+  image: jason.png
+  description: Jason is a senior at Gunn High School, a Specialist on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes computer overclocking and playing the violin.
+  codeforces: Hector2173
+
+- name: Kaicheng Luo
+  role: Organizer
+  image: kaicheng.png
+  description: Kaicheng is a Senior at Gunn High School, a participant in the USACO Gold division, and a 4-time AIME Qualifier. In his free time, he enjoys playing tennis and hanging out.
+  codeforces: Kaichengxdd
+
+- name: Andrew Xu
+  role: Organizer
+  image: andrew.png
+  description: Andrew is a freshman at Gunn High School, a participant in the USACO Gold Division, and a AIME Qualifier. In his free time, he beats good Brawl Stars players with Darryl.
+  codeforces: andrewxu
+  github: zhenboi
+
+- name: Ian Cheung
+  role: Organizer
+  image: ian.png
+  description: Ian is a senior at Gunn High School. He is a front-end website and Discord bot developer. During his free time, he likes to play the violin, hiking, compose music, play video games, and sometimes be chronically online on Discord.
+  github: iancheung0202
+
+- name: Ezra Furtado-Tiwari
+  role: Advisor
+  image: ezra.jpeg
+  description: Ezra is a Gunn alum (class of 2024) and student at UCSB. During his time at Gunn, he participated in the USACO Platinum division and was a 3-time AIME Qualifier. Outside of competitive programming, he enjoys doing CTF contests and math.
+  codeforces: ezraft
+
+- name: Om Mahesh
+  role: Advisor
+  image: om.png
+  description: Om is a Gunn alum (class of 2024) and student at UCSB. He is an Expert on the competitive programming platform Codeforces and a 4-time AIME Qualifier. He also likes bouldering and has probably inhaled too much chalk.
+  codeforces: lce4113
+  github: lce4113
+  website: https://lce4113.github.io/
+
 - name: William Tsin
   role: Advisor
   image: william.png
   description: William is a Gunn alum (class of 2022) and student at CMU. He is an ICPC NAC Silver Medalist and a Grandmaster on the competitive programming website Codeforces.
   codeforces: bucketpotato
   github: bucketpotato01
+
 - name: Stanley Zhong
   role: Advisor
   image: stanley.png
