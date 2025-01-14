@@ -1,7 +1,7 @@
 - year: 2024
   link: https://codeforces.com/blog/entry/126716
   image: images/Archive2024image.png
-  leaderboard: https://codeforces.com/blog/entry/126716
+  leaderboard: /bapc2024-scoreboard/index.html
   sponsors:
     - name: Jane Street
       tier: Silver
@@ -32,7 +32,7 @@
 - year: 2022
   link: https://codeforces.com/group/5kleZAqa52/
   image: images/Old_BAPC_Logo.png
-
+  leaderboard: https://codeforces.com/group/5kleZAqa52/contests
   sponsors:
     - name: Aops
       tier: Bronze
@@ -53,6 +53,7 @@
 
 - year: 2021
   link: https://codeforces.com/group/0HcLbgqiJ8/
+  leaderboard: https://codeforces.com/group/0HcLbgqiJ8/contests
   image: images/Old_BAPC_Logo.png
 
 

@@ -24,8 +24,6 @@
 }
 
 
-
-
 .logo {
     position: relative;
     display: flex;
@@ -206,7 +204,7 @@
 /* Hardcoded positions for each character */
 #oB {
     transform: translate(-7.331rem, 0.05rem);
-    --x: -30vw;
+    --x: calc(-40vw + 166px + 0.75rem);
     --y: -6.25rem;
     --ang: 5deg;
     --scale: 1;
@@ -214,7 +212,7 @@
 
 #B {
     transform: translate(-38px, -52.6px);
-    --x: -14vw;
+    --x: calc(-26vw + 166px + 0.75rem);
     --y: 150px;
     --ang: -4deg;
     --scale: 3;
@@ -222,7 +220,7 @@
 
 #A{
     transform: translate(40px, -56.6px);
-    --x: 4vw;
+    --x: calc(-8vw + 166px + 0.75rem);
     --y: -150px;
     --ang: 7deg;
     --scale: 3;
@@ -230,7 +228,7 @@
 
 #P {
     transform: translate(-40.5px, 47.3px);
-    --x: 20vw;
+    --x: calc(9vw + 166px + 0.75rem);
     --y: 200px;
     --ang: -12deg;
     --scale: 3;
@@ -238,7 +236,7 @@
 
 #C {
     transform: translate(35.5px, 47.3px);
-    --x: 36vw;
+    --x: calc(26vw + 166px + 0.75rem);
     --y: -20px;
     --ang: -3deg;
     --scale: 3;
@@ -246,11 +244,30 @@
 
 #cB {
     transform: translate(117.3px, 0.8px);
-    --x: 50vw;
+    --x: calc(40vw + 166px + 0.75rem);
     --y: 100px;
     --ang: 15deg;
     --scale: 1;
 }
+
+@media (max-width: 1400px) {
+    #B,#A,#P,#C{
+        --scale: 2.5;
+    }
+}
+
+@media (max-width: 1200px) {
+    #B,#A,#P,#C{
+        --scale: 2.2;
+    }
+}
+
+@media (max-width: 992px) {
+    #B,#A,#P,#C{
+        --scale: 1.7;
+    }
+}
+
 
 
 .hero {
@@ -276,18 +293,18 @@ main div.Register a {
     font-size: 2.8vw;
     text-decoration: none;
     border-radius: 10px;
-    outline: 0.2vw solid #ff1144;
+    outline: 0.2vw solid #9b0e2d;
     padding: 20px 48px;
     position: relative;
-    z-index: 3;
     backdrop-filter: blur(5px);
     background-color: #ff114425;
+    z-index: 4;
 }
 
 main div.Register a:hover {
     font-weight: bold;
     border-radius: 10px;
-    box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
+    box-shadow: 0 0 1.15vw 1px #ff1144;
     rotate: 1deg;
 }
 
@@ -566,6 +583,7 @@ border-radius: 20px;
     background-color: #00000000 !important;
     z-index: 6;
 }
+
 
 img{
     loading: lazy !important;
