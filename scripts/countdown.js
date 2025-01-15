@@ -1,38 +1,19 @@
 // Set the date we're counting down to
-const countDownDate = new Date("March 3, 2024 11:00:00").getTime();
+const TARGET_DATE = new Date("March 3, 2024 11:00:00").getTime();
 
-// Update the count down every 1 second
 const x = setInterval(function () {
-
-    // Get today's date and time
     const now = new Date().getTime();
 
-    // Find the distance between now and the count down date
-    const distance = countDownDate - now;
+    const secondsRemaining = Math.floor((TARGET_DATE - now) / 1000);
 
-    // Time calculations for days, hours, minutes and seconds
-    let days = Math.floor(distance / (1000 * 60 * 60 * 24));
-    let hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    let minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-    let seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    const hours = String(Math.floor(secondsRemaining / (60 * 60))).padStart(2, "0");
+    const minutes = String(Math.floor(secondsRemaining / 60) % 60).padStart(2, "0");
+    const seconds = String(secondsRemaining % 60).padStart(2, "0");
 
-    hours = hours + days * 24;
-    if (seconds < 10) {
-        seconds = "0" + seconds;
-    }
-    if (minutes < 10) {
-        minutes = "0" + minutes;
-    }
-    if (hours < 10) {
-        hours = "0" + hours;
-    }
-
-
-    document.getElementById("date").textContent = `${hours} : ${minutes} : ${seconds}`;
-
-    // If the count down is finished, write some text
-    if (distance < 0) {
+    if (secondsRemaining > 0) {
+        document.getElementById("date").textContent = `${hours} : ${minutes} : ${seconds}`;
+    } else {
         clearInterval(x);
-        document.getElementById("date").textContent = "CONTEST IS TODAY!";
+        document.getElementById("date").textContent = "CONTEST HAS STARTED!";
     }
-}, 1000);
+}, 1000);  // Update once every second
