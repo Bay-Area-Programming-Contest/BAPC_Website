@@ -9,7 +9,7 @@ window.addEventListener("load", function () {
         translate = 450;
     }
     if (window.innerWidth < 992) {
-        translate = 500;
+        translate = 460;
     }
     if (window.innerWidth < 768) {
         translate = 1500;
@@ -45,7 +45,7 @@ window.addEventListener("load", function () {
             delay: 0,
         }
 
-        items.forEach((item, idx) => {
+        Array.from(items).forEach((item, idx) => {
             marqueeTiming["delay"] = -idx * (speed * 3)
             item.animate(marqueeFrames, marqueeTiming)
         })
