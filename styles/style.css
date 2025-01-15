@@ -69,7 +69,7 @@
 
 @keyframes slideShard {
     0%{
-        height: 0px;
+        height: 0;
         visibility: hidden;
     }
     100%{
@@ -129,7 +129,7 @@
     /*animation: name duration timing-function delay iteration-count direction fill-mode;*/
     animation-delay: 0s, 1s;
     animation-iteration-count: 1,2;
-    text-shadow: 0px 0px 10px red;
+    text-shadow: 0 0 10px red;
     transition-duration: 1s;
 }
 
@@ -155,9 +155,6 @@
     .date {
         font-size: 9vw !important;
         font-weight: bold;
-    }
-    #home-mask{
-        visibility: none;
     }
     #home-shard{
         transform: translateY(160px) rotate(90deg);
@@ -289,7 +286,7 @@ main div.Register a {
     align-items: center;
     width: 100%;
     justify-content: center;
-    color: #ff1144;
+    color: var(--bs-body-color);
     font-size: 2.8vw;
     text-decoration: none;
     border-radius: 10px;
@@ -297,14 +294,14 @@ main div.Register a {
     padding: 20px 48px;
     position: relative;
     backdrop-filter: blur(5px);
-    background-color: #ff114425;
+    background-color: #ff114420;
     z-index: 4;
 }
 
 main div.Register a:hover {
     font-weight: bold;
     border-radius: 10px;
-    box-shadow: 0 0 1.15vw 1px #ff1144;
+    box-shadow: 0 0 1.15vw 1px var(--bs-border-color);
     rotate: 1deg;
 }
 
@@ -335,11 +332,11 @@ main div.Discord a:hover {
 main div.Contest a {
     display: flex;
     align-items: center;
-    color: #ff1144;
+    color: var(--bs-body-color);
     font-size: 2.8vw;
     text-decoration: none;
     border-radius: 10px;
-    outline: 0.2vw solid #ff1144;
+    outline: 0.2vw solid var(--bs-border-color);
     padding: 1.2vw 2vw;
     box-shadow: 0 0 1.15vw 5px rgb(255, 0, 0);
 }
@@ -423,9 +420,9 @@ main div.Contest a:hover {
     font-weight: bold;
     letter-spacing: 2px;
     text-align: center;
-    color: #ff1144;
+    color: var(--bs-body-color);
     border-radius: 2vw;
-    border: 0.23vw solid #ff1144;
+    border: 0.23vw solid var(--bs-border-color);
 }
 
 .Sponsors .row{
@@ -442,7 +439,7 @@ main div.Contest a:hover {
 
 .card-border {
     border-radius: 1rem;
-    border: 0.23vw solid #ff1144;
+    border: 0.23vw solid var(--bs-border-color);
 }
 
 .card-flip > div {
@@ -503,7 +500,7 @@ main div.Contest a:hover {
 
 .socials:hover path,
 .socials:active path {
-    fill: #ff1144;
+    fill: var(--bs-body-color);
 }
 
 .svg-buttons svg {
@@ -522,13 +519,13 @@ main div.Contest a:hover {
     display: flex;
     align-items: center;
     text-align: center;
-    color: #ff1144;
+    color: var(--bs-body-color);
     font-size: 3.6vw;
     text-decoration: none;
     border-radius: 0.575vw;
     padding: 1.2vw 3vw;
     width: 100%;
-    border-color: #ff1144;
+    border-color: var(--bs-border-color);
     border-width: 0.2vw;
 }
 
@@ -550,24 +547,24 @@ border-radius: 20px;
 
 /* Customize hover and focus states */
 .btn-custom:hover {
-    border-color: #ff1144;
+    border-color: var(--bs-border-color);
     border-width: 0.2vw;
     box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
     rotate: 1deg;
     transition: all 0.2s ease-in-out;
 }
 .btn-custom:focus {
-    border-color: #ff1144;
+    border-color: var(--bs-border-color);
     border-width: 0.2vw;
     color: black;
-    background-color: #ff1144;
+    background-color: var(--bs-body-color);
 }
 
 .btn-custom:active{
-    border-color: #ff1144 !important;
+    border-color: var(--bs-border-color) !important;
     border-width: 0.2vw;
     color: black !important;
-    background-color: #ff1144 !important;
+    background-color: var(--bs-body-color) !important;
     box-shadow: 0 0 1.15vw 1px rgb(255, 0, 0);
 }
 
@@ -600,7 +597,7 @@ img{
 }
 
 .glow-card:hover{
-    box-shadow: 0px 0px 10px #ff1144;
+    box-shadow: 0 0 10px var(--bs-border-color);
 }
 
 .glow-card{
@@ -695,7 +692,7 @@ opacity: 1;
     background: linear-gradient(transparent 50%, transparent);
     border-radius: 10px;
     border: solid 2px #ff114547;
-    box-shadow: inset 0px 0px 130px 0px #ff114425;
+    box-shadow: inset 0px 0px 130px 0px #ff114420;
     background-color: black;
     height: 100%;
     width: 100%;
@@ -721,7 +718,7 @@ opacity: 1;
 
 .archive-button-label p{
     font-weight: 900;
-    color: #ff1144;
+    color: var(--bs-body-color);
 }
 
 .puzzle-icon{
