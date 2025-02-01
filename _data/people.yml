@@ -14,8 +14,7 @@
 - name: Hongyi Shi
   role: Organizer
   image: hongyi.png
-  description: Hongyi is a senior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics reserach, play SET, and hike.
-  codeforces: clcos
+  description: Hongyi is a senior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
   github: resplendentHSHI
 
 - name: Jason Lin
@@ -33,14 +32,19 @@
 - name: Andrew Xu
   role: Organizer
   image: andrew.png
-  description: Andrew is a freshman at Gunn High School, a participant in the USACO Gold Division, and a AIME Qualifier. In his free time, he beats good Brawl Stars players with Darryl.
+  description: Andrew is a freshman at Gunn High School, a participant in the USACO Gold Division, and an AIME Qualifier. In his free time, he beats good Brawl Stars players with Darryl.
   codeforces: andrewxu
   github: zhenboi
+
+- name: Michael Ma
+  role: Organizer
+  image: michael.png
+  description: Michael is a Freshman at Gunn High School, a participant in the USACO Gold division, and an AIME Qualifier. Outside of competitive programming, he enjoys watching the 49ers and hopes Patrick Mahomes retires soon.
 
 - name: Ian Cheung
   role: Organizer
   image: ian.png
-  description: Ian is a senior at Gunn High School. He is a front-end website and Discord bot developer. During his free time, he likes to play the violin, hiking, compose music, play video games, and sometimes be chronically online on Discord.
+  description: Ian is a senior at Gunn High School. He is a front-end website and Discord bot developer. During his free time, he likes to play the violin, hike, compose music, play video games, and sometimes be chronically online on Discord.
   github: iancheung0202
 
 - name: Ezra Furtado-Tiwari
