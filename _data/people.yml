@@ -58,14 +58,6 @@
   description: Ezra is a Gunn alum (class of 2024) and student at UCSB. During his time at Gunn, he participated in the USACO Platinum division and was a 3-time AIME Qualifier. Outside of competitive programming, he enjoys doing CTF contests and math.
   codeforces: ezraft
 
-- name: Om Mahesh
-  role: Advisor
-  image: om.png
-  description: Om is a Gunn alum (class of 2024) and student at UCSB. He is an Expert on the competitive programming platform Codeforces and a 4-time AIME Qualifier. He also likes bouldering and has probably inhaled too much chalk.
-  codeforces: lce4113
-  github: lce4113
-  website: https://lce4113.github.io/
-
 - name: William Tsin
   role: Advisor
   image: william.png
