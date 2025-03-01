@@ -17,6 +17,12 @@
   description: Hongyi is a senior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
   github: resplendentHSHI
 
+- name: Grant Ho
+  role: Organizer
+  image: grant.png
+  description: Grant is a junior at Irvington High School. He is a Candidate Master on Codeforces as well as a 3-time AIME Qualifier. He also likes playing catan in his free time.
+  codeforces: hihitherethere
+
 - name: Jason Lin
   role: Organizer
   image: jason.png
