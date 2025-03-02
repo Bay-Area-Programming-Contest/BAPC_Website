@@ -57,6 +57,10 @@
   image: aminjin.png
   description: Aminjin is a junior at Gunn High School, USACO gold, and a previous member of the Mongolian team in the European Girls Olympiad in Informatics. They also enjoy cheerleading, and hackathons!
 
+- name: Mary Yu
+  role: Photographer
+  image: mary.png
+  description: Mary is a junior at Gunn High School. She likes taking photos.
 
 - name: Ezra Furtado-Tiwari
   role: Advisor
