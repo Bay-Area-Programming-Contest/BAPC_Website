@@ -52,6 +52,12 @@
   image: simren.png
   description: Simren is a freshman at Gunn High School and a participant in the USACO Bronze Division. Aside from competitive programming and attending hackathons, she competes in taekwondo sparring and enjoys spending time outdoors.
 
+- name: Aminjin Battulga
+  role: Organizer
+  image: aminjin.png
+  description: Aminjin is a junior at Gunn High School, USACO gold, and a previous member of the Mongolian team in the European Girls Olympiad in Informatics. They also enjoy cheerleading, and hackathons!
+
+
 - name: Ezra Furtado-Tiwari
   role: Advisor
   image: ezra.jpeg
