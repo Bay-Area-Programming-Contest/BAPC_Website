@@ -1,34 +1,34 @@
-- name: 2024
+- name: "2024"
   categories:
     - name: Entire room
       photos:
-        - link: /Photos/2024/Entire%20Room/DSC_3894.JPG
-        - link: /Photos/2024/Entire%20Room/DSC_3895.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0191.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0192.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0193.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0237.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0262.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0263.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0264.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0265.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0266.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0267.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0268.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0269.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0276.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0284.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0285.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0311.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0358.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0359.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0360.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0382.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0392.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0393.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_0396.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_2103.JPG
-        - link: /Photos/2024/Entire%20Room/IMG_2104.JPG
+        - link: /Photos/2024/Entire Room/DSC_3894.JPG
+        - link: /Photos/2024/Entire Room/DSC_3895.JPG
+        - link: /Photos/2024/Entire Room/IMG_0191.JPG
+        - link: /Photos/2024/Entire Room/IMG_0192.JPG
+        - link: /Photos/2024/Entire Room/IMG_0193.JPG
+        - link: /Photos/2024/Entire Room/IMG_0237.JPG
+        - link: /Photos/2024/Entire Room/IMG_0262.JPG
+        - link: /Photos/2024/Entire Room/IMG_0263.JPG
+        - link: /Photos/2024/Entire Room/IMG_0264.JPG
+        - link: /Photos/2024/Entire Room/IMG_0265.JPG
+        - link: /Photos/2024/Entire Room/IMG_0266.JPG
+        - link: /Photos/2024/Entire Room/IMG_0267.JPG
+        - link: /Photos/2024/Entire Room/IMG_0268.JPG
+        - link: /Photos/2024/Entire Room/IMG_0269.JPG
+        - link: /Photos/2024/Entire Room/IMG_0276.JPG
+        - link: /Photos/2024/Entire Room/IMG_0284.JPG
+        - link: /Photos/2024/Entire Room/IMG_0285.JPG
+        - link: /Photos/2024/Entire Room/IMG_0311.JPG
+        - link: /Photos/2024/Entire Room/IMG_0358.JPG
+        - link: /Photos/2024/Entire Room/IMG_0359.JPG
+        - link: /Photos/2024/Entire Room/IMG_0360.JPG
+        - link: /Photos/2024/Entire Room/IMG_0382.JPG
+        - link: /Photos/2024/Entire Room/IMG_0392.JPG
+        - link: /Photos/2024/Entire Room/IMG_0393.JPG
+        - link: /Photos/2024/Entire Room/IMG_0396.JPG
+        - link: /Photos/2024/Entire Room/IMG_2103.JPG
+        - link: /Photos/2024/Entire Room/IMG_2104.JPG
     - name: Miscellaneous
       categories:
         - name: Balloons
