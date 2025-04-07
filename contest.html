@@ -7,255 +7,293 @@ title: BAPC 2025 | Bay Area Programming Contest
 <body>
 {% include navbar.html %}
 
-<main id="glass-card-container" class="container-lg">
-    <h1 class="display-5 text-white text-center">CONTEST INFORMATION</h1>
+<main id="glass-card-container" class="container-lg py-4">
+    <header>
+        <h1 class="display-5 text-white text-center mb-4">CONTEST INFORMATION</h1>
+    </header>
 
     <div class="row row-cols-1 row-cols-sm-2 g-4 mx-2 my-1 px-1">
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>TIME & LOCATION</h2>
                     <p class="h5">
-                        BAPC 2025 will be held at Gunn High School's Titan Gym in Palo Alto, California on Sunday, March 2nd, 2025 from
+                        BAPC 2025 was held at Gunn High School's Titan Gym in Palo Alto, California on Sunday, March 2nd, 2025 from
                         10:00 AM to 4:10 PM. Click <a href="/docs/Schedule+Location.pdf#zoom=36" target="_blank">here</a> for more details.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>CONTEST FORMAT</h2>
                     <p class="h5">
-                        The <b>3</b> hour long ICPC-style contest will be held through DomJudge. (For more rules See Below).
+                        The <b>3</b> hour long ICPC-style contest will be held through DOMJudge.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
     </div>
 
     <div class="row row-cols-1 row-cols-sm-3 g-4 mx-2 my-1 px-1">
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>TEAMS</h2>
                     <p class="h5">
-                        Teams may have at most <b>3</b> members and must use <b>1</b> computer during the contest. Participants should bring their own computers.
+                        Teams may have up to <strong>3</strong> members and must use <strong>1</strong> computer during the contest. 
+                        Participants should bring their own computers.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
         <div class="col">
-            <div class="glass-card glow-card card card-border h-100">
+            <article class="glass-card glow-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>REGISTRATION</h2>
                     <p class="h5">
                         <a> Registration for 2025 has closed.</a>
                     </p>
                     <p class="h5">
-                        Join the Discord server <a href="https://discord.gg/KeCwPgwE82" target="_blank">here.</a>
+                        Join our Discord server <a href="https://discord.gg/KeCwPgwE82" target="_blank" rel="noopener" 
+                           aria-label="Join BAPC Discord server">here</a> for announcements and team formation.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>PROBLEMS</h2>
                     <p class="h5">
-                        You will be given <b>8 to 13</b> problems to solve ranging from USACO Bronze to
-                        Platinum difficulty. The problems will not be sorted by difficulty.
+                        The contest will feature <strong>8 to 13</strong> algorithmic problems ranging from USACO Bronze to
+                        Platinum difficulty. Problems will not be sorted by difficulty.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
     </div>
 
     <div class="row row-cols-1 row-cols-sm-2 g-4 mx-2 my-1 px-1">
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>PRIZES</h2>
-                    <div id="prizeCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000">
+                    <div id="prizeCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="3000" aria-label="Prize showcase">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/smokin_buds.png" class="d-block" alt="Earbuds Prize" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/smokin_buds.png" alt="Earbuds Prize" loading="lazy">
+                                </figure>
                             </div>
                             <div class="carousel-item">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/easy-catch-frisbee.png" class="d-block" alt="Frisbee Prize" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/easy-catch-frisbee.png" alt="Frisbee Prize" loading="lazy">
+                                </figure>
                             </div>
                             <div class="carousel-item">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/hanayama_puzzle.png" class="d-block" alt="Hanayama Puzzle" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/hanayama_puzzle.png" alt="Hanayama Puzzle" loading="lazy">
+                                </figure>
                             </div>
                             <div class="carousel-item">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/red_panda_plushie.png" class="d-block" alt="Red Panda Plushie" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/red_panda_plushie.png" alt="Red Panda Plushie" loading="lazy">
+                                </figure>
                             </div>
                             <div class="carousel-item">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/red_panda_stickers.png" class="d-block" alt="Red Panda Stickers" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/red_panda_stickers.png" alt="Red Panda Stickers" loading="lazy">
+                                </figure>
                             </div>
                             <div class="carousel-item">
-                                <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-                                    <img src="/images/prizes/sunny_city_puzzle.png" class="d-block" alt="Sunny City Puzzle" style="max-height: 100%; object-fit: contain;">
-                                </div>
+                                <figure class="prize-image-container">
+                                    <img src="/images/prizes/sunny_city_puzzle.png" alt="Sunny City Puzzle" loading="lazy">
+                                </figure>
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#prizeCarousel" data-bs-slide="prev">
                             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
+                            <span class="visually-hidden">Previous prize</span>
                         </button>
                         <button class="carousel-control-next" type="button" data-bs-target="#prizeCarousel" data-bs-slide="next">
                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
+                            <span class="visually-hidden">Next prize</span>
                         </button>
-                        
                     </div>
-                    <p class="h5">
-                        <!--
-                        Everyone who participates in person will receive a T-shirt given a registration prior to 2/20/24.
-                        Top 3 teams will receive prizes. Prizes will include coupons and gifts from our sponsors,
-                        as well as red panda plushies!
-                        Prizes will only be provided to pre-college participants in the in-person contest.
-                        -->
-                    </p>
                 </div>
-            </div>
+            </article>
         </div>
         <div class="col">
-            <div class="glass-card card card-border h-100">
+            <article class="glass-card card card-border h-100">
                 <div class="card-body text-center">
                     <h2>ONLINE MIRROR</h2>
                     <p class="h5">
-                        We will also be hosting an online mirror for those who cannot make this event in person. There
-                        will be a separate set of rules for those taking the contest online 
-                    </p>
-                    <p class="h5">
-                        (See Online Mirror Section).
+                        Participants who cannot attend in-person can compete in the online mirror.
+                        There will be a separate set of rules for those taking the contest online.
+                        See the Online Mirror section below for more details.
                     </p>
                 </div>
-            </div>
+            </article>
         </div>
     </div>
 
     <div class="row">
         <div class="accordion">
             <div class="m-4">
-                <div class="glass-card card-border position-relative">
+                <article class="glass-card card-border position-relative">
                     <div class="accordion-item border-0 bg-transparent">
-                        <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
-                                data-bs-toggle="collapse" data-bs-target="#scheduleContent" 
-                                aria-expanded="false" aria-controls="scheduleContent"
-                                style="z-index: 10;">
-                            <h3 class="card-title h3 m-0 text-danger">SCHEDULE</h3>
-                        </button>
+                        <h3>
+                            <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
+                                    data-bs-toggle="collapse" data-bs-target="#scheduleContent" 
+                                    aria-expanded="false" aria-controls="scheduleContent">
+                                <span class="card-title h3 m-0 text-danger">SCHEDULE</span>
+                            </button>
+                        </h3>
                     </div>
                     <div id="scheduleContent" class="accordion-collapse collapse" aria-labelledby="schedule">
                         <div class="accordion-body pt-0">
                             <div class="border-top pt-3">
-                                <p class="h5">10:00 — 10:30 Check-In</p>
+                                <dl class="row">
+                                    <dt class="col-sm-4 h5">10:00 — 10:30</dt>
+                                    <dd class="col-sm-8 h5">Check-In</dd>
 
-                                <p class="h5"> 10:30 — 10:50 Opening Ceremony </p>
+                                    <dt class="col-sm-4 h5">10:30 — 10:50</dt>
+                                    <dd class="col-sm-8 h5">Opening Ceremony</dd>
 
-                                <p class="h5"> 10:50 — 11:30 Practice Contest</p>
+                                    <dt class="col-sm-4 h5">10:50 — 11:30</dt>
+                                    <dd class="col-sm-8 h5">Practice Contest</dd>
 
-                                <p class="h5"> 11:30 — 12:20 Mini-Events + Lunch</p>
+                                    <dt class="col-sm-4 h5">11:30 — 12:20</dt>
+                                    <dd class="col-sm-8 h5">Mini-Events + Lunch</dd>
 
-                                <p class="h5"> 12:45 — 3:45 Contest</p>
+                                    <dt class="col-sm-4 h5">12:45 — 3:45</dt>
+                                    <dd class="col-sm-8 h5">Contest</dd>
 
-                                <p class="h5"> 3:50 — 4:10 Closing Ceremony</p>
-
-                                <p class="h5"> *all times are in PT</p>
+                                    <dt class="col-sm-4 h5">3:50 — 4:10</dt>
+                                    <dd class="col-sm-8 h5">Closing Ceremony</dd>
+                                </dl>
+                                <p class="h5 text-muted"><small>* All times are in Pacific Time (PT)</small></p>
                             </div>
                         </div>
                     </div>
-                </div>
+                </article>
             </div>
 
             <div class="m-4">
-                <div class="glass-card card-border position-relative">
+                <article class="glass-card card-border position-relative">
                     <div class="accordion-item border-0 bg-transparent">
-                        <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
-                                data-bs-toggle="collapse" data-bs-target="#rulesContent" 
-                                aria-expanded="false" aria-controls="rulesContent"
-                                style="z-index: 10;">
-                            <h3 class="card-title h3 m-0 text-danger">RULES</h3>
-                        </button>
+                        <h3>
+                            <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
+                                    data-bs-toggle="collapse" data-bs-target="#rulesContent" 
+                                    aria-expanded="false" aria-controls="rulesContent">
+                                <span class="card-title h3 m-0 text-danger">CONTEST RULES</span>
+                            </button>
+                        </h3>
                     </div>
                     <div id="rulesContent" class="accordion-collapse collapse" aria-labelledby="rules">
                         <div class="accordion-body pt-0">
                             <div class="border-top pt-3">
-                                <h4>International Collegiate Programming Contest (ICPC) Format </h4>
-                                <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total
-                                    time penalty across solved problems. </p>
-                                <p>- Each incorrect submission will incur 20 additional minutes of time penalty. </p>
-                                <p>- Outside sources (other than reference manuals) are not allowed. This includes but is not limited to the Internet and AI</p>
-                                <p>- A codebook will be provided to each team before the contest. </p>
-                                <p>- Participants will be able to print their code. </p>
+                                <h4 class="mb-3">International Collegiate Programming Contest (ICPC) Format</h4>
+                                <ul>
+                                    <li class="h5 mb-2">Teams are ranked by number of problems solved, with ties broken by total time penalty</li>
+                                    <li class="h5 mb-2">Each incorrect submission adds a 20-minute time penalty</li>
+                                    <li class="h5 mb-2">Outside sources (except reference manuals) are not allowed, including Internet and AI</li>
+                                    <li class="h5 mb-2">A codebook will be provided to each team before the contest</li>
+                                    <li class="h5 mb-2">Code printing facilities will be available during the contest</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
-                </div>
+                </article>
             </div>
 
             <div class="m-4">
-                <div class="glass-card card-border position-relative">
+                <article class="glass-card card-border position-relative">
                     <div class="accordion-item border-0 bg-transparent">
-                        <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
-                                data-bs-toggle="collapse" data-bs-target="#onlineMirrorContent" 
-                                aria-expanded="false" aria-controls="onlineMirrorContent"
-                                style="z-index: 10;">
-                            <h3 class="card-title h3 m-0 text-danger">ONLINE MIRROR</h3>
-                        </button>
+                        <h3>
+                            <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
+                                    data-bs-toggle="collapse" data-bs-target="#onlineMirrorContent" 
+                                    aria-expanded="false" aria-controls="onlineMirrorContent">
+                                <span class="card-title h3 m-0 text-danger">ONLINE MIRROR</span>
+                            </button>
+                        </h3>
                     </div>
                     <div id="onlineMirrorContent" class="accordion-collapse collapse" aria-labelledby="onlineMirror">
                         <div class="accordion-body pt-0">
                             <div class="border-top pt-3">
-                                <h4>Contest Format</h4>
-                                <p>- Teams will be ranked based on number of problems solved. Ties will be broken by total
-                                    time penalty across solved problems. </p>
-                                <p>- Each incorrect submission will incur 20 additional minutes of time penalty. </p>
-                                <p>- Prewritten code and use of the internet is allowed. </p>
-                                <p>- Participants are encouraged to meet up and use 1 computer; however, this isn't a
-                                    requirement. </p>
+                                <h4 class="mb-3">Contest Format</h4>
+                                <ul>
+                                    <li class="h5 mb-2">Teams are ranked by number of problems solved, with ties broken by total time penalty</li>
+                                    <li class="h5 mb-2">Each incorrect submission adds a 20-minute time penalty</li>
+                                    <li class="h5 mb-2">Prewritten code and internet resources are allowed</li>
+                                    <li class="h5 mb-2">Participants are encouraged but not required to meet up and use 1 computer.</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
-                </div>
+                </article>
             </div>
 
             <div class="m-4">
-                <div class="glass-card card-border position-relative">
+                <article class="glass-card card-border position-relative">
                     <div class="accordion-item border-0 bg-transparent">
-                        <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
-                                data-bs-toggle="collapse" data-bs-target="#resourcesContent" 
-                                aria-expanded="false" aria-controls="resourcesContent"
-                                style="z-index: 10;">
-                            <h3 class="card-title h3 m-0 text-danger">RESOURCES</h3>
-                        </button>
+                        <h3>
+                            <button class="accordion-button collapsed w-100 h-100 p-4 position-relative" type="button" 
+                                    data-bs-toggle="collapse" data-bs-target="#resourcesContent" 
+                                    aria-expanded="false" aria-controls="resourcesContent">
+                                <span class="card-title h3 m-0 text-danger">LEARNING RESOURCES</span>
+                            </button>
+                        </h3>
                     </div>
                     <div id="resourcesContent" class="accordion-collapse collapse" aria-labelledby="resources">
                         <div class="accordion-body pt-0">
                             <div class="border-top pt-3">
-                                <h4>Competitive Programming Resources</h4>
-                                <p>- <a href="http://usaco.org">USA Computing Olympiad (USACO)</a>: The largest competitive programming contest for high school students in the USA. </p>
-                                <p>- <a href="https://codeforces.com">Codeforces</a>: Regular competitive programming contests for people around the world. </p>
-                                <p>- <a href="https://usaco.guide">USACO Guide</a>: A free student-run comprehensive guide to approaching and practicing for the USACO. </p>
-                                <h4>General Programming Resources</h4>
-                                <p>- <a href="https://codecademy.com">Codecademy</a>: Self-guided tutorials for various programming languages. </p>
-                                <p>- <a href="https://learncpp.com">Learn C++</a>: A free tutorial website for the C++ programming language. </p>
+                                <section>
+                                    <h4 class="mb-3">Competitive Programming Resources</h4>
+                                    <ul>
+                                        <li class="h5 mb-3">
+                                            <a href="http://usaco.org" target="_blank" rel="noopener" 
+                                               aria-label="Visit USACO website - opens in new tab" class="text-decoration-none">
+                                               <strong>USA Computing Olympiad (USACO)</strong>
+                                            </a>: Largest competitive programming contest for US high school students
+                                        </li>
+                                        <li class="h5 mb-3">
+                                            <a href="https://codeforces.com" target="_blank" rel="noopener" 
+                                               aria-label="Visit Codeforces - opens in new tab" class="text-decoration-none">
+                                               <strong>Codeforces</strong>
+                                            </a>: Regular competitive programming contests worldwide
+                                        </li>
+                                        <li class="h5 mb-3">
+                                            <a href="https://usaco.guide" target="_blank" rel="noopener" 
+                                               aria-label="Visit USACO Guide - opens in new tab" class="text-decoration-none">
+                                               <strong>USACO Guide</strong>
+                                            </a>: Free, comprehensive guide to competitive programming
+                                        </li>
+                                    </ul>
+                                </section>
+                                <section class="mt-4">
+                                    <h4 class="mb-3">General Programming Resources</h4>
+                                    <ul>
+                                        <li class="h5 mb-3">
+                                            <a href="https://codecademy.com" target="_blank" rel="noopener" 
+                                               aria-label="Visit Codecademy - opens in new tab" class="text-decoration-none">
+                                               <strong>Codecademy</strong>
+                                            </a>: Interactive tutorials for various programming languages
+                                        </li>
+                                        <li class="h5 mb-3">
+                                            <a href="https://learncpp.com" target="_blank" rel="noopener" 
+                                               aria-label="Visit Learn C++ - opens in new tab" class="text-decoration-none">
+                                               <strong>Learn C++</strong>
+                                            </a>: Comprehensive C++ programming tutorial website
+                                        </li>
+                                    </ul>
+                                </section>
                             </div>
                         </div>
                     </div>
-                </div>
+                </article>
             </div>
         </div>
     </div>

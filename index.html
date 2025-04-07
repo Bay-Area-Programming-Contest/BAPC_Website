@@ -45,7 +45,7 @@ title: BAPC 2025 | Bay Area Programming Contest
                 </div>
                 <div id="logo" class="logo">
                     <!-- <img src="/images/BAPC_Logo.png" width="388">-->
-                    <span class="char" id="oB">                    
+                    <span class="char" id="oB">
                         <svg width="150" height="297" viewBox="0 0 97 297" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M85.925 296.1C64.8083 296.1 49.875 291.375 41.125 281.925C32.375 272.592 28 256.842 28 234.675V175.35L8.575 168C2.85833 165.433 0 161.117 0 155.05V144.725C0 138.775 2.85833 134.517 8.575 131.95L28 124.25V64.925C28 49.875 29.75 37.5667 33.25 28C36.8667 18.4333 42.8167 11.375 51.1 6.82501C59.3833 2.275 70.5833 0 84.7 0C88.4333 0 91.4083 1.05 93.625 3.15C95.8417 5.13334 96.95 7.70001 96.95 10.85C96.95 14.1167 95.8417 16.8 93.625 18.9C91.525 20.8833 88.9583 21.9333 85.925 22.05C79.5083 22.1667 74.025 22.6917 69.475 23.625C64.925 24.4417 61.1917 26.25 58.275 29.05C55.475 31.7333 53.375 35.9333 51.975 41.65C50.6917 47.25 50.05 55.0083 50.05 64.925V129.85C50.05 136.5 47.25 140.817 41.65 142.8L13.65 152.6V147.35L41.475 156.8C47.1917 158.783 50.05 163.042 50.05 169.575V234.675C50.05 245.992 50.9833 254.392 52.85 259.875C54.8333 265.475 58.3917 269.15 63.525 270.9C68.775 272.767 76.2417 273.817 85.925 274.05C89.1917 274.05 91.8167 275.1 93.8 277.2C95.9 279.417 96.95 282.042 96.95 285.075C96.95 287.992 95.8417 290.558 93.625 292.775C91.525 294.992 88.9583 296.1 85.925 296.1Z" fill="#ff1144"/>
                         </svg>        
@@ -82,12 +82,11 @@ title: BAPC 2025 | Bay Area Programming Contest
                 </div>
             </div>
             <div id="home-info" class="col col-md-5 col-lg-4 col-xl-3 p-3 d-flex flex-column align-items-center">
-                <div id="time">
-                    <h2 id="year" class="date text-white" style="text-shadow: 0 0 20px white;">03.02.25</h2>
-                    <h2 id="date" class="date text-white mb-4" style="text-shadow: 0 0 20px white;"></h2>
+                <div id="time" class="mb-4">
+                    <h2 class="date text-glow text-white">03.02.25</h2>
                 </div>
                 <div class="Register d-flex w-100 mb-4">
-                    <a id="registerButton" href="https://judge.gunncpc.com/" target="_blank">JUDGE</a>
+                    <a id="registerButton" href="https://judge.gunncpc.com/" target="_blank">UPSOLVE</a>
                 </div>
                 <div class="Discord d-flex w-100 mb-2">
                     <a id="discordButton" href="https://discord.gg/yUVpxw7wVw" target="_blank">Join the Discord</a>
@@ -95,39 +94,34 @@ title: BAPC 2025 | Bay Area Programming Contest
             </div>
         </div> 
     </div>
-    <div onclick="scrollToSection()" style="cursor: pointer;">
+    <div onclick="scrollToSection()" role="button">
         <img id="delayed-button" class="m-5" src="/images/downarrow.png" alt="down arrow">
     </div>
 </main>
 
-<div class="WhatIsBAPC text-center vh-100">
+<section class="WhatIsBAPC text-center vh-100" aria-labelledby="about-title">
     <div class="col-12">
-        <div class="heading fw-bold" data-delay="0">
-            <div class="fade-in-text">ABOUT BAPC</div>
-        </div>
-            <div class="bodyText text-white">
-                <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
-                <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
-                    designed by<br></div>
-                <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
-                    Area<br></div>
-                <div class="fade-in-text" data-delay="400">high school students an opportunity to compete with peers
-                    and solve<br></div>
-                <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br>
-            </div>
+        <h2 id="about-title" class="heading fw-bold fade-in-text" data-delay="0">ABOUT BAPC</h2>
+        <div class="bodyText text-white">
+            <div class="fade-in-text" data-delay="100">The Bay Area Programming Contest (BAPC)<br></div>
+            <div class="fade-in-text" data-delay="200">is a programming contest for contestants of all levels
+                designed by<br></div>
+            <div class="fade-in-text" data-delay="300">Gunn's Competitive Programming Club. We hope to give Bay
+                Area<br></div>
+            <div class="fade-in-text" data-delay="400">high school students an opportunity to compete with peers
+                and solve<br></div>
+            <div class="fade-in-text" data-delay="500"> some interesting problems in an ICPC style format.<br></div>
         </div>
     </div>
-</div>
+</section>
 
-<div class="FAQ">
+<section class="FAQ" aria-labelledby="faq-title">
     <div class="container-fluid">
-        <div class="fade-in-text" data-delay="0">
-            <div>FREQUENTLY ASKED QUESTIONS</div>
-        </div>
+        <h2 id="faq-title" class="fade-in-text" data-delay="0">FREQUENTLY ASKED QUESTIONS</h2>
         <div class="row">
             <div class="col-lg-6 col-12">
                 <div class="fade-in-text" data-delay="100">
-                    <div class="question"> WHERE WILL BAPC BE HELD?</div>
+                    <h3 class="question">WHERE WILL BAPC BE HELD?</h3>
                 </div>
                 <div class="fade-in-text" data-delay="200">
                     <div class="answer"> BAPC will be held in-person at Gunn High School's Titan Gym. There will be an online
@@ -137,7 +131,7 @@ title: BAPC 2025 | Bay Area Programming Contest
             </div>
             <div class="col-lg-6 col-12">
                 <div class="fade-in-text" data-delay="300">
-                    <div class="question"> WHAT LANGUAGES ARE AVAILABLE?</div>
+                    <h3 class="question">WHAT LANGUAGES ARE AVAILABLE?</h3>
                 </div>
                 <div class="fade-in-text" data-delay="400">
                     <div class="answer"> We support C++, Python3, and Java.</div>
@@ -147,17 +141,17 @@ title: BAPC 2025 | Bay Area Programming Contest
         <div class="row">
             <div class="col-lg-6 col-12">
                 <div class="fade-in-text" data-delay="500">
-                    <div class="question"> WHAT IS THE FORMAT OF THE CONTEST?</div>
+                    <h3 class="question">WHAT IS THE FORMAT OF THE CONTEST?</h3>
                 </div>
                 <div class="fade-in-text" data-delay="600">
-                    <div class="answer"> It will be a TBD hour long ICPC style contest. You will be given between
+                    <div class="answer"> It will be a 3 hour long ICPC style contest. You will be given between
                         8 and 13 problems to solve with your team.
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-12">
                 <div class="fade-in-text" data-delay="700">
-                    <div class="question"> HOW MANY PEOPLE CAN BE ON A TEAM?</div>
+                    <h3 class="question">HOW MANY PEOPLE CAN BE ON A TEAM?</h3>
                 </div>
                 <div class="fade-in-text" data-delay="800">
                     <div class="answer"> Teams may have up to 3 members.</div>
@@ -167,28 +161,20 @@ title: BAPC 2025 | Bay Area Programming Contest
     </div>
 </div>
 
-<div class="Sponsors">
+<section class="Sponsors" aria-labelledby="sponsors-title">
     <div class="container">
-        <div style="color: #ff1144;font-size: 6rem;">OUR SPONSORS</div>
+        <h2 id="sponsors-title" class="sponsors-title">OUR SPONSORS</h2>
 
         <!--<div class="sponsor-tier" style="color: #ff1144;">Join Us Today</div>-->
         
-        
-        <div class = "sponsor-tier" style="color: #93CFFB;">PLATINUM</div>
+        <div class="sponsor-tier platinum">PLATINUM</div>
         <div class="row">
             <div class="col-lg-4 col-12">
                 <a href="https://x-camp.academy/" target="_blank"><img src="/images/X-Camp.png" class="w-75" alt="X-Camp Logo"></a>
             </div>
         </div>
-        
-        <!-- <div class = "sponsor-tier">GOLD</div>
-        <div class="row">
-            <div class="col-lg-4 col-12">
-                <a href="https://x-camp.academy/" target="_blank"><img src="/images/X-Camp.png" class="w-75" alt="X-Camp Logo"></a>
-            </div>
-        </div> -->
 
-        <div class = "sponsor-tier" style="color: #c0c0c0;">SILVER</div>
+        <div class="sponsor-tier silver">SILVER</div>
         <div class="row">
             <div class="col-lg-4 col-12">
                 <a href="https://alphastar.academy/" target="_blank"><img src="/images/Alphastar_Logo.png" class="w-75" alt="Alphastar Logo"></a>
@@ -200,7 +186,7 @@ title: BAPC 2025 | Bay Area Programming Contest
                 <a href="https://citadelsecurities.com/" target="_blank"><img src="/images/Citadel.png" class="w-75" alt="Citadel Logo"></a>
             </div>
         </div> 
-        <div class = "sponsor-tier" style="color: #CD7F32;">BRONZE</div>
+        <div class="sponsor-tier bronze">BRONZE</div>
         <div class="row">
             <div class="col-lg-4 col-12">
                 <a href="https://easyfuncoding.com/" target="_blank"><img src="/images/easyfuncoding.png" class="w-75" alt="EasyFunCoding Logo"></a>
@@ -209,15 +195,15 @@ title: BAPC 2025 | Bay Area Programming Contest
                 <a href="https://www.desmos.com/" target="_blank"><img src="/images/Desmos_logo.webp" class="w-75" alt="Desmos Logo"></a>
             </div>
         </div> 
-        <div class = "sponsor-tier">PARTNERS</div>
+        <div class="sponsor-tier">PARTNERS</div>
         <div class="row">
             <div class="col-lg-4 col-12">
                 <a href="https://joincpi.org/" target="_blank"><img src="/images/CPI_Logo_1.png" class="w-75" alt="CPI Logo"></a>
             </div>
         </div>
-        <div class="my-5 fs-6" style="letter-spacing: 2px;">To sponsor our event, email us at <a href="mailto:gunncpc@gmail.com">gunncpc@gmail.com</a>. Find our sponsorship prospectus <a href="/docs/Sponsorship_Prospectus.pdf#zoom=36" target="_blank">here</a>.</div>
+        <p class="my-5 fs-6 sponsor-contact">To sponsor our event, email us at <a href="mailto:gunncpc@gmail.com">gunncpc@gmail.com</a>. Find our sponsorship prospectus <a href="/docs/Sponsorship_Prospectus.pdf#zoom=36" target="_blank">here</a>.</p>
     </div>
-</div>
+</section>
 <footer class="text-center">
     <p>&copy; 2025 Bay Area Programming Contest. All rights reserved.</p>
 </footer>
