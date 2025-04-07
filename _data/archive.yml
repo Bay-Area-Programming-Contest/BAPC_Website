@@ -1,3 +1,33 @@
+- year: 2025
+  link: https://codeforces.com/blog/entry/140262
+  image: images/Archive2024image.png
+  leaderboard: /bapc2025_Scoreboard/index.html
+  sponsors:
+    - name: X-Camp
+      tier: Platinum
+      image: X-Camp.png
+      link: https://x-camp.academy/
+    - name: Alphastar
+      tier: Silver
+      image: Alphastar_Logo.png
+      link: https://alphastar.academy/
+    - name: Jane Street
+      tier: Silver
+      image: Jane_Street_Logo.png
+      link: https://www.janestreet.com/
+    - name: Citadel
+      tier: Silver
+      image: Citadel.png
+      link: https://www.citadelsecurities.com/
+    - name: EasyFunCoding
+      tier: Bronze
+      image: easyfuncoding.png
+      link: https://easyfuncoding.com/
+    - name: Desmos
+      tier: Bronze
+      image: Desmos_logo.webp
+      link: https://www.desmos.com/
+
 - year: 2024
   link: https://codeforces.com/blog/entry/126716
   image: images/Archive2024image.png
@@ -27,7 +57,6 @@
       tier: Bronze
       image: Wolfram_Logo_1.png
       link: https://wolfram.com/
-
 
 - year: 2022
   link: https://codeforces.com/group/5kleZAqa52/
