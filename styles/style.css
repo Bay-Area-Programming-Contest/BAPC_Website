@@ -479,10 +479,54 @@ main div.Contest a:hover {
     margin: auto auto 1.15vw;
 }
 
-.circle-cutout img {
-    width: 100%; /* Ensure the image fills the container */
-    height: auto; /* Maintain aspect ratio */
-    display: block; /* Remove extra space under the image */
+.circle-cutout img,
+.prize-image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+}
+
+.prize-image-container {
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prize-image-container img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.text-glow {
+    text-shadow: 0 0 20px currentColor;
+}
+
+.sponsors-title {
+    color: #ff1144;
+    font-size: 6rem;
+}
+
+.sponsor-tier {
+    font-size: 2.5rem;
+    margin: 2rem 0;
+}
+
+.sponsor-tier.platinum {
+    color: #93CFFB;
+}
+
+.sponsor-tier.silver {
+    color: #c0c0c0;
+}
+
+.sponsor-tier.bronze {
+    color: #CD7F32;
+}
+
+.sponsor-contact {
+    letter-spacing: 2px;
 }
 
 .socials {

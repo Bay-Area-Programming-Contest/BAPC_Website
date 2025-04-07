@@ -7,75 +7,76 @@ title: Archive | Bay Area Programming Contest
 <body>
 {% include navbar.html %}
 
-<main>
-    <h1 class="display-5 text-white text-center">BAPC CONTEST ARCHIVE</h1>
-    <div id="glass-card-container" class="container">
-        {% for contest in site.data.archive %}
-            <div class="glass-card card card-border my-3 overflow-hidden">
-                <div class="row row-cols-1 row-cols-md-2 w-100 align-self-center">
-                    <div class="col p-0">
+<main class="py-4">
+    <div class="container">
+        <h1 class="display-5 text-white text-center mb-4">BAPC CONTEST ARCHIVE</h1>
+        <div id="glass-card-container" class="container px-0">
+            {% for contest in site.data.archive %}
+            <article class="glass-card card card-border my-4 overflow-hidden" aria-labelledby="contest-year-{{contest.year}}">
+                <div class="row row-cols-1 row-cols-md-2 w-100 align-self-center g-0">
+                    <div class="col">
                         <div class="archive-image card-body text-center p-0">
-                            <img class="w-100" src="{{contest.image}}" style="object-fit: cover;">
+                            <img class="w-100 h-100" src="{{contest.image}}" alt="{{contest.year}} Contest Image" style="object-fit: cover;">
                         </div>
                     </div>
-                    <div class="col p-0 d-flex flex-column align-items-center">
+                    <div class="col d-flex flex-column align-items-center">
+                        <header class="row d-flex row-cols-1 w-100 text-center pt-3 year-title">
+                            <h2 id="contest-year-{{contest.year}}" class="h1 mb-3">{{contest.year}}</h2>
+                        </header>
 
-                        <div class="row d-flex row-cols-1 w-100 text-center pt-2 year-title">
-                            <p class="h1">{{contest.year}}</p>
-                        </div>
-                        <div class="row flex-lg-fill d-flex  row-cols-1 row-cols-md-2 w-100 pb-md-1 pb-lg-0">
+                        <nav class="row flex-lg-fill d-flex row-cols-1 row-cols-md-2 w-100 pb-md-1 pb-lg-0" aria-label="Contest Actions">
                             <div class="col d-flex flex-column px-3 align-items-center pb-sm-3 pb-md-0">
-                                <a class="archive-button p-0 d-flex flex-column align-items-center" href="{{contest.link}}" target="_blank">
+                                <a class="archive-button p-0 d-flex flex-column align-items-center text-decoration-none" 
+                                   href="{{contest.link}}" target="_blank" rel="noopener"
+                                   aria-label="Practice {{contest.year}} contest problems">
                                     <div class="w-100 d-flex flex-fill justify-content-center align-items-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" height="16px" fill="#FFD43B" class="puzzle-icon" viewBox="0 0 16 16">
+                                        <svg xmlns="http://www.w3.org/2000/svg" height="16px" fill="#FFD43B" class="puzzle-icon" viewBox="0 0 16 16" aria-hidden="true">
                                             <path d="M3.112 3.645A1.5 1.5 0 0 1 4.605 2H7a.5.5 0 0 1 .5.5v.382c0 .696-.497 1.182-.872 1.469a.5.5 0 0 0-.115.118l-.012.025L6.5 4.5v.003l.003.01q.005.015.036.053a.9.9 0 0 0 .27.194C7.09 4.9 7.51 5 8 5c.492 0 .912-.1 1.19-.24a.9.9 0 0 0 .271-.194.2.2 0 0 0 .036-.054l.003-.01v-.008l-.012-.025a.5.5 0 0 0-.115-.118c-.375-.287-.872-.773-.872-1.469V2.5A.5.5 0 0 1 9 2h2.395a1.5 1.5 0 0 1 1.493 1.645L12.645 6.5h.237c.195 0 .42-.147.675-.48.21-.274.528-.52.943-.52.568 0 .947.447 1.154.862C15.877 6.807 16 7.387 16 8s-.123 1.193-.346 1.638c-.207.415-.586.862-1.154.862-.415 0-.733-.246-.943-.52-.255-.333-.48-.48-.675-.48h-.237l.243 2.855A1.5 1.5 0 0 1 11.395 14H9a.5.5 0 0 1-.5-.5v-.382c0-.696.497-1.182.872-1.469a.5.5 0 0 0 .115-.118l.012-.025.001-.006v-.003l-.003-.01a.2.2 0 0 0-.036-.053.9.9 0 0 0-.27-.194C8.91 11.1 8.49 11 8 11s-.912.1-1.19.24a.9.9 0 0 0-.271.194.2.2 0 0 0-.036.054l-.003.01v.002l.001.006.012.025c.016.027.05.068.115.118.375.287.872.773.872 1.469v.382a.5.5 0 0 1-.5.5H4.605a1.5 1.5 0 0 1-1.493-1.645L3.356 9.5h-.238c-.195 0-.42.147-.675.48-.21.274-.528.52-.943.52-.568 0-.947-.447-1.154-.862C.123 9.193 0 8.613 0 8s.123-1.193.346-1.638C.553 5.947.932 5.5 1.5 5.5c.415 0 .733.246.943.52.255.333.48.48.675.48h.238z"/>
                                         </svg>
                                     </div>
                                     <div class="w-100 d-flex justify-content-center archive-button-label">
-                                        <p class="p-0 m-0"> UPSOLVE</p>
+                                        <p class="p-0 m-0">UPSOLVE</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col d-flex flex-column px-3 align-items-center pb-sm-3 pb-md-0">
-                                <a class="archive-button p-0 d-flex flex-column align-items-center justify-content-end" href="{{contest.leaderboard}}" target="_blank">
+                                <a class="archive-button p-0 d-flex flex-column align-items-center justify-content-end text-decoration-none" 
+                                   href="{{contest.leaderboard}}" target="_blank" rel="noopener"
+                                   aria-label="View {{contest.year}} contest leaderboard">
                                     <div class="w-100 d-flex flex-fill justify-content-center align-items-center">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="trophy-icon" height="20">
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="trophy-icon" height="20" aria-hidden="true">
                                             <path fill="#FFD43B" d="M400 0L176 0c-26.5 0-48.1 21.8-47.1 48.2c.2 5.3 .4 10.6 .7 15.8L24 64C10.7 64 0 74.7 0 88c0 92.6 33.5 157 78.5 200.7c44.3 43.1 98.3 64.8 138.1 75.8c23.4 6.5 39.4 26 39.4 45.6c0 20.9-17 37.9-37.9 37.9L192 448c-17.7 0-32 14.3-32 32s14.3 32 32 32l192 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-26.1 0C337 448 320 431 320 410.1c0-19.6 15.9-39.2 39.4-45.6c39.9-11 93.9-32.7 138.2-75.8C542.5 245 576 180.6 576 88c0-13.3-10.7-24-24-24L446.4 64c.3-5.2 .5-10.4 .7-15.8C448.1 21.8 426.5 0 400 0zM48.9 112l84.4 0c9.1 90.1 29.2 150.3 51.9 190.6c-24.9-11-50.8-26.5-73.2-48.3c-32-31.1-58-76-63-142.3zM464.1 254.3c-22.4 21.8-48.3 37.3-73.2 48.3c22.7-40.3 42.8-100.5 51.9-190.6l84.4 0c-5.1 66.3-31.1 111.2-63 142.3z"/>
                                         </svg>
                                     </div>
                                     <div class="w-100 d-flex justify-content-center archive-button-label">
-                                        <p class="p-0 m-0"> LEADERBOARD</p>
+                                        <p class="p-0 m-0">LEADERBOARD</p>
                                     </div>
-                                    <!-- <div class="h-0 d-inline-flex justify-content-evenly archive-button-bars position-absolute">
-                                        <div class="bar bar1"></div>
-                                        <div class="bar-space"></div>
-                                        <div class="bar bar2"></div>
-                                        <div class="bar-space"></div>
-                                        <div class="bar bar3"></div>
-                                    </div> -->
                                 </a>
                             </div>
-                        </div>
-                        <div class="row flex-fill d-flex flex-grow-1 overflow-visible">
+                        </nav>
+
+                        <section class="row flex-fill d-flex flex-grow-1 overflow-visible" aria-labelledby="sponsors-heading-{{contest.year}}">
                             <div class="col d-flex flex-column flex-grow-1">
-                                <h1 class="archive-sponsor">Sponsors</h1>
-                                <div class="marquee flex-grow-1 overflow-visible">
+                                <h3 id="sponsors-heading-{{contest.year}}" class="archive-sponsor">Sponsors</h3>
+                                <div class="marquee flex-grow-1 overflow-visible" role="marquee">
                                     <div class="marquee-track h-100 overflow-visible">
                                         {% for sponsor in contest.sponsors %}
                                         <div class="marquee-item" style="height: 80%; display: flex; align-items: center; justify-content: center;">
-                                            <img src="/images/{{sponsor.image}}" class="d-block" alt="{{sponsor.name}}" height="80%" style="object-fit: contain;">
+                                            <img src="/images/{{sponsor.image}}" class="d-block" alt="{{sponsor.name}} logo" height="80%" style="object-fit: contain;">
                                         </div>
                                         {% endfor %}
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </section>
                     </div>
                 </div>  
-            </div>
-        {% endfor %}
+            </article>
+            {% endfor %}
+        </div>
     </div>
-
 </main>
+
+{% include footer.html %}
 </body>
 </html>
