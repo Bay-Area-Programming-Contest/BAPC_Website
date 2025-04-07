@@ -1,402 +1,404 @@
-- name: "2024"
+all:
   categories:
-    - name: Entire room
-      photos:
-        - link: /Photos/2024/Entire Room/DSC_3894.JPG
-        - link: /Photos/2024/Entire Room/DSC_3895.JPG
-        - link: /Photos/2024/Entire Room/IMG_0191.JPG
-        - link: /Photos/2024/Entire Room/IMG_0192.JPG
-        - link: /Photos/2024/Entire Room/IMG_0193.JPG
-        - link: /Photos/2024/Entire Room/IMG_0237.JPG
-        - link: /Photos/2024/Entire Room/IMG_0262.JPG
-        - link: /Photos/2024/Entire Room/IMG_0263.JPG
-        - link: /Photos/2024/Entire Room/IMG_0264.JPG
-        - link: /Photos/2024/Entire Room/IMG_0265.JPG
-        - link: /Photos/2024/Entire Room/IMG_0266.JPG
-        - link: /Photos/2024/Entire Room/IMG_0267.JPG
-        - link: /Photos/2024/Entire Room/IMG_0268.JPG
-        - link: /Photos/2024/Entire Room/IMG_0269.JPG
-        - link: /Photos/2024/Entire Room/IMG_0276.JPG
-        - link: /Photos/2024/Entire Room/IMG_0284.JPG
-        - link: /Photos/2024/Entire Room/IMG_0285.JPG
-        - link: /Photos/2024/Entire Room/IMG_0311.JPG
-        - link: /Photos/2024/Entire Room/IMG_0358.JPG
-        - link: /Photos/2024/Entire Room/IMG_0359.JPG
-        - link: /Photos/2024/Entire Room/IMG_0360.JPG
-        - link: /Photos/2024/Entire Room/IMG_0382.JPG
-        - link: /Photos/2024/Entire Room/IMG_0392.JPG
-        - link: /Photos/2024/Entire Room/IMG_0393.JPG
-        - link: /Photos/2024/Entire Room/IMG_0396.JPG
-        - link: /Photos/2024/Entire Room/IMG_2103.JPG
-        - link: /Photos/2024/Entire Room/IMG_2104.JPG
-    - name: Miscellaneous
+    - name: "2024"
       categories:
-        - name: Balloons
+        - name: Entire room
           photos:
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0205.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0240.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0242.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0250.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0251.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0271.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0278.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0279.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0280.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0281.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0282.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0283.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0347.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0348.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0349.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0350.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0351.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0352.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0353.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0354.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0355.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0356.JPG
-            - link: /Photos/2024/Miscellaneous/Balloons/IMG_0357.JPG
-        - name: Brick Logo
+            - link: /Photos/2024/Entire Room/DSC_3894.JPG
+            - link: /Photos/2024/Entire Room/DSC_3895.JPG
+            - link: /Photos/2024/Entire Room/IMG_0191.JPG
+            - link: /Photos/2024/Entire Room/IMG_0192.JPG
+            - link: /Photos/2024/Entire Room/IMG_0193.JPG
+            - link: /Photos/2024/Entire Room/IMG_0237.JPG
+            - link: /Photos/2024/Entire Room/IMG_0262.JPG
+            - link: /Photos/2024/Entire Room/IMG_0263.JPG
+            - link: /Photos/2024/Entire Room/IMG_0264.JPG
+            - link: /Photos/2024/Entire Room/IMG_0265.JPG
+            - link: /Photos/2024/Entire Room/IMG_0266.JPG
+            - link: /Photos/2024/Entire Room/IMG_0267.JPG
+            - link: /Photos/2024/Entire Room/IMG_0268.JPG
+            - link: /Photos/2024/Entire Room/IMG_0269.JPG
+            - link: /Photos/2024/Entire Room/IMG_0276.JPG
+            - link: /Photos/2024/Entire Room/IMG_0284.JPG
+            - link: /Photos/2024/Entire Room/IMG_0285.JPG
+            - link: /Photos/2024/Entire Room/IMG_0311.JPG
+            - link: /Photos/2024/Entire Room/IMG_0358.JPG
+            - link: /Photos/2024/Entire Room/IMG_0359.JPG
+            - link: /Photos/2024/Entire Room/IMG_0360.JPG
+            - link: /Photos/2024/Entire Room/IMG_0382.JPG
+            - link: /Photos/2024/Entire Room/IMG_0392.JPG
+            - link: /Photos/2024/Entire Room/IMG_0393.JPG
+            - link: /Photos/2024/Entire Room/IMG_0396.JPG
+            - link: /Photos/2024/Entire Room/IMG_2103.JPG
+            - link: /Photos/2024/Entire Room/IMG_2104.JPG
+        - name: Miscellaneous
+          categories:
+            - name: Balloons
+              photos:
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0205.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0240.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0242.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0250.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0251.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0271.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0278.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0279.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0280.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0281.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0282.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0283.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0347.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0348.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0349.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0350.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0351.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0352.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0353.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0354.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0355.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0356.JPG
+                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0357.JPG
+            - name: Brick Logo
+              photos:
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0274.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0275.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0326.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0327.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0328.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0329.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0332.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0372.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0373.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0374.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0375.JPG
+                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0376.JPG
+            - name: Check-in
+              photos:
+                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0145.JPG
+                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0151.JPG
+                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0156.JPG
+                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0157.JPG
+            - name: Closing Ceremony
+              photos:
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0202.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0203.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0204.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0405.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0406.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0407.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0408.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0409.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0410.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0411.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0412.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0413.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0414.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0415.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0416.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0417.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0418.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0419.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0420.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0421.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0422.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0423.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0424.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0425.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0426.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0427.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0428.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0429.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0430.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2095.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2096.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2097.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2098.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2100.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2102.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2115.JPG
+                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2116.JPG
+            - name: Lunch
+              photos:
+                - link: /Photos/2024/Miscellaneous/Lunch/IMG_0158.JPG
+                - link: /Photos/2024/Miscellaneous/Lunch/IMG_0362.JPG
+            - name: Opening Ceremony
+              photos:
+                - link: /Photos/2024/Miscellaneous/Opening Ceremony/DSC_3866.JPG
+            - name: Photography
+              photos:
+                - link: /Photos/2024/Miscellaneous/Photography/IMG_0152.JPG
+                - link: /Photos/2024/Miscellaneous/Photography/IMG_2074.JPG
+                - link: /Photos/2024/Miscellaneous/Photography/IMG_2078.JPG
+            - name: Post Contest
+              photos:
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3906.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3907.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3909.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3910.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3912.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3913.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0149.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0159.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0160.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0397.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0399.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0400.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0401.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0402.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0403.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0431.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0432.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0433.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0434.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2063.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2064.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2065.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2067.JPG
+                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2068.JPG
+            - name: Printing
+              photos:
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0300.JPG
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0301.JPG
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0302.JPG
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0303.JPG
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0345.JPG
+                - link: /Photos/2024/Miscellaneous/Printing/IMG_0346.JPG
+            - name: Setup
+              photos:
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3822.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3823.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3828.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3829.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3830.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3831.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3832.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3836.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3837.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3839.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3840.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3841.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3842.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3845.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3846.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3847.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3848.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/DSC_3851.JPG
+                - link: /Photos/2024/Miscellaneous/Setup/IMG_0141.JPG
+            - name: Sponsors
+              photos:
+                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0298.JPG
+                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0299.JPG
+                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0309.JPG
+        - name: Organizer Portraits
+          categories:
+            - name: All organizers
+              photos:
+                - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3852.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3853.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50421249.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50440961.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50442753.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50727425.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_0398.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2106.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2119.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2120.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2121.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2122.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2123.JPG
+                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2124.JPG
+            - name: Individuals
+              photos:
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3821.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3849.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3850.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3854.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3855.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3856.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3857.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3883.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3893.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0139.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0140.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0142.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0143.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0147.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0148.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0194.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0195.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0198.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0199.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0238.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0239.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0241.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0243.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0244.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0245.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0248.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0252.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0256.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0257.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0258.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0259.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0260.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0261.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0270.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0277.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0293.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0294.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0295.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0296.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0304.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0310.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0314.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0315.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0316.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0317.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0318.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0319.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0322.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0323.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0324.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0330.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0331.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0341.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0378.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0379.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0394.JPG
+                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0395.JPG  
+        - name: Portraits (w/ Logo)
           photos:
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0274.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0275.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0326.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0327.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0328.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0329.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0332.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0372.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0373.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0374.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0375.JPG
-            - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0376.JPG
-        - name: Check-in
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0161.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0162.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0163.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0164.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0165.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0166.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0167.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0168.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0169.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0170.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0171.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0172.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0173.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0174.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0175.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0176.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0177.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0178.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0179.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0180.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0181.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0182.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0183.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0184.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0185.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0186.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0187.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0188.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0189.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0190.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0200.JPG
+            - link: /Photos/2024/Portraits (w- Logo)/IMG_0201.JPG
+        - name: Teams (in contest)
           photos:
-            - link: /Photos/2024/Miscellaneous/Check-in/IMG_0145.JPG
-            - link: /Photos/2024/Miscellaneous/Check-in/IMG_0151.JPG
-            - link: /Photos/2024/Miscellaneous/Check-in/IMG_0156.JPG
-            - link: /Photos/2024/Miscellaneous/Check-in/IMG_0157.JPG
-        - name: Closing Ceremony
-          photos:
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0202.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0203.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0204.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0405.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0406.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0407.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0408.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0409.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0410.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0411.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0412.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0413.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0414.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0415.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0416.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0417.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0418.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0419.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0420.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0421.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0422.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0423.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0424.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0425.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0426.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0427.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0428.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0429.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0430.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2095.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2096.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2097.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2098.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2100.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2102.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2115.JPG
-            - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2116.JPG
-        - name: Lunch
-          photos:
-            - link: /Photos/2024/Miscellaneous/Lunch/IMG_0158.JPG
-            - link: /Photos/2024/Miscellaneous/Lunch/IMG_0362.JPG
-        - name: Opening Ceremony
-          photos:
-            - link: /Photos/2024/Miscellaneous/Opening Ceremony/DSC_3866.JPG
-        - name: Photography
-          photos:
-            - link: /Photos/2024/Miscellaneous/Photography/IMG_0152.JPG
-            - link: /Photos/2024/Miscellaneous/Photography/IMG_2074.JPG
-            - link: /Photos/2024/Miscellaneous/Photography/IMG_2078.JPG
-        - name: Post Contest
-          photos:
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3906.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3907.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3909.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3910.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3912.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3913.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0149.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0159.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0160.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0397.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0399.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0400.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0401.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0402.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0403.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0431.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0432.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0433.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0434.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2063.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2064.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2065.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2067.JPG
-            - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2068.JPG
-        - name: Printing
-          photos:
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0300.JPG
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0301.JPG
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0302.JPG
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0303.JPG
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0345.JPG
-            - link: /Photos/2024/Miscellaneous/Printing/IMG_0346.JPG
-        - name: Setup
-          photos:
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3822.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3823.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3828.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3829.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3830.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3831.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3832.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3836.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3837.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3839.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3840.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3841.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3842.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3845.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3846.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3847.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3848.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/DSC_3851.JPG
-            - link: /Photos/2024/Miscellaneous/Setup/IMG_0141.JPG
-        - name: Sponsors
-          photos:
-            - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0298.JPG
-            - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0299.JPG
-            - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0309.JPG
-    - name: Organizer Portraits
-      categories:
-        - name: All organizers
-          photos:
-            - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3852.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3853.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/image_50421249.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/image_50440961.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/image_50442753.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/image_50727425.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_0398.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2106.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2119.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2120.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2121.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2122.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2123.JPG
-            - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2124.JPG
-        - name: Individuals
-          photos:
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3821.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3849.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3850.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3854.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3855.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3856.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3857.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3883.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3893.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0139.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0140.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0142.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0143.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0147.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0148.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0194.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0195.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0198.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0199.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0238.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0239.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0241.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0243.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0244.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0245.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0248.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0252.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0256.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0257.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0258.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0259.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0260.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0261.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0270.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0277.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0293.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0294.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0295.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0296.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0304.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0310.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0314.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0315.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0316.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0317.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0318.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0319.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0322.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0323.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0324.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0330.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0331.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0341.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0378.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0379.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0394.JPG
-            - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0395.JPG  
-    - name: Portraits (w/ Logo)
-      photos:
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0161.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0162.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0163.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0164.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0165.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0166.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0167.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0168.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0169.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0170.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0171.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0172.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0173.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0174.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0175.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0176.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0177.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0178.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0179.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0180.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0181.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0182.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0183.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0184.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0185.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0186.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0187.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0188.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0189.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0190.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0200.JPG
-        - link: /Photos/2024/Portraits (w- Logo)/IMG_0201.JPG
-    - name: Teams (in contest)
-      photos:
-        - link: /Photos/2024/Teams (in contest)/DSC_3859.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3861.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3862.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3863.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3864.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3865.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3867.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3869.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3870.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3871.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3872.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3875.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3877.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3878.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3879.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3882.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3884.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3886.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3887.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3889.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3890.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3891.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3892.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3896.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3897.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3899.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3900.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3902.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3903.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3904.JPG
-        - link: /Photos/2024/Teams (in contest)/DSC_3905.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0150.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0206.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0207.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0208.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0209.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0210.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0211.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0212.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0213.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0214.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0215.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0216.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0217.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0218.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0219.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0220.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0221.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0222.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0223.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0224.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0225.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0226.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0227.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0228.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0229.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0230.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0231.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0232.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0233.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0234.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0235.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0236.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0246.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0253.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0255.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0273.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0305.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0306.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0307.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0308.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0313.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0333.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0335.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0336.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0337.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0338.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0339.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0340.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0342.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0343.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0344.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0361.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0366.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0367.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0368.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0370.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0371.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0380.JPG
-        - link: /Photos/2024/Teams (in contest)/IMG_0383.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3859.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3861.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3862.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3863.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3864.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3865.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3867.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3869.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3870.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3871.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3872.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3875.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3877.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3878.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3879.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3882.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3884.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3886.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3887.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3889.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3890.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3891.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3892.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3896.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3897.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3899.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3900.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3902.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3903.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3904.JPG
+            - link: /Photos/2024/Teams (in contest)/DSC_3905.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0150.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0206.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0207.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0208.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0209.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0210.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0211.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0212.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0213.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0214.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0215.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0216.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0217.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0218.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0219.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0220.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0221.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0222.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0223.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0224.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0225.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0226.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0227.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0228.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0229.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0230.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0231.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0232.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0233.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0234.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0235.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0236.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0246.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0253.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0255.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0273.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0305.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0306.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0307.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0308.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0313.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0333.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0335.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0336.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0337.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0338.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0339.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0340.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0342.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0343.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0344.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0361.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0366.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0367.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0368.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0370.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0371.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0380.JPG
+            - link: /Photos/2024/Teams (in contest)/IMG_0383.JPG
