@@ -1,0 +1,13 @@
+.glow-card:hover {
+    box-shadow: 0 0 10px var(--bs-border-color);
+    transform: scale(1.03);
+}
+
+.glow-card {
+    box-shadow: none
+}
+
+.accordion-button {
+    background-color: #00000000 !important;
+    z-index: 6;
+}

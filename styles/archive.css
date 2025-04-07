@@ -1,0 +1,126 @@
+.year-title {
+    background: radial-gradient(ellipse 100% 100% at 50% -45px, #e36c6c47, transparent 100%);
+}
+
+.archive-button {
+    border-radius: 10px;
+    border: solid 2px #ff114547;
+    box-shadow: inset 0 0 130px 0 #ff114420;
+    background: black linear-gradient(transparent 50%, transparent);
+    height: 100%;
+    width: 100%;
+    z-index: 3;
+    text-decoration: none;
+    transition: all 0.5s ease;
+    backdrop-filter: blur(5px);
+}
+
+.archive-button:hover {
+    transform: scale(1.05) rotate(2deg);
+}
+
+.archive-button-label {
+    background: linear-gradient(transparent 20%, rgba(0, 0, 0, 0.8) 80%);
+    mask-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255, 0.5));
+    border-radius: 0 0 10px 10px;
+    border-width: 10px;
+    width: 100%;
+    z-index: 4;
+}
+
+.archive-button-label p {
+    font-weight: 900;
+    color: var(--bs-body-color);
+}
+
+.puzzle-icon {
+    rotate: -45deg;
+    height: 80%;
+    transition: rotate 0.3s ease;
+}
+
+.trophy-icon {
+    height: 80%;
+}
+
+.bar-space {
+    background-color: blue;
+    width: 20px;
+    height: 0;
+}
+
+.archive-image {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    z-index: 3;
+    position: relative;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .archive-sponsor {
+        font-size: 2rem;
+    }
+
+    .archive-image {
+        height: 270px;
+    }
+}
+
+@media (min-width: 768px) {
+    .archive-sponsor {
+        font-size: 1.3rem;
+    }
+
+    .archive-button-label p {
+        font-size: 1.25rem;
+    }
+
+    .archive-image {
+        height: 200px;
+    }
+}
+
+@media (min-width: 992px) {
+    .archive-sponsor {
+        font-size: 1.5rem;
+    }
+
+    .archive-button-label p {
+        font-size: 1.5rem;
+    }
+
+    .archive-image {
+        height: 250px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .archive-sponsor {
+        font-size: 2rem;
+    }
+
+    .archive-button-label p {
+        font-size: 2rem;
+    }
+
+    .archive-image {
+        height: 300px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .archive-sponsor {
+        font-size: 2.5rem;
+    }
+
+    .archive-button-label p {
+        font-size: 2.5rem;
+    }
+
+    .archive-image {
+        height: 350px;
+    }
+}
