@@ -106,7 +106,7 @@ def merge_data(existing_data: Category, new_data: Category) -> Category:
         existing_categories = {category["name"]: category for category in existing_data.get("categories", [])}
         new_categories = {category["name"]: category for category in new_data["categories"]}
         all_category_names = set(existing_categories.keys()) | set(new_categories.keys())
-        for name in all_category_names:
+        for name in sorted(all_category_names):
             merged_categories.append(
                 merge_data(existing_categories.get(name, {"name": name}), new_categories.get(name, {"name": name}))
             )
