@@ -3,16 +3,14 @@
     {% for photo in include.category.photos %}
         <div class="col col-6 col-sm-4 col-md-3 my-2">
             <div class="card h-100 bg-dark">
-                <img src="{{ photo.link }}" class="card-img-top" alt="{{ photo.caption }}" data-bs-toggle="modal" data-bs-target="#modal-{{ photo.link | slugify }}" role="button" loading="lazy">
+                <img src="{{ photo.low_resolution_path }}" class="card-img-top" alt="{{ photo.caption }}" data-bs-toggle="modal" data-bs-target="#modal-{{ photo.low_resolution_path | slugify }}" role="button" loading="lazy">
             </div>
         </div>
-        <div class="modal fade" id="modal-{{ photo.link | slugify }}" tabindex="-1" aria-hidden="true">
+        <div class="modal fade" id="modal-{{ photo.low_resolution_path | slugify }}" tabindex="-1" aria-hidden="true">
             <div class="modal-dialog modal-xl modal-dialog-centered">
                 <div class="modal-content bg-dark">
-                    <div class="modal-body p-0">
-                        <button type="button" class="btn-close btn-close-white position-absolute top-0 end-0 m-3" data-bs-dismiss="modal" aria-label="Close"></button>
-                        <img src="{{ photo.link }}" class="img-fluid" alt="{{ photo.caption }}">
-                    </div>
+                    <button type="button" class="btn-close btn-close-white position-absolute top-0 left-0 m-3" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <iframe src="{{ photo.full_resolution_link }}" class="full-resolution-iframe" loading="lazy"></iframe>
                 </div>
             </div>
         </div>

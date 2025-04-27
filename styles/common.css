@@ -148,3 +148,7 @@
         height: 100px;
     }
 }
+
+.full-resolution-iframe {
+    height: 80vh;
+}

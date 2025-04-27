@@ -1,404 +1,775 @@
 all:
+  name: All
   categories:
-    - name: "2024"
+  - name: '2024'
+    categories:
+    - name: Entire Room
+      photos:
+      - full_resolution_link: https://drive.google.com/file/d/1wgM8CX_wB3VWT3Z_EwZEc4rZ7Qc-xsJs/preview
+        low_resolution_path: /Photos/2024/Entire Room/DSC_3894.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1IqSTvWRopFYzXBSGHFyc1NSnMIAlBQ9D/preview
+        low_resolution_path: /Photos/2024/Entire Room/DSC_3895.JPG
+      - full_resolution_link: https://drive.google.com/file/d/174ckcH5Pl4kRDBYrL754a8uy9eBIB29v/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0191.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1HDY2YZ1XsCylAjE1usjpSBBCo9KFzxhP/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0192.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1VgQuHCHXg7Em2U1cCxoQYVykjpGKvRex/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0193.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1VjfvfnlgG4vPjacOI9vbmUbGLPl0CKP0/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0237.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1tXbWYimUDe3IhRpQc3iDQ5yRV0I4vKt2/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0262.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1s49nEviMbn3tRwfa01LCJkJBdg0IJ0mq/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0263.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1gTMb_p_RHA5YFKm45xMWO6CcUrYrq5YN/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0264.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1HFv8h_J0Mmsw-TJLhe3-1FBd1khBPRdA/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0265.JPG
+      - full_resolution_link: https://drive.google.com/file/d/16YGcCUedKFsyGAXAoKTAEV7740fOV771/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0266.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1FWkZeh5xc_dP7PuCQBqjX0vk96y7cfeB/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0267.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1uypvRfK159McVeWl2vpkHYrdL0jJW9EB/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0268.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1vRhwBoRyni4OqWO2y7hk_t2jJkLZYVmC/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0269.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1RpGV_Hb1t6zCmZACJP32vcLxT219IcG4/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0276.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1sk-EoRCu6eOMqVuGRUFcCLepT5ZdpRBz/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0284.JPG
+      - full_resolution_link: https://drive.google.com/file/d/15ujTJARRYQy3Rxu4pfsYP4vZNtd-biGN/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0285.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1SlQ7iy9McLkXfDgwg6XyIoxLo3qXtdEF/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0311.JPG
+      - full_resolution_link: https://drive.google.com/file/d/10R5_ibniKtnT3rOkZ0og4u_ABB2inifT/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0358.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1l4G2LIJcG9Q1PXwIi73pyR5NOwjFVANo/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0359.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1D9j6is09BLr07og9zZteMJpgF4MxTZSH/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0360.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1U4k78tqJYC5N_x0NZj-Dt46SFu_JiyTT/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0382.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1R2ZfwG8egY7x0LR6jlgqewjfMsVZyI61/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0392.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1m3WpOnSCfOx4UxlVOpqc232Bfh3q6RTH/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0393.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1M135LJYtWp8TocQUM_IpheIpP3Hbv7Dg/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_0396.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1NkbXVyTC3JXtMr4ABH0vq536fJEOLMHO/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_2103.JPG
+      - full_resolution_link: https://drive.google.com/file/d/1FVlRPmRtNgkxGd-IXi3CLwXxmd_oAtrd/preview
+        low_resolution_path: /Photos/2024/Entire Room/IMG_2104.JPG
+    - name: Miscellaneous
       categories:
-        - name: Entire room
-          photos:
-            - link: /Photos/2024/Entire Room/DSC_3894.JPG
-            - link: /Photos/2024/Entire Room/DSC_3895.JPG
-            - link: /Photos/2024/Entire Room/IMG_0191.JPG
-            - link: /Photos/2024/Entire Room/IMG_0192.JPG
-            - link: /Photos/2024/Entire Room/IMG_0193.JPG
-            - link: /Photos/2024/Entire Room/IMG_0237.JPG
-            - link: /Photos/2024/Entire Room/IMG_0262.JPG
-            - link: /Photos/2024/Entire Room/IMG_0263.JPG
-            - link: /Photos/2024/Entire Room/IMG_0264.JPG
-            - link: /Photos/2024/Entire Room/IMG_0265.JPG
-            - link: /Photos/2024/Entire Room/IMG_0266.JPG
-            - link: /Photos/2024/Entire Room/IMG_0267.JPG
-            - link: /Photos/2024/Entire Room/IMG_0268.JPG
-            - link: /Photos/2024/Entire Room/IMG_0269.JPG
-            - link: /Photos/2024/Entire Room/IMG_0276.JPG
-            - link: /Photos/2024/Entire Room/IMG_0284.JPG
-            - link: /Photos/2024/Entire Room/IMG_0285.JPG
-            - link: /Photos/2024/Entire Room/IMG_0311.JPG
-            - link: /Photos/2024/Entire Room/IMG_0358.JPG
-            - link: /Photos/2024/Entire Room/IMG_0359.JPG
-            - link: /Photos/2024/Entire Room/IMG_0360.JPG
-            - link: /Photos/2024/Entire Room/IMG_0382.JPG
-            - link: /Photos/2024/Entire Room/IMG_0392.JPG
-            - link: /Photos/2024/Entire Room/IMG_0393.JPG
-            - link: /Photos/2024/Entire Room/IMG_0396.JPG
-            - link: /Photos/2024/Entire Room/IMG_2103.JPG
-            - link: /Photos/2024/Entire Room/IMG_2104.JPG
-        - name: Miscellaneous
-          categories:
-            - name: Balloons
-              photos:
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0205.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0240.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0242.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0250.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0251.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0271.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0278.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0279.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0280.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0281.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0282.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0283.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0347.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0348.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0349.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0350.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0351.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0352.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0353.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0354.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0355.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0356.JPG
-                - link: /Photos/2024/Miscellaneous/Balloons/IMG_0357.JPG
-            - name: Brick Logo
-              photos:
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0274.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0275.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0326.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0327.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0328.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0329.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0332.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0372.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0373.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0374.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0375.JPG
-                - link: /Photos/2024/Miscellaneous/Brick-Logo/IMG_0376.JPG
-            - name: Check-in
-              photos:
-                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0145.JPG
-                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0151.JPG
-                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0156.JPG
-                - link: /Photos/2024/Miscellaneous/Check-in/IMG_0157.JPG
-            - name: Closing Ceremony
-              photos:
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0202.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0203.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0204.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0405.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0406.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0407.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0408.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0409.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0410.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0411.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0412.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0413.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0414.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0415.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0416.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0417.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0418.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0419.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0420.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0421.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0422.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0423.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0424.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0425.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0426.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0427.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0428.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0429.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0430.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2095.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2096.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2097.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2098.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2100.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2102.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2115.JPG
-                - link: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2116.JPG
-            - name: Lunch
-              photos:
-                - link: /Photos/2024/Miscellaneous/Lunch/IMG_0158.JPG
-                - link: /Photos/2024/Miscellaneous/Lunch/IMG_0362.JPG
-            - name: Opening Ceremony
-              photos:
-                - link: /Photos/2024/Miscellaneous/Opening Ceremony/DSC_3866.JPG
-            - name: Photography
-              photos:
-                - link: /Photos/2024/Miscellaneous/Photography/IMG_0152.JPG
-                - link: /Photos/2024/Miscellaneous/Photography/IMG_2074.JPG
-                - link: /Photos/2024/Miscellaneous/Photography/IMG_2078.JPG
-            - name: Post Contest
-              photos:
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3906.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3907.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3909.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3910.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3912.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/DSC_3913.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0149.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0159.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0160.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0397.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0399.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0400.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0401.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0402.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0403.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0431.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0432.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0433.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_0434.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2063.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2064.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2065.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2067.JPG
-                - link: /Photos/2024/Miscellaneous/Post Contest/IMG_2068.JPG
-            - name: Printing
-              photos:
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0300.JPG
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0301.JPG
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0302.JPG
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0303.JPG
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0345.JPG
-                - link: /Photos/2024/Miscellaneous/Printing/IMG_0346.JPG
-            - name: Setup
-              photos:
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3822.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3823.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3828.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3829.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3830.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3831.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3832.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3836.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3837.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3839.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3840.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3841.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3842.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3845.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3846.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3847.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3848.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/DSC_3851.JPG
-                - link: /Photos/2024/Miscellaneous/Setup/IMG_0141.JPG
-            - name: Sponsors
-              photos:
-                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0298.JPG
-                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0299.JPG
-                - link: /Photos/2024/Miscellaneous/Sponsors/IMG_0309.JPG
-        - name: Organizer Portraits
-          categories:
-            - name: All organizers
-              photos:
-                - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3852.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/DSC_3853.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50421249.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50440961.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50442753.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/image_50727425.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_0398.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2106.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2119.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2120.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2121.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2122.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2123.JPG
-                - link: /Photos/2024/Organizer Portraits/All Organizers/IMG_2124.JPG
-            - name: Individuals
-              photos:
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3821.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3849.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3850.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3854.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3855.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3856.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3857.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3883.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/DSC_3893.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0139.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0140.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0142.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0143.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0147.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0148.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0194.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0195.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0198.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0199.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0238.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0239.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0241.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0243.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0244.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0245.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0248.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0252.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0256.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0257.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0258.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0259.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0260.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0261.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0270.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0277.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0293.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0294.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0295.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0296.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0304.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0310.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0314.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0315.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0316.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0317.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0318.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0319.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0322.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0323.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0324.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0330.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0331.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0341.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0378.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0379.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0394.JPG
-                - link: /Photos/2024/Organizer Portraits/Individuals/IMG_0395.JPG  
-        - name: Portraits (w/ Logo)
-          photos:
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0161.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0162.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0163.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0164.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0165.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0166.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0167.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0168.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0169.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0170.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0171.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0172.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0173.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0174.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0175.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0176.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0177.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0178.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0179.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0180.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0181.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0182.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0183.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0184.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0185.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0186.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0187.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0188.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0189.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0190.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0200.JPG
-            - link: /Photos/2024/Portraits (w- Logo)/IMG_0201.JPG
-        - name: Teams (in contest)
-          photos:
-            - link: /Photos/2024/Teams (in contest)/DSC_3859.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3861.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3862.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3863.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3864.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3865.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3867.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3869.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3870.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3871.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3872.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3875.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3877.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3878.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3879.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3882.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3884.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3886.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3887.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3889.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3890.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3891.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3892.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3896.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3897.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3899.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3900.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3902.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3903.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3904.JPG
-            - link: /Photos/2024/Teams (in contest)/DSC_3905.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0150.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0206.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0207.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0208.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0209.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0210.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0211.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0212.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0213.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0214.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0215.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0216.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0217.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0218.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0219.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0220.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0221.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0222.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0223.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0224.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0225.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0226.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0227.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0228.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0229.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0230.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0231.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0232.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0233.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0234.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0235.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0236.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0246.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0253.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0255.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0273.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0305.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0306.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0307.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0308.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0313.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0333.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0335.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0336.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0337.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0338.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0339.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0340.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0342.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0343.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0344.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0361.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0366.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0367.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0368.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0370.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0371.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0380.JPG
-            - link: /Photos/2024/Teams (in contest)/IMG_0383.JPG
+      - name: Balloons
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/1_cfTu8vwut7CaF-516Y_Ayldlh0TObCO/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0205.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1slRkICjkGM9np_XK1KLDCRjL1vDbdIoo/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0240.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1iQoWlKpvP-QWCy9DSBEwtZjm-Aks3mu9/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0242.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1n7n0TPzZ7IPIHt6YxkI9Z102lm9fuJaI/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0250.JPG
+        - full_resolution_link: https://drive.google.com/file/d/16VMD26zlDWxb04sXBmssDXAJNxPAaMi7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0251.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1QyO2uw_RKWC_Kv-dbuGf9Xigyd77Soqp/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0271.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1_kBh-1H1LodRVaxH6UclEfSf0vkxeh31/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0278.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1n5GnHnbeCgZpwr13KYAUG3cwUMByU0Z9/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0279.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1kb9thSscz2RejjB2ADCF90XU9qG7HEkC/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0280.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1RMORx5HMfH18bk7Gvlx9l-pyD96TGQaZ/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0281.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1a6qEiLy0qWOyF0YmP_xqhQtV9naCoYjM/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0282.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1A79bKNWCDBSkRjDWRfYezQ78tUB3_ZdD/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0283.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Ly3IRbRbR-fLif8n9VntH3iD5wHwm4LZ/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0347.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1ORQEE9gpFw7mqhtxauYhiGnbUFoQydL_/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0348.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1oP9CdVsGCXwpgqBNrb6GrUy-6vJkerMe/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0349.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1rD0nYcXHXfTT9vDLlWZ2C_K79Md5--s6/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0350.JPG
+        - full_resolution_link: https://drive.google.com/file/d/14KMBQeB4APtTJh7ivBMhReYTZGQy0ILR/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0351.JPG
+        - full_resolution_link: https://drive.google.com/file/d/12rsg4VHrDfGwzXSUKfxR_ppv1yO2LK91/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0352.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Wb-X8RfgESk2NO8U8PyqvIvnRAg0Dcqu/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0353.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1v4VmpjBAjTv_TfckYzO2RWk_Bo_txmt0/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0354.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1VyI2Apw0aOXQNf6Ie8sfjrlcIeX2mO_5/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0355.JPG
+        - full_resolution_link: https://drive.google.com/file/d/17vKttahakPV9yYwdQls8uNK2oqRURHKK/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0356.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1bKDTZ7MkA8C6AjgReKfT8KgP5kLdj61H/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Balloons/IMG_0357.JPG
+      - name: Brick Logo
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/1Dh0qUkriWKOHF2i0rqy-_egYWT9ZBFVG/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0274.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1PU42dLUEAcLdzeNs4u-6lXZwsNg3KG2G/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0275.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1ipEbznO3DS6J7K8X49BemZPOU-vmIJOs/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0326.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1OgrdG3zI8VYtrN5PDlj_ITfVab12t1lO/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0327.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1GGY6oi1zmXSXtUv0c3TAeC6sPOvRUlSM/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0328.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1mXZGz8pmhVQStHA0PdEe5RskO4HqON5K/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0329.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1da2HM4GGkKFszhGVARvsrKbHY7eQTLp6/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0332.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1ckeJkhxV2Co4q1VLZhIY1wpRxqreHnLD/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0372.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1qE7CMlTicV0t-kih1s10s2mFqntqBbux/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0373.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1ID0iYyX7tlE7flEZvOprkrQkuNsDw517/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0374.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1jlZ6KniSx9oyn3hb5a2qxiolqSdmyXBY/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0375.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1zs6B3zerwc2QRasZU-2p_GKBORey84HV/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Brick Logo/IMG_0376.JPG
+      - name: Check-in
+        photos:
+        - full_resolution_path: https://drive.google.com/file/d/1jIMyuQMghqL19gMDIypwVGOlMLpYztZE/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Check-in/IMG_0145.JPG
+          full_resolution_link: https://drive.google.com/file/d/1jIMyuQMghqL19gMDIypwVGOlMLpYztZE/preview
+        - full_resolution_path: https://drive.google.com/file/d/1tKJR0IALSpUZtJ1UFmRmuLDgJJNVTfVA/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Check-in/IMG_0151.JPG
+          full_resolution_link: https://drive.google.com/file/d/1tKJR0IALSpUZtJ1UFmRmuLDgJJNVTfVA/preview
+        - full_resolution_path: https://drive.google.com/file/d/1lKcn83J9kFAb_gabzGmygJJ55doSnRfj/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Check-in/IMG_0156.JPG
+          full_resolution_link: https://drive.google.com/file/d/1lKcn83J9kFAb_gabzGmygJJ55doSnRfj/preview
+        - full_resolution_path: https://drive.google.com/file/d/1LGe6L1Pwfejp9FJKEfNZrqXGfMaXOkzJ/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Check-in/IMG_0157.JPG
+          full_resolution_link: https://drive.google.com/file/d/1LGe6L1Pwfejp9FJKEfNZrqXGfMaXOkzJ/preview
+      - name: Closing Ceremony
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/1JyymTH10hm2DCMQ9yfOA44Ma7DZxCqrI/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0202.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1P_8V0J0wzujHEPaH0JQllofPZIWhKduh/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0203.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1gJBhHCwfNjUpfaAX77nIGOOWKuhU6Nu2/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0204.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1FyXhfZ7acPyTvzZSXaLW_JBloKpHaxkr/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0405.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1_4hgCjwJALiBEwfAvc_96HvUFC219lN2/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0406.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1QaLp-gug9O0A7pltIAw6vy-gGuKT2ywu/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0407.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1vFTbT6_nqqpXgbWaJFG3dmR5mhpkcl1U/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0408.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Hwqcgn6m5er8KlFJrUvVe2_t5zmALAes/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0409.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1yR5IkwuDp0B4UXPennkNUggVB3QnQrF7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0410.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1zHlRi6atHn13Dt4qJmwdxTk1I9iDh7IM/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0411.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1SKv202YEIr4P_LmvzamHxd_z_Stf0dr0/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0412.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1zDifu_wCvXlCkUQVKcmWYf10tDmtWyh-/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0413.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Aa3vLkxBG0c18isObHg5haual5laYiUp/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0414.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1eQw6dDKsCLc8viovFLHpKla9z0xR2kCG/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0415.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1EV0XleWCPEYjgXBA0DBt-8tO_Ssz8hua/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0416.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1SX4tKiEyjqi8fDILjn_eFxyJKQN9R9En/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0417.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Mm531i_QokVRqYKSLMZH2CTvyfLJKFPx/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0418.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1m2bFdL9N38Jh-2I1FjLcUvRVjENsBsv3/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0419.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1n8LI8z_9JfgiRHLt_2HhK0v7n-XFsw8O/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0420.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1iB8O3nlbrdnV-W0TYpoN68E4fCMfs2IO/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0421.JPG
+        - full_resolution_link: https://drive.google.com/file/d/14SAcSJnuOe71YeWgrA9TttsIRhT-SU6G/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0422.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1L9QOqkcLhiJ4TEJwlaAHNmc-4b-STu2X/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0423.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1VlFJr9Gp6hkO0K_sDOihFqtOQGsSZ-cG/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0424.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1MIX1PvgsHsPaPaeTFmRI7uFbPMEQFOjA/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0425.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1KXsoEUXK6AEFXopjg9KVK0qSD2FCHwZ7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0426.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1WOgTjxUPs0j-JHvMpGErA0WEB-Ce6cBZ/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0427.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Wj1y_nSvWnB12Lt10920na-lNgX3POxD/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0428.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1I-th_FECVL5jKqMe1q0D3uHb5vGoOHMN/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0429.JPG
+        - full_resolution_link: https://drive.google.com/file/d/19u1h0_3QdVf5Az7M5m0fnMLi8eweDKeQ/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0430.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1gJFCQG4fCEq7OKQLwZ5c9sunXvCR_7xT/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1a10YA18vkYlDOGY740_NvOndbB7aJsb3/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1tvv-u-i7vN2uvdyZKBpc6KtydlrE3CN7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
+        - full_resolution_link: https://drive.google.com/file/d/10Q2fqsNfClTpXPYGuaXIoy86k93Y5ojm/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1PnIahLkFzCM_82tYZs_FF4T_BL_uHw4o/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1gVIgpl9sklnuzJXp9nLKe9DuuBvmA_LI/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2095.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1ClfpGfL5RiNJUdaCFAsA7Km2M_k7GWOh/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2096.JPG
+        - full_resolution_link: https://drive.google.com/file/d/16zoWe9axk_UUMj5BodhUH2tdv7vQzqH5/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2097.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1l_vJ3-cSJAnBjRJML8ePuiS02bi6TMEe/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2098.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1YGqds1qCkBQTZ9aHonTglxCFPQYxRIBl/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2100.JPG
+        - full_resolution_link: https://drive.google.com/file/d/11vL2sSAZEeWnVdfqPg-GCRFZnQqR8G7V/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1Cl1D6j9j_qAs5Yr-xAVGpuHkPPHUVMv7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2102.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1aXvjSxA-GDRM70tTLHcPwT2INr8-YcXl/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2115.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1w6XSQSF7V0obmvyhQTRfrww07kRdsHn0/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2116.JPG
+      - name: Lunch
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/1KNVhtdtc8MBlzrG0tOHFp6VpGoKgF5Bz/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Lunch/IMG_0158.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1cpMucRDE08CYEgivYzcILdEl4GB4H48m/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Lunch/IMG_0362.JPG
+      - name: Opening Ceremony
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/121zF7Lm4AvLmdjWCm_fysGelLXDEnFs_/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Opening Ceremony/DSC_3866.JPG
+      - name: Photography
+        photos:
+        - full_resolution_link: https://drive.google.com/file/d/18jbhm6zV6gxjftcA_OEFNIpMaZKNq8gA/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Photography/IMG_0152.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1j2uc-V8ch9aLgxZa5SPgI7tLWVqbAgI0/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Photography/IMG_2074.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1eRMiIbCiM7qH_bqJTcGTOOMVvyI2uAQV/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Photography/IMG_2078.JPG
+      - name: Post Contest
+        photos:
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3906.JPG
+          full_resolution_link: https://drive.google.com/file/d/12Uyuw7czSjhO2cgtDWgzo8dcjLyvnpap/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3907.JPG
+          full_resolution_link: https://drive.google.com/file/d/1XhZ-B8zNcYFbJJdDFpVTZFa7cJ-Wm0MB/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3909.JPG
+          full_resolution_link: https://drive.google.com/file/d/1_YDpU2h1KzFuxnWGt6mPGRDnZAErNBOb/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3910.JPG
+          full_resolution_link: https://drive.google.com/file/d/1NfL-dmM_spHAgFVdyvmGYybyG6OTrALP/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3912.JPG
+          full_resolution_link: https://drive.google.com/file/d/1Yu8KgyuCyy0NSMG0hS0-LhudtVqNHoKK/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/DSC_3913.JPG
+          full_resolution_link: https://drive.google.com/file/d/1p3UNKiCoi4yyPjU9Vz9VNDu4DjwHW4na/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0149.JPG
+          full_resolution_link: https://drive.google.com/file/d/1a0p0sJur8tKuZJWRmRER9g2bpLsjRyh8/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0159.JPG
+          full_resolution_link: https://drive.google.com/file/d/1jNHtbKl-XxHIOceiFDtY8217jLYqtdc5/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0160.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ch6HWpHMwHjO8dFdWNujkmOddcCr0la7/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0397.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ctuRh1Gthij4lmLWDCHJx9F9RsBHDcyD/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0399.JPG
+          full_resolution_link: https://drive.google.com/file/d/1oTJDlyOxXLs1dqxsXmnyTdbYNXENp4vQ/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0400.JPG
+          full_resolution_link: https://drive.google.com/file/d/1rK67DkN1bkOsLtJmPFqEgbPI32-btzRq/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0401.JPG
+          full_resolution_link: https://drive.google.com/file/d/1oEd95urVvL8QIkrhv-heS-1Bb0sNs8FH/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0402.JPG
+          full_resolution_link: https://drive.google.com/file/d/1vnJjwr6WSPGncDK9IeNSsZxBrHN_dAMI/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0403.JPG
+          full_resolution_link: https://drive.google.com/file/d/1LMdCLi6hTQ7T_zVwBd3Wx_1e5MjGbTh6/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0431.JPG
+          full_resolution_link: https://drive.google.com/file/d/1nMbBh_fPDf6dstF8Zr8u4VdgI_OShLbg/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0432.JPG
+          full_resolution_link: https://drive.google.com/file/d/1mktZJufgaqfXJLjt8epaEZ7ThEhE37UN/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0433.JPG
+          full_resolution_link: https://drive.google.com/file/d/1Pcx3rPZz7Y4Cw32D-ZOPDOV9f12VVbK4/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0434.JPG
+          full_resolution_link: https://drive.google.com/file/d/1i7crysTxq3RaX0P3fv0CGlBKr2Wsu8gt/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
+          full_resolution_link: https://drive.google.com/file/d/1FjAOyel4R42oV0Xa4u4keFf-Lfw-CMvp/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2063.JPG
+          full_resolution_link: https://drive.google.com/file/d/1AgPCbXehDgllK9SKBzlgF7MtCC4Dzkug/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2064.JPG
+          full_resolution_link: https://drive.google.com/file/d/1PHVWpaeMC1jQ-RxvbMFIJDmqPdLapo0P/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2065.JPG
+          full_resolution_link: https://drive.google.com/file/d/1-4TLdQFiNIr_9PDL1p822BGCZDTmo0l0/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2067.JPG
+          full_resolution_link: https://drive.google.com/file/d/16sGmE6fr8khuGXxHfDum9tJmv-fgz1Ss/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2068.JPG
+          full_resolution_link: https://drive.google.com/file/d/19VTehhbGv2YOoiev_YVVRmi-GGtkdbES/preview
+      - name: Printing
+        photos:
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0300.JPG
+          full_resolution_link: https://drive.google.com/file/d/17d-LcoSo3IzJAVI49IWYLMvMarx7fnjb/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0301.JPG
+          full_resolution_link: https://drive.google.com/file/d/1uXUvXtjUw8ouEEHXG3SoA6uVgCm5nD58/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0302.JPG
+          full_resolution_link: https://drive.google.com/file/d/1oV61dG_1l-woKSto1t4VNop1K3e_LxuJ/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0303.JPG
+          full_resolution_link: https://drive.google.com/file/d/1Bnpi_rn__wsL-XVk_HikTSe9P4YtaxeN/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0345.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ZrfOH--iloBiU9hU9zU8BkgA2e7DYvlA/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Printing/IMG_0346.JPG
+          full_resolution_link: https://drive.google.com/file/d/1uhExS4Kb5c2cwPHhdOpnPyfXtulj9QTp/preview
+      - name: Setup
+        photos:
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3822.JPG
+          full_resolution_link: https://drive.google.com/file/d/1yMOCHe00RalrhjTYGXH3HkeTahcldRTH/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3823.JPG
+          full_resolution_link: https://drive.google.com/file/d/1RtH4jt-2WkvE1Q-FesQ2I5MuElTecm3P/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3828.JPG
+          full_resolution_link: https://drive.google.com/file/d/1pwMFY40UCLPF_a1nervpbr1FqrHNKXRa/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3829.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ccmIIGbe7LioCxF4p1UGCCyGGCZEAx3I/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3830.JPG
+          full_resolution_link: https://drive.google.com/file/d/1PMHrI5-EPCZFjnfWM0YjiuG9RHqJE0NX/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3831.JPG
+          full_resolution_link: https://drive.google.com/file/d/1YOV2ZGtsmM3tCpS603tJBEBMYGpo2vnV/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3832.JPG
+          full_resolution_link: https://drive.google.com/file/d/1c2qfn3qN-TAuRBNh796OuVXnay9ktqn7/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3836.JPG
+          full_resolution_link: https://drive.google.com/file/d/1-i7jPhQWjVoawgyB6U9Scm3AQLBsufDK/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3837.JPG
+          full_resolution_link: https://drive.google.com/file/d/18DrNpT4O2hvF1_izdtuYYR-MUS9NLaQL/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3839.JPG
+          full_resolution_link: https://drive.google.com/file/d/1a1bc-mWRL98oBgrYMjaShrzc9SEz7sKk/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3840.JPG
+          full_resolution_link: https://drive.google.com/file/d/1UxPDVWD11UNWqGJgPqp8RSg0L9fxJHHi/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3841.JPG
+          full_resolution_link: https://drive.google.com/file/d/1BpPExmcHjXsg4hKvWTD7dIFAXA_wFP6Z/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3842.JPG
+          full_resolution_link: https://drive.google.com/file/d/1g32DKL_Enp04XPWwYKzoLDQNcft0xppE/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3845.JPG
+          full_resolution_link: https://drive.google.com/file/d/1qpJc0SuX9TWacAexmtG7f7YbL-P5v6oC/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3846.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ek9xQJD6Ga8eALVbOr3zW6D9EgeMlkP2/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3847.JPG
+          full_resolution_link: https://drive.google.com/file/d/1oclhLKEANC9XF2oKlS2z58lIVnBJYE4h/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3848.JPG
+          full_resolution_link: https://drive.google.com/file/d/1OUA13_fnBbDJxXWUl4FiDW9PhEg6hIJM/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/DSC_3851.JPG
+          full_resolution_link: https://drive.google.com/file/d/1QGB2XuIgWE-7q1_sF-jAR5st1AABBxVs/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Setup/IMG_0141.JPG
+          full_resolution_link: https://drive.google.com/file/d/1u2_G5WcMp2b9P6jkb4R5OJZx9bMbNKdN/preview
+      - name: Sponsors
+        photos:
+        - low_resolution_path: /Photos/2024/Miscellaneous/Sponsors/IMG_0298.JPG
+          full_resolution_link: https://drive.google.com/file/d/16DAq74CwDRgy2rVSI7jLr4pfmb1EIWKb/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Sponsors/IMG_0299.JPG
+          full_resolution_link: https://drive.google.com/file/d/1AdDAC8jUEZNcZ4P2U9PLF9elbxLMZRt2/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Sponsors/IMG_0309.JPG
+          full_resolution_link: https://drive.google.com/file/d/19N6mwXmQHrqG_6c5WDliGC0CS4qkzdT5/preview
+    - name: Organizer Portraits
+      categories:
+      - name: All Organizers
+        photos:
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/DSC_3852.JPG
+          full_resolution_link: https://drive.google.com/file/d/1iV00G2-uVoUAIu3ySwuIVeihUgfgNTtO/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/DSC_3853.JPG
+          full_resolution_link: https://drive.google.com/file/d/1JRLZ1L3g26g2eWpWobsfoQb2h1DsP4xh/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_0398.JPG
+          full_resolution_link: https://drive.google.com/file/d/1eeRUfen5f6ucj6H-lmNMS8P3YOTsh0sc/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2106.JPG
+          full_resolution_link: https://drive.google.com/file/d/1Ixlnrujvk4ZxRiOR7kMKxLcv7Gy4INi4/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2119.JPG
+          full_resolution_link: https://drive.google.com/file/d/1eYhgHR3v5AO7id9cA-Qq1m5yMUV0g5SF/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2120.JPG
+          full_resolution_link: https://drive.google.com/file/d/1KUnUCbVl-jtpioQPBsnvZxODFpgpG_u2/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2121.JPG
+          full_resolution_link: https://drive.google.com/file/d/1HtvGPvSkxzfyZexf-u3m9h_xPFlq7yvT/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2122.JPG
+          full_resolution_link: https://drive.google.com/file/d/1TDgeb60Kf9kArvvXZzMr1-ycCGPxPXN1/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2123.JPG
+          full_resolution_link: https://drive.google.com/file/d/1HKCh3JlDmPCVla3GHvn4aXtT71Rwc80Z/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/IMG_2124.JPG
+          full_resolution_link: https://drive.google.com/file/d/1m7nW7uo83tAzD38lUEa7QRwZQr1DwdUt/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/image_50421249.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ctZaoTK4V16CkcJbXCIpF6ZYZND5qEPO/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/image_50440961.JPG
+          full_resolution_link: https://drive.google.com/file/d/1uhfypK20jAP9ZcwgVTTIz_2WQWUOyyml/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/image_50442753.JPG
+          full_resolution_link: https://drive.google.com/file/d/1AOIqJNuPTSSVzeU6ty_cRsXq4sFEIEDI/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/All Organizers/image_50727425.JPG
+          full_resolution_link: https://drive.google.com/file/d/13L_kI0oNZpJpfBUV5sAsocNtBMepZ45J/preview
+      - name: Individuals
+        photos:
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3821.JPG
+          full_resolution_link: https://drive.google.com/file/d/13aLUeiVyCDjDh0NoCPH91V6fbq62jdzi/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3849.JPG
+          full_resolution_link: https://drive.google.com/file/d/1UEDtJCOzImQ0ECO6OfOaLI-hzls1we-Z/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3850.JPG
+          full_resolution_link: https://drive.google.com/file/d/15-Q1pzbZDUfxlWvK2gtuv5MHs9_2AroQ/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3854.JPG
+          full_resolution_link: https://drive.google.com/file/d/19ur2LWCVEqiAZQmwwPkULw2bBENRM3Yf/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3855.JPG
+          full_resolution_link: https://drive.google.com/file/d/1E3mqBEK30htFp9Q7SViHqobY9bi_a4D3/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3856.JPG
+          full_resolution_link: https://drive.google.com/file/d/1BFjC-rcqUxK20sEpGl8dzAYSOwKUqO2U/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3857.JPG
+          full_resolution_link: https://drive.google.com/file/d/1SQFTRWBq9wfzRoe30UionPFQyjRKq9mL/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3883.JPG
+          full_resolution_link: https://drive.google.com/file/d/1rtcMsDTqqGXBAqIpUJ-eHTBrBw1Vtox5/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/DSC_3893.JPG
+          full_resolution_link: https://drive.google.com/file/d/1KhzvE86gHAvErk_4ASnseBnoCJD4M-zi/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0139.JPG
+          full_resolution_link: https://drive.google.com/file/d/1fZkXT_bHpvvxJdjuyAdDmWnNmG8OFRjv/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0140.JPG
+          full_resolution_link: https://drive.google.com/file/d/1g_zeNSvyJ4OeqsaiWy_B3R6nDwI6GloW/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0142.JPG
+          full_resolution_link: https://drive.google.com/file/d/1vXrP_LdDku5bMD8hZYf4uZKMglFSPc_O/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0143.JPG
+          full_resolution_link: https://drive.google.com/file/d/1JKdSfgMgEAdYIr1NhdVD5L4T8aM69hdu/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
+          full_resolution_link: https://drive.google.com/file/d/1hqywggrj765AqmD8asLlw0iCk3OwmYj0/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0147.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ycCmh3WXr1NFSiVn9ZUdsgu7vVtulv-B/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0148.JPG
+          full_resolution_link: https://drive.google.com/file/d/1nTWoZhtR5rfgt7rLEUT1Ow5oRN2HgBXX/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0194.JPG
+          full_resolution_link: https://drive.google.com/file/d/1vSV8XJ4HDcEz8iChO0mrGSLrxNIZJ59y/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0195.JPG
+          full_resolution_link: https://drive.google.com/file/d/1N7y9Gjdp0UXU0oSRw7VGZ-3G3lguqqjq/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0198.JPG
+          full_resolution_link: https://drive.google.com/file/d/1n2lirmcBvP-O_pImwt6cYR6jFV1Az9dk/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0199.JPG
+          full_resolution_link: https://drive.google.com/file/d/1wBoFEs3VWdKWKLVwYwPm3Fnpchpw8kFF/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0238.JPG
+          full_resolution_link: https://drive.google.com/file/d/1TQrXoAMwCm4DLT7pwYHEtdfIcjfPrTQM/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0239.JPG
+          full_resolution_link: https://drive.google.com/file/d/1qJdYvWJX1nMmkfrrmmWXGSL1JlvaRox5/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0241.JPG
+          full_resolution_link: https://drive.google.com/file/d/1flViM72KoGwZJY5wDRgPIsOIytjXyIso/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0243.JPG
+          full_resolution_link: https://drive.google.com/file/d/16N0u4Jqanw7AEIBliQWp1BGHN0gSUJek/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0244.JPG
+          full_resolution_link: https://drive.google.com/file/d/1cTXrxgeYcQOptVVMhhrUXhfR2hpJw61T/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0245.JPG
+          full_resolution_link: https://drive.google.com/file/d/1n83a7AlACIdt1Z_ELzqmYyUo0JYneH7M/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0248.JPG
+          full_resolution_link: https://drive.google.com/file/d/1_MWDPprwpW-LO-uK4BgRTgmFHzofm8z4/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0252.JPG
+          full_resolution_link: https://drive.google.com/file/d/1cB2O4afzL9DlOD8RBhhyGxsnjk0El7VA/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0256.JPG
+          full_resolution_link: https://drive.google.com/file/d/1QAqU4JK-aN1wR5cRYns5r9jHFpVOhlC7/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0257.JPG
+          full_resolution_link: https://drive.google.com/file/d/189W3Rrlu65E-6y9mZd5xe5wDkH1U8ngI/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0258.JPG
+          full_resolution_link: https://drive.google.com/file/d/1KYlC9qdxmqbj81RdHmbMA422GGA8STtd/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0259.JPG
+          full_resolution_link: https://drive.google.com/file/d/165fiwkv23y-vPmAScgOmtaj-KVM970ph/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0260.JPG
+          full_resolution_link: https://drive.google.com/file/d/10vMwidVbtVgnc4iaj5ClLPy_KbYt5FHW/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0261.JPG
+          full_resolution_link: https://drive.google.com/file/d/19eaJ31JgGDT9EV1o--GXE-ygBS6KTPyz/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0270.JPG
+          full_resolution_link: https://drive.google.com/file/d/1nikhiv27Wr50qaTGigfBHWHB5n1sNQGm/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0277.JPG
+          full_resolution_link: https://drive.google.com/file/d/1NuVuFZycGtOtVU1z0V4ZjnJtzz1pshTs/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0293.JPG
+          full_resolution_link: https://drive.google.com/file/d/1I_sXalP6d2IEOG35DmN3Hh3GLWlx3lgI/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0294.JPG
+          full_resolution_link: https://drive.google.com/file/d/1Jcpfqm8jCZBwKzSzfqMzkzD_M32biFqE/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0295.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ITVu0MiCwOEV3VTk2FSs2W0LR8kl3g1r/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0296.JPG
+          full_resolution_link: https://drive.google.com/file/d/1qz6BDht-UUVM5ZlhnROXWE0IOvWTTrRe/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0304.JPG
+          full_resolution_link: https://drive.google.com/file/d/1R_vVGEe631VDd0vewn0ID91gjtZfnyQl/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0310.JPG
+          full_resolution_link: https://drive.google.com/file/d/1ZJ0-ovIEZmQfLu9TkqPgEC9CWQh7Mf-u/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0314.JPG
+          full_resolution_link: https://drive.google.com/file/d/116zdv3aiiDOEfu-2bV1uu_0W9vxbGVgL/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0315.JPG
+          full_resolution_link: https://drive.google.com/file/d/116V4ZbShnhqgWQuPB1BYis7V3YU110Je/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0316.JPG
+          full_resolution_link: https://drive.google.com/file/d/1VMoCh31TIY_yOWr7YqFBIp69uMFiYYSC/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0317.JPG
+          full_resolution_link: https://drive.google.com/file/d/1-JYRnUpMZ91K3D_H5CCazblmbIHH_6Y8/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0318.JPG
+          full_resolution_link: https://drive.google.com/file/d/16s9wRuxbLLkmWqE9gOcO7kYT3I7i-Vwc/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0319.JPG
+          full_resolution_link: https://drive.google.com/file/d/1VXgrnT8WxKx4-3rogzJmyAj_7II8mStK/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0322.JPG
+          full_resolution_link: https://drive.google.com/file/d/1UxLBOJJ43MsMUUGhfdYNM5jASKM-l3lN/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0323.JPG
+          full_resolution_link: https://drive.google.com/file/d/1DvgtY68EnEaByL2gKZ0x2idnPF-Mqvo1/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0324.JPG
+          full_resolution_link: https://drive.google.com/file/d/1KQ9x9MztSx14yPZL4TLzG1cmOgpkjDP-/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0330.JPG
+          full_resolution_link: https://drive.google.com/file/d/137jK-v3rD8gyFdbTTQAmwiURbzQHoo1B/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0331.JPG
+          full_resolution_link: https://drive.google.com/file/d/16JrhBkitz1xDO8bgLvzg6S669HcHF6-A/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0341.JPG
+          full_resolution_link: https://drive.google.com/file/d/1eN74Xo3VMGrdoj_9Pr0JEmMargRA1U5K/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0378.JPG
+          full_resolution_link: https://drive.google.com/file/d/1jexCgEfU5ieVwrDvYdK-IwHxS302jXq8/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0379.JPG
+          full_resolution_link: https://drive.google.com/file/d/18pZTiGxhxnrDJWEHYSBqfTqdZD8b-4p-/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
+          full_resolution_link: https://drive.google.com/file/d/1lS-7RKGy0DXzoBPT1ze1vMu53X9pyXvD/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
+          full_resolution_link: https://drive.google.com/file/d/15Yg9YLfQxdoJxMqKoOvYztTstjq3I2-W/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0394.JPG
+          full_resolution_link: https://drive.google.com/file/d/1D1ROfrz8Qvkc7xmrWrjkdQhHW_GtqtU7/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0395.JPG
+          full_resolution_link: https://drive.google.com/file/d/1LqOhGqwIMRSmIhM_6N-zI5izLj9s4R-Q/preview
+    - name: Portraits (with Logo)
+      photos:
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0161.JPG
+        full_resolution_link: https://drive.google.com/file/d/14U4xo6qRQ4uGuQi5w2_KvRiXxbe0AgRE/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0162.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YgfRcmaXd_T5398mdVaf5CPP6tf0FhZq/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0163.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ccv6FDutO_pQn82-rEx6m8yFxW2WVUAv/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0164.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zyVv7qPoV_G69UuwjD8Gsh52qTUZsrkH/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0165.JPG
+        full_resolution_link: https://drive.google.com/file/d/1SxEnrsFCeUZE_DHCxxAxsRt0SVRKWj4U/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0166.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qMCVyNmRMPVDIqVkHSmFZnsWgedCLR-e/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0167.JPG
+        full_resolution_link: https://drive.google.com/file/d/11QeEnYnroEuI8WvO1aK21BKFEWCyZmwt/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0168.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qKgra91crmSA7MZaC_PmrZu6okCS-9d6/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0169.JPG
+        full_resolution_link: https://drive.google.com/file/d/1BvS3Yp3N5BF43LXc2UOKgtaKA403rUKL/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0170.JPG
+        full_resolution_link: https://drive.google.com/file/d/1R-QVOoUrrr6ulMPPMrcfLF23k3hvFcBo/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0171.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OIwgvPA2PLtCQgFehr4frsQYzNGhrNu0/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0172.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nfqAt-NNDS6xjTk9G9NCN1Ys8ui7ejKA/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0173.JPG
+        full_resolution_link: https://drive.google.com/file/d/1x9AK8ro7WLbKgipQFnUGCHPcSctZiJ_C/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0174.JPG
+        full_resolution_link: https://drive.google.com/file/d/1pHhYOT2FWBSWNMC4PCKoZP6hfYsO_Jl0/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0175.JPG
+        full_resolution_link: https://drive.google.com/file/d/1q9Tt8HrqK-mWzmo8X5EQ-cupWKjdHYHU/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0176.JPG
+        full_resolution_link: https://drive.google.com/file/d/1j1hqH9Sqw-TKNdB0GUcUnQh8vRt80Akv/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0177.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Vtlz_HN25ehkmUJ2Pl6ewEYLTVQGHA4g/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0178.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OVp5mP0wxWZ8slsk3CK4ZnSaaxPCU9Ve/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0179.JPG
+        full_resolution_link: https://drive.google.com/file/d/1kt3dg4yMhwl8D36tbyFGADyebC_BEp10/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0180.JPG
+        full_resolution_link: https://drive.google.com/file/d/151KnMcOmEwzVW1xIe1nM-fcOc4vBDXpZ/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0181.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hCozzo5D08OV4ue4Sga5DC_eGuryjJ-Z/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0182.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Hfd57YwE_5MznO_Fp_1S21gWxQ4Pzkj3/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0183.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yLuGQsQTo2BswW9jwUwbWC2lci0mTXWN/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0184.JPG
+        full_resolution_link: https://drive.google.com/file/d/1omcKVpfSrseSXi7VVGariwUedzMhwXEd/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0185.JPG
+        full_resolution_link: https://drive.google.com/file/d/1NMNJgYyOFfOOcRldGjfpObFlZ9QmS12v/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0186.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cSbTpKGDkFe4UCptP0y-w0D2OOtwTC-J/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0187.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AtydcGaasnxMj8werc18Lf5X8HXZnY3B/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0188.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QKCF7fqs-zbGJpqTE_oCRcH9EFscdNeG/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0189.JPG
+        full_resolution_link: https://drive.google.com/file/d/1W2oB3izpzNzPBVPsdcMcpzwyahfo9s3H/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0190.JPG
+        full_resolution_link: https://drive.google.com/file/d/1w864SMik12ptNGUN96vdYjkyWsTl2b0t/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0200.JPG
+        full_resolution_link: https://drive.google.com/file/d/1EK31drBM4xUff2A07yjIRy6Ki9g2vI3J/preview
+      - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0201.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hpK6YI_79qbGtDVr9RbYpZfFVm9cucen/preview
+    - name: Teams (in contest)
+      photos:
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3859.JPG
+        full_resolution_link: https://drive.google.com/file/d/1j7u5bdkAuHXN8Xsc5VFLUULOebKKBMDW/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3861.JPG
+        full_resolution_link: https://drive.google.com/file/d/1R8nVmT3iiWmCXI7v3PwEsH4v1qNikVX3/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3862.JPG
+        full_resolution_link: https://drive.google.com/file/d/1KhDMGU9_24NKBXZMp-5NkGOtDT7WmlsJ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3863.JPG
+        full_resolution_link: https://drive.google.com/file/d/10KBTsJwx72PCyJCYOPIDtFu9b5n2w8uS/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3864.JPG
+        full_resolution_link: https://drive.google.com/file/d/1x0CeoA9x8RUHelqDqKWeNxkoC8t7zenW/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3865.JPG
+        full_resolution_link: https://drive.google.com/file/d/12X5gpEFHrcQXSM0cO_PCWhTysv1gjDjA/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3867.JPG
+        full_resolution_link: https://drive.google.com/file/d/1pr7qFi-8IfmF0euqh8W5wdnPK19_ikFM/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3869.JPG
+        full_resolution_link: https://drive.google.com/file/d/1uGaguO_cgvnaDjtCIfky9kkort2Mv_eC/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3870.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ut8-sWCwPVeND5-V5axFosuqaY1i7lvO/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3871.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ViuPKn6_a65pETUnqBxi8JpLsOubk-LZ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3872.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dpU-_b55xcIFHNBjda5sF3WKdnKwbtkM/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3875.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mpMnV2zqJ42Y29EqEfAA-ITEvh_FehHv/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3877.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zCytiOz_V-KM9WNKX6_ZdqiGmFB0Y6rv/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3878.JPG
+        full_resolution_link: https://drive.google.com/file/d/1y_Y0QM_A49J_zX-tTJKZnSmXq9_4z_we/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3879.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ccypQsBDKdMnhuJlMJI5UyLcduO_JEzj/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3881.JPG
+        full_resolution_link: https://drive.google.com/file/d/1pHCDqtt__G3wGeEbJ3wgyixxVJa42KBS/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3882.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WwrOP4R5XdIX5HtQqzgBlModaGoQi27o/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3884.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jLhbtqPX0c64-zHv4QfAmd2CmlcWsPzR/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3886.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ncL3I-gZMsRZUYaPgfaABso1Zg_c9dnF/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3887.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OYXF2V4JMyhBf5qfSL1l_dcX-hy2GZ3H/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3889.JPG
+        full_resolution_link: https://drive.google.com/file/d/115bcq7QnY21VwJn6rX9OqzFwaqBzbGdK/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3890.JPG
+        full_resolution_link: https://drive.google.com/file/d/1McwC_Gm15retqRhl1PTLZeNDu-Y0k47C/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3891.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Xbpf1SiN5t7dawgdYRhGXeX9sipyGfd2/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3892.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VtB2xXFzpX9mmjDrDyn0e3iAecu4-ifi/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3896.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PDbh1uc3DCz8eb0ccnXSRdllRHGUuapa/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3897.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Lkfsi64GcKXSvfHLlJ7zWv-IOe0dKfOI/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3899.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AsuULXuDztxQ7SWlJ8GwGPMQyQwLaoar/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3900.JPG
+        full_resolution_link: https://drive.google.com/file/d/16z37GDa75tdOymEMqKpE-lBKBSkiZk9A/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3902.JPG
+        full_resolution_link: https://drive.google.com/file/d/1crQmI-3rDPMG-5-fx5eiHEhVR4PwRMWi/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3903.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Tq-sj_CKT_E8892i-egVWKiaEyyaXBuJ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3904.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HtbvvfYZRPFVzls2J_qpyGHf5Y0pxTdT/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/DSC_3905.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LV3TxaFFEOjSTDqbF0ynSKahcf9P3TlD/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0150.JPG
+        full_resolution_link: https://drive.google.com/file/d/11xTChuIhpKMnmfFvCjVFeJpXOKt-JuAz/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0206.JPG
+        full_resolution_link: https://drive.google.com/file/d/1rPLjB5Kg2G5-TInrfDU1p3Dm0-xqVnJK/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0207.JPG
+        full_resolution_link: https://drive.google.com/file/d/1g-vjnr_1Al1IeQaC2Pttpl4ZemE83kM8/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0208.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-yZeCz8HeAGXTQ9hNFKtGdKZhwV9qW9M/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0209.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yf4HF4aMyWYku9R6S15rQyv08BNbSCgz/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0210.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qqWDvmtc5MTfMiC5yf4QNZGVW56YPkJi/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0211.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bilVuFZb2kO3pntiiW6h6L6Xy3mbZYy-/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0212.JPG
+        full_resolution_link: https://drive.google.com/file/d/19J95hcSoq1tXptNgs73KwBVSZ9UWsore/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0213.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Dqj8ilxyIh_aIC9LYSzwup9KfN5D-BFb/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0214.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YazobI2XDUWz76OEjqINg1Tf7u1vc4-J/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0215.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Qj4VHza20OBp94lCgd2Kc-iabckvtppU/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0216.JPG
+        full_resolution_link: https://drive.google.com/file/d/18VZpPVKUbBbG9LRE7ZKX4S9w-Gxhwwfj/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0217.JPG
+        full_resolution_link: https://drive.google.com/file/d/1X8LsXvdqCbqNqBTALIm4ZV1IhmyKmsnu/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0218.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ka5b4sGOu_14rGNu0sQlwgJFpMGXtA7X/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0219.JPG
+        full_resolution_link: https://drive.google.com/file/d/1R7sVErLelju9IsJNWJ4gacVLw6UYxGdF/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0220.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lHRfNz9BGDKYEXHOVLZitoM9foGJOfLj/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0221.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hU-A9E0u3flSK_c69pVsYVZBau3GTqDL/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0222.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jJa1nuduHsi0AOaOl6qS-JLBIR1vA8yh/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0223.JPG
+        full_resolution_link: https://drive.google.com/file/d/1x2vy-mLtTD8ktwJO9cbCu3_lE-uXjQ5Y/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0224.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ti3h6yx7Um2sxUGhKXLHRj6y_r9BxjG3/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0225.JPG
+        full_resolution_link: https://drive.google.com/file/d/17yiuonBYezD8d2aVoHISRaD2BpgRM2qv/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0226.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zc2HTX3KhmvNmddicKN5r2vjx0OIhoF_/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0227.JPG
+        full_resolution_link: https://drive.google.com/file/d/1uAXEtueCK43zdjtWfhcChfKYYn2WAKkX/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0228.JPG
+        full_resolution_link: https://drive.google.com/file/d/15BEjyJffYhmIn4useoiGKexYxu3TFel3/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0229.JPG
+        full_resolution_link: https://drive.google.com/file/d/1_n7nPBHXjtcTx1YHMH383ucT6dPSjbrE/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0230.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ot7gblfZIxKBIskNC5PKbqZk_UiYkdaZ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0231.JPG
+        full_resolution_link: https://drive.google.com/file/d/1fOQh_fpDTRPD8vWJzTjS4GBd_Zt2Tlgd/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0232.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bduIbFmqvhEP_FXPQdhZoFT3Wv-RWaXe/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0233.JPG
+        full_resolution_link: https://drive.google.com/file/d/1L1cCwlXdtBwoQWuApB2uSYF_s4rvqDCQ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0234.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AOHAyp5EIEygHdjEaMpTHI_bVfyc2BuC/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0235.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Qamu17WQwUDP2z1qv9ZgfYzbq0HW7tSl/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0236.JPG
+        full_resolution_link: https://drive.google.com/file/d/19dGkSRhoiJH4JSj5aOSJrI7rpdPNgJf-/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0246.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iwtwwRVHgAe6gQrr7dthEVVKSwg-K5C0/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0253.JPG
+        full_resolution_link: https://drive.google.com/file/d/1tstYHzNsPKNAMob2f60hykOwzxXlU9u4/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0255.JPG
+        full_resolution_link: https://drive.google.com/file/d/1uqAhbg0MZBBXWVRRQikN5dRBMlWEsBr0/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0273.JPG
+        full_resolution_link: https://drive.google.com/file/d/12F02wIsqif-hlA_GTnU-k4RoyRVCpF1j/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0305.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Zdepc-as2Xborp1rzayMbGeckvXDKJz0/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0306.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WPmLgae6MLPifYQsrUiXkK79t_QVGG1M/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0307.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WVTjlrqaYIvuosCiHAauAOosQm7_xpZX/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0308.JPG
+        full_resolution_link: https://drive.google.com/file/d/1uqNLZ9boIz8AEeRKVbCJ_MygqfeBlayL/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0313.JPG
+        full_resolution_link: https://drive.google.com/file/d/1IPmtPzHnrQqdHbSZVdnc-pK7Xs5t9SYp/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0333.JPG
+        full_resolution_link: https://drive.google.com/file/d/11DKsMr26oB-kopuWEVyNabe2jQCU_WCZ/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0335.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PfjgeTs6dycOe6y_XH04lBMhXn6wHs8n/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0336.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mycFs94_AHhesAU6ilr6PTyZ0PKif1OR/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0337.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Rdvz9tOCIswI94SDumIEIRGrtnF7dSP4/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0338.JPG
+        full_resolution_link: https://drive.google.com/file/d/1P5Y-Cxz7Kn0zEFRfFd9vfCpbx7vtSzGv/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0339.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JK_sImf0ZRngZXM8Go6u21HB6ReAwcFf/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0340.JPG
+        full_resolution_link: https://drive.google.com/file/d/12IxH6kFWyYP7smqyznII5Q_G-fvpAoYa/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0342.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jqHR3lHxYAbXK-oZq9VJ8eT4CelbyTzB/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0343.JPG
+        full_resolution_link: https://drive.google.com/file/d/16QDin0zINe3Z1CLJ5db3OGNzqk5EQja1/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0344.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eFb68szkwlCSJ4LG9rT9M6NLv5YS9zFh/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0361.JPG
+        full_resolution_link: https://drive.google.com/file/d/16rtnnBPSjGHRKNWSiKrULX5fY2RFwXFT/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0366.JPG
+        full_resolution_link: https://drive.google.com/file/d/16jyTmuzvpYSB67zyVmJzyhf-pB-86Mk_/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0367.JPG
+        full_resolution_link: https://drive.google.com/file/d/1NiD1IdkdA_s3jDT0Rylz0lpMZdYBGadE/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0368.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ZYE64tnUwBbOL9tAakTYtQFnkMfLWi65/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0370.JPG
+        full_resolution_link: https://drive.google.com/file/d/15-dXLmja-P0j7ySs-_PeMyDjzT2ANLDu/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0371.JPG
+        full_resolution_link: https://drive.google.com/file/d/1CEKkcJl4qLPk6hD7YO7XL_RexWiPI8dg/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0380.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zqhuLvVrYSQwddLnlFyvh0hjuZR6yid7/preview
+      - low_resolution_path: /Photos/2024/Teams (in contest)/IMG_0383.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-ti0tk8QJg2mwfTUzSK1DKZIgzMGWgXo/preview
