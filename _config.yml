@@ -1,3 +1,8 @@
 exclude:
   - CNAME
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - generate_photos_data.py
+  - requirements.txt
+  - venv
