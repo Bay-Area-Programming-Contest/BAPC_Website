@@ -95,9 +95,12 @@ def merge_data(existing_data: Category, new_data: Category) -> Category:
 
         if len(added) == 0 and len(deleted) == 0:
             print(f"Category {existing_data['name']} with {len(existing_data['photos'])} photos was not modified.")
-            return existing_data
+            photos = existing_data['photos']
+            photos.sort(key=lambda d: d['low_resolution_path'])
+            return {'name': existing_data['name'], 'photos': photos}
 
         merged_photos = apply_changes_with_confirmation(existing_data["name"], existing_data['photos'], added, deleted)
+        merged_photos.sort(key=lambda d: d['low_resolution_path'])
         return {'name': new_data['name'], 'photos': merged_photos}
     else:
         assert 'categories' in new_data, "Data must have either categories or photos."
