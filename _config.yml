@@ -3,6 +3,7 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - compress_photos.py
   - generate_photos_data.py
   - requirements.txt
   - venv
