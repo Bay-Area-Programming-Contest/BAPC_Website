@@ -27,13 +27,14 @@ import yaml
 import os
 from pathlib import Path
 
+from PIL import Image
 
 type Photo = dict[str, str]
 type Category = dict[str, str | list[Photo] | list[Category]]
 
 
 yaml_path = "_data/photos.yml"
-
+photo_sort_key = lambda photo: (-aspect_ratio_of(photo["low_resolution_path"]), photo["low_resolution_path"])
 
 
 def read_photos_yaml() -> dict[str, Category]:
@@ -44,11 +45,11 @@ def read_photos_yaml() -> dict[str, Category]:
         raise ValueError("photos.yml not found!")
 
 
-def calculate_photo_changes(existing_data: Category, new_data: Category) -> tuple[list[Photo], list[Photo]]:
-    existing_photos = {data["low_resolution_path"]: data for data in existing_data.get('photos', [])}
+def calculate_photo_changes(existing_photos: list[Photo], new_photos: list[Photo]) -> tuple[list[Photo], list[Photo]]:
+    existing_photos = {data["low_resolution_path"]: data for data in existing_photos}
     new_photos = {
         data["low_resolution_path"]: existing_photos.get(data["low_resolution_path"], data)
-        for data in new_data["photos"]
+        for data in new_photos
     }
 
     added = [data for key, data in new_photos.items() if key not in existing_photos]
@@ -91,16 +92,16 @@ def merge_data(existing_data: Category, new_data: Category) -> Category:
         assert 'categories' not in existing_data, f'Category "{new_data["name"]} has changed category type. Please fix manually."'
         assert 'categories' not in new_data,  f'Category "{new_data["name"]} has both photos and subcategories. This should never happen."'
 
-        added, deleted = calculate_photo_changes(existing_data, new_data)
+        existing_photos = existing_data.get('photos', [])
+        added, deleted = calculate_photo_changes(existing_photos, new_data["photos"])
 
         if len(added) == 0 and len(deleted) == 0:
-            print(f"Category {existing_data['name']} with {len(existing_data['photos'])} photos was not modified.")
-            photos = existing_data['photos']
-            photos.sort(key=lambda d: d['low_resolution_path'])
-            return {'name': existing_data['name'], 'photos': photos}
+            print(f"Category {existing_data['name']} with {len(existing_photos)} photos was not modified.")
+            existing_photos.sort(key=photo_sort_key)
+            return {'name': existing_data['name'], 'photos': existing_photos}
 
-        merged_photos = apply_changes_with_confirmation(existing_data["name"], existing_data['photos'], added, deleted)
-        merged_photos.sort(key=lambda d: d['low_resolution_path'])
+        merged_photos = apply_changes_with_confirmation(existing_data["name"], existing_photos, added, deleted)
+        merged_photos.sort(key=photo_sort_key)
         return {'name': new_data['name'], 'photos': merged_photos}
     else:
         assert 'categories' in new_data, "Data must have either categories or photos."
@@ -154,6 +155,18 @@ def generate_new_photos():
         yaml.dump(merged_data, f, default_flow_style=False, sort_keys=False)
 
 
+def aspect_ratio_of(image_path: str) -> float:
+    """
+    Returns image width divided by image height
+    :param image_path: path to the image, beginning with "/Photos"
+    :return: image aspect ratio
+    """
+
+    assert image_path.startswith("/Photos")
+    with Image.open(image_path[1:]) as image:
+        return image.width / image.height
+
+
 def ask_user_for_links(full_category_name: str, category: Category) -> Category:
     assert 'name' in category, "Category is missing a name."
     if 'photos' in category:
@@ -171,9 +184,12 @@ def ask_user_for_links(full_category_name: str, category: Category) -> Category:
             if links:
                 links = [link.strip().replace("/view?usp=drive_link", "/preview") for link in links.split(',')]
                 assert len(links) == len(category['photos']), f"Expected {len(category['photos'])} links, got {len(links)}."
-                photos = sorted(category['photos'], key=lambda d: d['low_resolution_path'])
+
+                # Temporarily sort the photos by name so that the provided links match up correctly
+                photos = sorted(category['photos'], key=lambda p: p['low_resolution_path'])
                 for photo, link in zip(photos, links):
                     photo["full_resolution_link"] = link
+                category["photos"].sort(key=photo_sort_key)
 
                 print(f"Added links for Category {category['name']}")
             else:

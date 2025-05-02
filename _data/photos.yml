@@ -209,16 +209,6 @@ all:
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0429.JPG
         - full_resolution_link: https://drive.google.com/file/d/19u1h0_3QdVf5Az7M5m0fnMLi8eweDKeQ/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_0430.JPG
-        - full_resolution_link: https://drive.google.com/file/d/1gJFCQG4fCEq7OKQLwZ5c9sunXvCR_7xT/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
-        - full_resolution_link: https://drive.google.com/file/d/1a10YA18vkYlDOGY740_NvOndbB7aJsb3/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
-        - full_resolution_link: https://drive.google.com/file/d/1tvv-u-i7vN2uvdyZKBpc6KtydlrE3CN7/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
-        - full_resolution_link: https://drive.google.com/file/d/10Q2fqsNfClTpXPYGuaXIoy86k93Y5ojm/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
-        - full_resolution_link: https://drive.google.com/file/d/1PnIahLkFzCM_82tYZs_FF4T_BL_uHw4o/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
         - full_resolution_link: https://drive.google.com/file/d/1gVIgpl9sklnuzJXp9nLKe9DuuBvmA_LI/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2095.JPG
         - full_resolution_link: https://drive.google.com/file/d/1ClfpGfL5RiNJUdaCFAsA7Km2M_k7GWOh/preview
@@ -229,12 +219,22 @@ all:
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2098.JPG
         - full_resolution_link: https://drive.google.com/file/d/1YGqds1qCkBQTZ9aHonTglxCFPQYxRIBl/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2100.JPG
-        - full_resolution_link: https://drive.google.com/file/d/11vL2sSAZEeWnVdfqPg-GCRFZnQqR8G7V/preview
-          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
         - full_resolution_link: https://drive.google.com/file/d/1Cl1D6j9j_qAs5Yr-xAVGpuHkPPHUVMv7/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2102.JPG
         - full_resolution_link: https://drive.google.com/file/d/1aXvjSxA-GDRM70tTLHcPwT2INr8-YcXl/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2115.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1gJFCQG4fCEq7OKQLwZ5c9sunXvCR_7xT/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2072.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1a10YA18vkYlDOGY740_NvOndbB7aJsb3/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2079.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1tvv-u-i7vN2uvdyZKBpc6KtydlrE3CN7/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2081.JPG
+        - full_resolution_link: https://drive.google.com/file/d/10Q2fqsNfClTpXPYGuaXIoy86k93Y5ojm/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2082.JPG
+        - full_resolution_link: https://drive.google.com/file/d/1PnIahLkFzCM_82tYZs_FF4T_BL_uHw4o/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2086.JPG
+        - full_resolution_link: https://drive.google.com/file/d/11vL2sSAZEeWnVdfqPg-GCRFZnQqR8G7V/preview
+          low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2101.JPG
         - full_resolution_link: https://drive.google.com/file/d/1w6XSQSF7V0obmvyhQTRfrww07kRdsHn0/preview
           low_resolution_path: /Photos/2024/Miscellaneous/Closing Ceremony/IMG_2116.JPG
       - name: Lunch
@@ -295,14 +295,14 @@ all:
           full_resolution_link: https://drive.google.com/file/d/1Pcx3rPZz7Y4Cw32D-ZOPDOV9f12VVbK4/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_0434.JPG
           full_resolution_link: https://drive.google.com/file/d/1i7crysTxq3RaX0P3fv0CGlBKr2Wsu8gt/preview
-        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
-          full_resolution_link: https://drive.google.com/file/d/1FjAOyel4R42oV0Xa4u4keFf-Lfw-CMvp/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2063.JPG
           full_resolution_link: https://drive.google.com/file/d/1AgPCbXehDgllK9SKBzlgF7MtCC4Dzkug/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2064.JPG
           full_resolution_link: https://drive.google.com/file/d/1PHVWpaeMC1jQ-RxvbMFIJDmqPdLapo0P/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2065.JPG
           full_resolution_link: https://drive.google.com/file/d/1-4TLdQFiNIr_9PDL1p822BGCZDTmo0l0/preview
+        - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2062.JPG
+          full_resolution_link: https://drive.google.com/file/d/1FjAOyel4R42oV0Xa4u4keFf-Lfw-CMvp/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2067.JPG
           full_resolution_link: https://drive.google.com/file/d/16sGmE6fr8khuGXxHfDum9tJmv-fgz1Ss/preview
         - low_resolution_path: /Photos/2024/Miscellaneous/Post Contest/IMG_2068.JPG
@@ -429,8 +429,6 @@ all:
           full_resolution_link: https://drive.google.com/file/d/1vXrP_LdDku5bMD8hZYf4uZKMglFSPc_O/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0143.JPG
           full_resolution_link: https://drive.google.com/file/d/1JKdSfgMgEAdYIr1NhdVD5L4T8aM69hdu/preview
-        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
-          full_resolution_link: https://drive.google.com/file/d/1hqywggrj765AqmD8asLlw0iCk3OwmYj0/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0147.JPG
           full_resolution_link: https://drive.google.com/file/d/1ycCmh3WXr1NFSiVn9ZUdsgu7vVtulv-B/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0148.JPG
@@ -515,14 +513,16 @@ all:
           full_resolution_link: https://drive.google.com/file/d/1jexCgEfU5ieVwrDvYdK-IwHxS302jXq8/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0379.JPG
           full_resolution_link: https://drive.google.com/file/d/18pZTiGxhxnrDJWEHYSBqfTqdZD8b-4p-/preview
-        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
-          full_resolution_link: https://drive.google.com/file/d/1lS-7RKGy0DXzoBPT1ze1vMu53X9pyXvD/preview
-        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
-          full_resolution_link: https://drive.google.com/file/d/15Yg9YLfQxdoJxMqKoOvYztTstjq3I2-W/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0394.JPG
           full_resolution_link: https://drive.google.com/file/d/1D1ROfrz8Qvkc7xmrWrjkdQhHW_GtqtU7/preview
         - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0395.JPG
           full_resolution_link: https://drive.google.com/file/d/1LqOhGqwIMRSmIhM_6N-zI5izLj9s4R-Q/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0144.JPG
+          full_resolution_link: https://drive.google.com/file/d/1hqywggrj765AqmD8asLlw0iCk3OwmYj0/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0386.JPG
+          full_resolution_link: https://drive.google.com/file/d/1lS-7RKGy0DXzoBPT1ze1vMu53X9pyXvD/preview
+        - low_resolution_path: /Photos/2024/Organizer Portraits/Individuals/IMG_0387.JPG
+          full_resolution_link: https://drive.google.com/file/d/15Yg9YLfQxdoJxMqKoOvYztTstjq3I2-W/preview
     - name: Portraits (with Logo)
       photos:
       - low_resolution_path: /Photos/2024/Portraits (with Logo)/IMG_0161.JPG
