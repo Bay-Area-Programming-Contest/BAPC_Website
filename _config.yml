@@ -7,3 +7,8 @@ exclude:
   - generate_photos_data.py
   - requirements.txt
   - venv
+include:
+  - "*.JPG"
+  - "*.jpg"
+  - "*.PNG"
+  - "*.png"
