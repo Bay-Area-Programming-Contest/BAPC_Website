@@ -97,7 +97,6 @@ def merge_data(existing_data: Category, new_data: Category) -> Category:
 
         if len(added) == 0 and len(deleted) == 0:
             print(f"Category {existing_data['name']} with {len(existing_photos)} photos was not modified.")
-            existing_photos.sort(key=photo_sort_key)
             return {'name': existing_data['name'], 'photos': existing_photos}
 
         merged_photos = apply_changes_with_confirmation(existing_data["name"], existing_photos, added, deleted)
