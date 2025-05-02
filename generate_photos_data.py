@@ -36,6 +36,9 @@ type Category = dict[str, str | list[Photo] | list[Category]]
 yaml_path = "_data/photos.yml"
 photo_sort_key = lambda photo: (-aspect_ratio_of(photo["low_resolution_path"]), photo["low_resolution_path"])
 
+# Try to emulate Google Drive's sorting logic
+drive_sort_key = lambda photo: photo['low_resolution_path'].replace('_', ' ').lower()
+
 
 def read_photos_yaml() -> dict[str, Category]:
     if os.path.exists(yaml_path):
@@ -171,7 +174,7 @@ def ask_user_for_links(full_category_name: str, category: Category) -> Category:
     if 'photos' in category:
         assert 'categories' not in category, "Category should not have both photos and subcategories"
 
-        if all('full_resolution_link' in photo_data for photo_data in category["photos"]):
+        if all('full_resolution_link' in photo_data and '2025' not in photo_data['low_resolution_path'] for photo_data in category["photos"]):
             print(f"Category {full_category_name} with {len(category['photos'])} photos already has Drive links.")
         else:
             print(f"Category {full_category_name} with {len(category['photos'])} photos is missing some Drive links.")
@@ -185,7 +188,7 @@ def ask_user_for_links(full_category_name: str, category: Category) -> Category:
                 assert len(links) == len(category['photos']), f"Expected {len(category['photos'])} links, got {len(links)}."
 
                 # Temporarily sort the photos by name so that the provided links match up correctly
-                photos = sorted(category['photos'], key=lambda p: p['low_resolution_path'])
+                photos = sorted(category['photos'], key=drive_sort_key)
                 for photo, link in zip(photos, links):
                     photo["full_resolution_link"] = link
                 category["photos"].sort(key=photo_sort_key)

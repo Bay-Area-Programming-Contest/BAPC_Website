@@ -778,1074 +778,1074 @@ all:
     - name: Miscellaneous
       photos:
       - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3913.JPG
-        full_resolution_link: https://drive.google.com/file/d/1OzxV7Yt_-0OsiuoMBgUNLaaUymnm2noF/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3914.JPG
-        full_resolution_link: https://drive.google.com/file/d/1z_0BakrjXrHB1QCOKPISDbYJIdxaO4U2/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3915.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MnWEJxKiX9uJE9aJdxySLqKKviRZWUx4/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3969.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-Umlk8hbRDAQhDpbJa7xMZzd339__ID6/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3977.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AEG2pF2R_QDqpdzIAW7vm5Qne7YiQSH7/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3986.JPG
-        full_resolution_link: https://drive.google.com/file/d/1EbyvhhawL-q47n07rnh_V-jqW2AcNeUa/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_4002.JPG
-        full_resolution_link: https://drive.google.com/file/d/1GY45wbABQK-_AvN3WQ4MnYWSi4MNyJBu/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_5696.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hoz8_SDk-BEth4Bq82h7f9C4wUUqv5u7/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_5699.JPG
-        full_resolution_link: https://drive.google.com/file/d/1eoYRdingzskLB-lhhZP8tHRjox6HyxD-/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1201.JPG
-        full_resolution_link: https://drive.google.com/file/d/1liYsBc04LT57umUsK-GK8ktvWmYnrQEw/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1245.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mmuQeNalU5SlsRXCv4sS7gmWMK48GGA_/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1391.JPG
-        full_resolution_link: https://drive.google.com/file/d/15d2F7Lslc0Xhwbn8qSzAa5Xo6Zit8-8M/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1392.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QzlsNrs9HjdxLT7ala1AD7KSLX1rDcjL/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1393.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Y-eXu7Ck3mKPKT0j53DVpuFNKUTc9UKY/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1394.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vWUBu9NzzHQ2fwGsQJsxuBi9CDPrMhr4/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1396.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XKGlGsn4Lh8a2eSyZiV5lnkralBcx_zL/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1397.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LMUs5SfrH1Ynyd6QJS0bK39ePdtbeV_i/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1399.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Wtq9WYpnusETTYDwQphjy-JLlzfIeabc/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1400.JPG
-        full_resolution_link: https://drive.google.com/file/d/19_TA8_C6NAVuFx9_u-A8YzWTal6E05aj/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1401.JPG
-        full_resolution_link: https://drive.google.com/file/d/1p-uOVONMkI2o7gdPOzVTdoa52ZytXfKQ/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1402.JPG
-        full_resolution_link: https://drive.google.com/file/d/1j4NvWvsbjxwUPk9CeBIPfHCmxjuKe6n3/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1404.JPG
-        full_resolution_link: https://drive.google.com/file/d/1dgSqWZXdNHG8xuOLzGEeRlfJrZ4AV45C/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1405.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LHZFmZ54ihY5PIhGEy_H3Y9TmLdzYSjQ/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1406.JPG
-        full_resolution_link: https://drive.google.com/file/d/1pC_N21-F36Bgjr7XSmfePJIT_Lj2Dnrr/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1407.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iNg9PAiH1c71EOeaXU65zqTx0g2uolGt/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1436.JPG
-        full_resolution_link: https://drive.google.com/file/d/15PZ4G8dHOVAWLn2mwiy6C5b0RCJVUu0o/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1438.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LeuSxQXDfB3PyV_HX5P5dkHOW29o5lzo/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1439.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ELHNeqitHpgY1jGwdzZMpneOq0IUPy10/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1441.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ntd3YRa4T5shySrxDBClMkXgSUrB707o/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1442.JPG
-        full_resolution_link: https://drive.google.com/file/d/1m_L0zhQSJjDDxff6XeRkLFQMNC2rYEc0/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1443.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Xik8QQrfh28Iy6LLJ2L2064vCMjXnEcm/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1445.JPG
-        full_resolution_link: https://drive.google.com/file/d/1O43-zptP__na2mffnHuo3POTFEPgdBdm/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1452.JPG
-        full_resolution_link: https://drive.google.com/file/d/15DOx6PT39wjA7BBhchdFxC4JIa67micX/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1462.JPG
-        full_resolution_link: https://drive.google.com/file/d/1d6ZcWqCojar09z5rFGHs11xQ-_bIIgOU/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1478.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nwHDePeH87efvGWFDNUiA00sqhr_x_jo/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1486.JPG
-        full_resolution_link: https://drive.google.com/file/d/1TkMjVLYa_sxsd5-EFcroy7Ze84Bfcdvl/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1489.JPG
-        full_resolution_link: https://drive.google.com/file/d/1kUggPOFSdBy1rHn0lPknAJ6QYz1Qwkyl/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1495.JPG
-        full_resolution_link: https://drive.google.com/file/d/1V1GTEO5GKN-gopUF8sgfu_lpNf0IoTCc/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1507.JPG
-        full_resolution_link: https://drive.google.com/file/d/1c3Pchc27ykKz8CTxCkob4pTyZoccw4ss/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1508.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AGO-F3ChzLAWue1SBVW2v6L7FeF4_6u-/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1512.JPG
-        full_resolution_link: https://drive.google.com/file/d/1daJo5_Olg5JJvlpj-7NHxFGev-qsbfBL/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1514.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JwRWV3uz0Go7333uEoiA4TLxjtJzFfEy/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1518.JPG
-        full_resolution_link: https://drive.google.com/file/d/1EjiCV-pvg40OK2EnkBAB5M-vPryERE2Q/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1520.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lao_dV5dAI9ceXoQrDu5FyBKIoLKSjFW/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1535.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JOc-dF3EDuiB4UXiagBQ-faohLmWXZBq/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1537.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cAy-eUeMLoRxCbLXDdvK6OoGVRVGetap/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1539.JPG
-        full_resolution_link: https://drive.google.com/file/d/1DWH5BQ5FNOQtVHfFgMbrKH_odhoM2ted/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1544.JPG
-        full_resolution_link: https://drive.google.com/file/d/1roigwS81cCvIxT4jl3k5egcbQhwQb_Ng/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1545.JPG
-        full_resolution_link: https://drive.google.com/file/d/1u-zahLW83sLNQFcnj7vNMQuKhTgbt9yc/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1548.JPG
-        full_resolution_link: https://drive.google.com/file/d/1RxICOvhNp_obl6Adf25QJvidnds6js4x/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1551.JPG
-        full_resolution_link: https://drive.google.com/file/d/1sCan_n7CCErJ0vVqbtlkSWcOqfroj2el/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1552.JPG
-        full_resolution_link: https://drive.google.com/file/d/1og6-vkblft3eO76s03HEMO1s51LsX2Wp/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1561.JPG
-        full_resolution_link: https://drive.google.com/file/d/1l26a19USNtxhJo6hwvk80ImUlzoEt58X/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1562.JPG
-        full_resolution_link: https://drive.google.com/file/d/1K1jewsijOh7Kh2toDd8OYdEyOkiIDEM2/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1563.JPG
-        full_resolution_link: https://drive.google.com/file/d/1d0XRbBpPWyJdBOziqwdiO86Sm-5DWz6G/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1564.JPG
-        full_resolution_link: https://drive.google.com/file/d/1K4qMG5QhNNagmJoYlRTl6EElgMdW8Ejl/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1565.JPG
-        full_resolution_link: https://drive.google.com/file/d/13AP-ktpgrq_y25CvKdWgvEF79_pU8WZL/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1566.JPG
-        full_resolution_link: https://drive.google.com/file/d/19bDuqP5OKIoXL97URxUQuh0R-bwF9rya/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1569.JPG
-        full_resolution_link: https://drive.google.com/file/d/12W8VNYFd4zTSx-6Vz09pPS-4NnOR0NA-/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1570.JPG
         full_resolution_link: https://drive.google.com/file/d/17_Wrf9oGBxmluhyPg5cXOLywNFKCDdCe/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1573.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3914.JPG
         full_resolution_link: https://drive.google.com/file/d/1nceaDm0M5lXPI7IX2KDZbB9g1ATVi5xK/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1577.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3915.JPG
         full_resolution_link: https://drive.google.com/file/d/1FYXFt83eRaSSHfykGGCQlPWhpeviP2KQ/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1584.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3969.JPG
         full_resolution_link: https://drive.google.com/file/d/1TNwIN0_eecSquVNnqfIX9Z6B215G6vob/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1586.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3977.JPG
         full_resolution_link: https://drive.google.com/file/d/1Xwl8FaVZaFIZwBd4-vuWzBf-P0ASAQvy/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1587.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_3986.JPG
         full_resolution_link: https://drive.google.com/file/d/1AMyGIgOqNGgSyS5irlpuGJBmLh_9DeMA/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1591.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_4002.JPG
         full_resolution_link: https://drive.google.com/file/d/1qtai1WXRfAkmusS05i9T3xJqBc8Hqrkw/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1593.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_5696.JPG
         full_resolution_link: https://drive.google.com/file/d/1yBYEFXsbfdxyqSBwHR-6Q1YgE0i5PF5a/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1596.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/DSC_5699.JPG
         full_resolution_link: https://drive.google.com/file/d/1HCjtqxbYvvhNh1nHnYRBcuA2APBTOWzi/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1601.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Hel15Wp2K_PEwf2AAaXX_zympDirhbJY/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1602.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Sezdzfpi5f7LQV36U0pnYMfIrJee6uiu/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1605.JPG
-        full_resolution_link: https://drive.google.com/file/d/1FAWOHT37EnPFH0m6S2792EroZb86gZ9e/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1609.JPG
-        full_resolution_link: https://drive.google.com/file/d/1--QT3R-Ceo5Yz6-gwHAJzC66y5-xSOzf/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1610.JPG
-        full_resolution_link: https://drive.google.com/file/d/1q6ntk5qSxaXWKAOFN1mXVyYq5hA0vTxf/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9931.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1201.JPG
+        full_resolution_link: https://drive.google.com/file/d/19bDuqP5OKIoXL97URxUQuh0R-bwF9rya/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1245.JPG
+        full_resolution_link: https://drive.google.com/file/d/1z_0BakrjXrHB1QCOKPISDbYJIdxaO4U2/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1391.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MnWEJxKiX9uJE9aJdxySLqKKviRZWUx4/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1392.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-Umlk8hbRDAQhDpbJa7xMZzd339__ID6/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1393.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AEG2pF2R_QDqpdzIAW7vm5Qne7YiQSH7/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1394.JPG
+        full_resolution_link: https://drive.google.com/file/d/1EbyvhhawL-q47n07rnh_V-jqW2AcNeUa/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1396.JPG
+        full_resolution_link: https://drive.google.com/file/d/1GY45wbABQK-_AvN3WQ4MnYWSi4MNyJBu/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1397.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hoz8_SDk-BEth4Bq82h7f9C4wUUqv5u7/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1399.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eoYRdingzskLB-lhhZP8tHRjox6HyxD-/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1400.JPG
         full_resolution_link: https://drive.google.com/file/d/15075fKedKp4-ETUakKlJO1-WBb1cNGSs/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9939.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1401.JPG
         full_resolution_link: https://drive.google.com/file/d/136N6lkY_Ze25pbqCu4r1lu6lbpp3y-la/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9940.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1402.JPG
         full_resolution_link: https://drive.google.com/file/d/1BvUsLtVWgRbOZdp5r8sO-u6ZbqHkU8dy/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/PXL_20250303_002339405.jpg
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1404.JPG
         full_resolution_link: https://drive.google.com/file/d/1bE0o5EWv7el6oKeHEteTH6S0t4R6XKiM/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/PXL_20250303_010922636.MP.jpg
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1405.JPG
         full_resolution_link: https://drive.google.com/file/d/1CLMFqfmC69sG9HE8GfnAhvmeE-4QAD3l/preview
-      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1257.JPG
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1406.JPG
+        full_resolution_link: https://drive.google.com/file/d/1liYsBc04LT57umUsK-GK8ktvWmYnrQEw/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1407.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mmuQeNalU5SlsRXCv4sS7gmWMK48GGA_/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1436.JPG
         full_resolution_link: https://drive.google.com/file/d/1G0HtlV56luCUSuczfPfRuNwqc58IEcUs/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1438.JPG
+        full_resolution_link: https://drive.google.com/file/d/15d2F7Lslc0Xhwbn8qSzAa5Xo6Zit8-8M/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1439.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QzlsNrs9HjdxLT7ala1AD7KSLX1rDcjL/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1441.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Y-eXu7Ck3mKPKT0j53DVpuFNKUTc9UKY/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1442.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vWUBu9NzzHQ2fwGsQJsxuBi9CDPrMhr4/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1443.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XKGlGsn4Lh8a2eSyZiV5lnkralBcx_zL/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1445.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LMUs5SfrH1Ynyd6QJS0bK39ePdtbeV_i/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1452.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Wtq9WYpnusETTYDwQphjy-JLlzfIeabc/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1462.JPG
+        full_resolution_link: https://drive.google.com/file/d/19_TA8_C6NAVuFx9_u-A8YzWTal6E05aj/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1478.JPG
+        full_resolution_link: https://drive.google.com/file/d/1p-uOVONMkI2o7gdPOzVTdoa52ZytXfKQ/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1486.JPG
+        full_resolution_link: https://drive.google.com/file/d/1j4NvWvsbjxwUPk9CeBIPfHCmxjuKe6n3/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1489.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dgSqWZXdNHG8xuOLzGEeRlfJrZ4AV45C/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1495.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LHZFmZ54ihY5PIhGEy_H3Y9TmLdzYSjQ/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1507.JPG
+        full_resolution_link: https://drive.google.com/file/d/1pC_N21-F36Bgjr7XSmfePJIT_Lj2Dnrr/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1508.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iNg9PAiH1c71EOeaXU65zqTx0g2uolGt/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1512.JPG
+        full_resolution_link: https://drive.google.com/file/d/15PZ4G8dHOVAWLn2mwiy6C5b0RCJVUu0o/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1514.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LeuSxQXDfB3PyV_HX5P5dkHOW29o5lzo/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1518.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ELHNeqitHpgY1jGwdzZMpneOq0IUPy10/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1520.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ntd3YRa4T5shySrxDBClMkXgSUrB707o/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1535.JPG
+        full_resolution_link: https://drive.google.com/file/d/1m_L0zhQSJjDDxff6XeRkLFQMNC2rYEc0/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1537.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Xik8QQrfh28Iy6LLJ2L2064vCMjXnEcm/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1539.JPG
+        full_resolution_link: https://drive.google.com/file/d/1O43-zptP__na2mffnHuo3POTFEPgdBdm/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1544.JPG
+        full_resolution_link: https://drive.google.com/file/d/15DOx6PT39wjA7BBhchdFxC4JIa67micX/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1545.JPG
+        full_resolution_link: https://drive.google.com/file/d/1d6ZcWqCojar09z5rFGHs11xQ-_bIIgOU/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1548.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nwHDePeH87efvGWFDNUiA00sqhr_x_jo/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1551.JPG
+        full_resolution_link: https://drive.google.com/file/d/1TkMjVLYa_sxsd5-EFcroy7Ze84Bfcdvl/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1552.JPG
+        full_resolution_link: https://drive.google.com/file/d/1kUggPOFSdBy1rHn0lPknAJ6QYz1Qwkyl/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1561.JPG
+        full_resolution_link: https://drive.google.com/file/d/1V1GTEO5GKN-gopUF8sgfu_lpNf0IoTCc/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1562.JPG
+        full_resolution_link: https://drive.google.com/file/d/1c3Pchc27ykKz8CTxCkob4pTyZoccw4ss/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1563.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AGO-F3ChzLAWue1SBVW2v6L7FeF4_6u-/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1564.JPG
+        full_resolution_link: https://drive.google.com/file/d/1daJo5_Olg5JJvlpj-7NHxFGev-qsbfBL/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1565.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JwRWV3uz0Go7333uEoiA4TLxjtJzFfEy/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1566.JPG
+        full_resolution_link: https://drive.google.com/file/d/1EjiCV-pvg40OK2EnkBAB5M-vPryERE2Q/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1569.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lao_dV5dAI9ceXoQrDu5FyBKIoLKSjFW/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1570.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JOc-dF3EDuiB4UXiagBQ-faohLmWXZBq/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1573.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cAy-eUeMLoRxCbLXDdvK6OoGVRVGetap/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1577.JPG
+        full_resolution_link: https://drive.google.com/file/d/1DWH5BQ5FNOQtVHfFgMbrKH_odhoM2ted/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1584.JPG
+        full_resolution_link: https://drive.google.com/file/d/1roigwS81cCvIxT4jl3k5egcbQhwQb_Ng/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1586.JPG
+        full_resolution_link: https://drive.google.com/file/d/1u-zahLW83sLNQFcnj7vNMQuKhTgbt9yc/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1587.JPG
+        full_resolution_link: https://drive.google.com/file/d/1RxICOvhNp_obl6Adf25QJvidnds6js4x/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1591.JPG
+        full_resolution_link: https://drive.google.com/file/d/1sCan_n7CCErJ0vVqbtlkSWcOqfroj2el/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1593.JPG
+        full_resolution_link: https://drive.google.com/file/d/1og6-vkblft3eO76s03HEMO1s51LsX2Wp/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1596.JPG
+        full_resolution_link: https://drive.google.com/file/d/1l26a19USNtxhJo6hwvk80ImUlzoEt58X/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1601.JPG
+        full_resolution_link: https://drive.google.com/file/d/1K1jewsijOh7Kh2toDd8OYdEyOkiIDEM2/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1602.JPG
+        full_resolution_link: https://drive.google.com/file/d/1d0XRbBpPWyJdBOziqwdiO86Sm-5DWz6G/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1605.JPG
+        full_resolution_link: https://drive.google.com/file/d/1K4qMG5QhNNagmJoYlRTl6EElgMdW8Ejl/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1609.JPG
+        full_resolution_link: https://drive.google.com/file/d/13AP-ktpgrq_y25CvKdWgvEF79_pU8WZL/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1610.JPG
+        full_resolution_link: https://drive.google.com/file/d/12W8VNYFd4zTSx-6Vz09pPS-4NnOR0NA-/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9931.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Hel15Wp2K_PEwf2AAaXX_zympDirhbJY/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9939.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Sezdzfpi5f7LQV36U0pnYMfIrJee6uiu/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/IMG_9940.JPG
+        full_resolution_link: https://drive.google.com/file/d/1FAWOHT37EnPFH0m6S2792EroZb86gZ9e/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/PXL_20250303_002339405.jpg
+        full_resolution_link: https://drive.google.com/file/d/1--QT3R-Ceo5Yz6-gwHAJzC66y5-xSOzf/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/PXL_20250303_010922636.MP.jpg
+        full_resolution_link: https://drive.google.com/file/d/1q6ntk5qSxaXWKAOFN1mXVyYq5hA0vTxf/preview
+      - low_resolution_path: /Photos/2025/Miscellaneous/_DSC1257.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OzxV7Yt_-0OsiuoMBgUNLaaUymnm2noF/preview
     - name: Organizers
       photos:
       - low_resolution_path: /Photos/2025/Organizers/IMG_9951.JPG
-        full_resolution_link: https://drive.google.com/file/d/14-ldr5eoIpbniiATVwYY-MDRiEUxFEnH/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3892.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Kkk9h-MUihp2dMQFEpVVMt0FU9uFxgAa/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3898.JPG
-        full_resolution_link: https://drive.google.com/file/d/1GbGzP-FQ97tQ8-NMaXC56cuBDLM8Mm_C/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3899.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hcVpa5xUxQVETH35tegjTC0bk_pVX7KK/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3901.JPG
-        full_resolution_link: https://drive.google.com/file/d/1BMuOYeG0yikF3gNErINvRHF0EAlzSfWA/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3904.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Zbg-FAIs1Zs68IjtLQJ5J-r8PJyQnZkS/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3964.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wWVmgLqSwQ6aw4UaZZmdvALMvrbfez8f/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3965.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ehP1lvOvE7WTGWJy03b8WAUty_QDpSVP/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3966.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ufndyb3TffrQbgzsglbpsSNsHVvMsww8/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3967.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QTCaYLpoQDblEwxmAk0I1GU2wMTWNIqC/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3968.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ooPV-tbU9EnCOaKItsKR57hLA8r_iglc/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3970.JPG
-        full_resolution_link: https://drive.google.com/file/d/1NPhRTgawbNGi-hjxZ62c2zU-hqrSuRmA/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3973.JPG
-        full_resolution_link: https://drive.google.com/file/d/1N6VYjtokznpu9tXqmDS5zMUgG7xxlyUt/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3978.JPG
-        full_resolution_link: https://drive.google.com/file/d/1epC9OOrRS2u1TWCrMxD96Yr4nHtbdi1k/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3979.JPG
-        full_resolution_link: https://drive.google.com/file/d/1g_oKT_JqK_CQDVoRYymxZy7ZgfslM9-_/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3980.JPG
-        full_resolution_link: https://drive.google.com/file/d/1yW1E747jpcbGEdPbavC259DUPkpwoP6F/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3982.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Zn4FUD3MXgwbEpgVUxG_aQi0-cb2ij20/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3983.JPG
-        full_resolution_link: https://drive.google.com/file/d/1oXLEcIvAI467T2h-B3WhwUOxkh6nj9S2/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3984.JPG
-        full_resolution_link: https://drive.google.com/file/d/1t3Eaz-NrA3lx8fTObjTQ948XK4DdgIG9/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3985.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-7csS-1i9GhxbHngS_k8OXTRlY3SJ4cW/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3988.JPG
-        full_resolution_link: https://drive.google.com/file/d/1kYEIc2LdEaCOnu8x_Ytn_v87BUG8qYYO/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3990.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-U-NVbBDOE_VXtQZpEZKODD_g9iMy-LI/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3991.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JegGho8ClZLGAv3RmJNZqf3FPJIB8SEy/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3995.JPG
-        full_resolution_link: https://drive.google.com/file/d/1dregGrsUn97iP0v6bzyFx-VEt8HyUZPf/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_4004.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Nvf2FbzfLastwDuwtGlMcuef9GNxlrkI/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_4017.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hyTr9nCO0STnvyMCkmcHgQUWTApnaASL/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5692.JPG
-        full_resolution_link: https://drive.google.com/file/d/198135QlZD_A-TwgHggIYohRv5R7CsoOR/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5693.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JpvP3t9VxOdOvswI9bvNs9dF6wzqNTn_/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5695.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Z8Oi2yFFWwkzzrHVVKZcAlgo-s3mcGkx/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5697.JPG
-        full_resolution_link: https://drive.google.com/file/d/16ogn3G4ReUucU-x711CVy3cRG3Zw456K/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5698.JPG
-        full_resolution_link: https://drive.google.com/file/d/1SOBNNXVnFOTght_w2AvSle3nR9Ef9iDe/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5700.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YbrrnEs4TkKACTb0inTbnolYjkjmc_A3/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5701.JPG
-        full_resolution_link: https://drive.google.com/file/d/1S1nD2d0kTGCnpvrFFHlqFg9CBBT-Y8nR/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5705.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ga6Eb9jJrv_0Rh7mLHrM-VpzmKBIjbK5/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5706.JPG
-        full_resolution_link: https://drive.google.com/file/d/1FrVLdpFINC4vzdHy9wFFcMx1cbevSNX4/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5708.JPG
-        full_resolution_link: https://drive.google.com/file/d/1WkGHSkzqUrOjRuUHWPZJ2B5Ft3Ts01We/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5713.JPG
-        full_resolution_link: https://drive.google.com/file/d/164w6R8AVtERBSIBAK8k5uI3hkoxM6VAu/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5715.JPG
-        full_resolution_link: https://drive.google.com/file/d/1_9l4jbz5bZaMPzbKxIpcSlzmf0ZAXL_2/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5717.JPG
-        full_resolution_link: https://drive.google.com/file/d/1C5ZY11f-SmteuXlTuqfOIRz-EzWFsTgD/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_5719.JPG
-        full_resolution_link: https://drive.google.com/file/d/1WW7Qb8JJ0-xILZYBh2PnqxTjK_tq4PLH/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1224.JPG
-        full_resolution_link: https://drive.google.com/file/d/15Cbfy6V5o5PWzyM6LTQCTBuuXv3VfDdX/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1238.JPG
-        full_resolution_link: https://drive.google.com/file/d/109yRxjPrbZn3FM1azaAqxtTOBubOeirR/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1298.JPG
-        full_resolution_link: https://drive.google.com/file/d/1fGiKl0RlX7q8AoUcLwM_DVuQ_CdX8bme/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1299.JPG
-        full_resolution_link: https://drive.google.com/file/d/1J4xqJznIj5s-oKmwrSdeoVapqhpa-BXX/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1300.JPG
-        full_resolution_link: https://drive.google.com/file/d/1qpjKf_smhnWDuUviozNiY_HBHevj6dgl/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1301.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bel7ne6Bp8MGY_szGAEBM8DuyCb7A6uz/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1302.JPG
-        full_resolution_link: https://drive.google.com/file/d/1FIbnz5C8ffsp1Vfs28LYZv9O_tLO6FTe/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1303.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vkmRdToWDs-jlw9LGlsLi3I5uMBILOKa/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1304.JPG
-        full_resolution_link: https://drive.google.com/file/d/1sblc1zOH594jDZVFTO8aDdAcWdpc7qtG/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1305.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cvhEgb65mciLarQOcNpFz6WZ0UJNBvMy/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1322.JPG
-        full_resolution_link: https://drive.google.com/file/d/1guPaKUgOhBZwNnfTKUpEFJtIBoH3FQxj/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1323.JPG
-        full_resolution_link: https://drive.google.com/file/d/1IGQ1VoAjsJpIzI7ocHNoMjH8XAMWNyaZ/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1408.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-UHv8G5ltjfm1Uo4msg0Fb_EfJf6zl_f/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1410.JPG
-        full_resolution_link: https://drive.google.com/file/d/1e4NG95udFTlD4aOIy23gIYPwU_TQvj4i/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1416.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bAA2aYTjvN2bxl04OpL6DUyAPxLmIt3T/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1417.JPG
-        full_resolution_link: https://drive.google.com/file/d/1t7xHUvidIcHHSRJwAQ79Y9rCKyh_54Tm/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1419.JPG
-        full_resolution_link: https://drive.google.com/file/d/1c53AKcCmYNU-EfmP6Q0nVp789GFfU1Js/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1420.JPG
-        full_resolution_link: https://drive.google.com/file/d/1GRb-r2CKzFo4BGAGQnIadgYoXSTkCXB9/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1421.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ja8g00YzRXlcNEKnEf33uoA98L5QXW61/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1430.JPG
-        full_resolution_link: https://drive.google.com/file/d/14yfmnQpl9WDLcVdC8WCFz061a3AjfRPR/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1431.JPG
-        full_resolution_link: https://drive.google.com/file/d/17FooOwbbTOUjgw3LbLI7liErpBLX0x2E/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1448.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nMLAVqdj6UZzq8etbGlbTWwIFWXU1aex/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1449.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AZZl89C7gSzEeU4DYmLP0RoV3Xud2sfb/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1450.JPG
-        full_resolution_link: https://drive.google.com/file/d/1IZ9wC1ON1P3_BBFUrKJBgVHqdxSteewD/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1451.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MaPLFZr-Glmzt2qJ4_oMvISmRDPCFUw-/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1457.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cRv-ZaqiM51GfjyGdAYRREaEuIODNMFd/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1459.JPG
-        full_resolution_link: https://drive.google.com/file/d/1T9p61ygpSdzu5lE3o8ZRXM03KQ6LimeM/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1460.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mbwBpYmJJoAxopBrOIWYTH3OctYdPBKk/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1461.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mt8F4QxWgW4QwKHm25JtJSQ6Xf3QMybf/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1464.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YQ5cJQU33AKDJnTzv6vGAA9EiWnYuBKO/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1465.JPG
-        full_resolution_link: https://drive.google.com/file/d/13Rwy-k_4wDv8y3wHP0G1mS5R4sGk6pOj/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1479.JPG
-        full_resolution_link: https://drive.google.com/file/d/1IVR_mGKj39g52V_VtWirMx3dRAVpnf0f/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1481.JPG
-        full_resolution_link: https://drive.google.com/file/d/1I3Rkn2fpLJZz3almp3P604nMMPWBt7Md/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1482.JPG
-        full_resolution_link: https://drive.google.com/file/d/12dPehW6ElPGv-AjpfdqmgAEFF7zVz21j/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1484.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mp02tDFM31UwZ_Y8I8vohAJSobS9gGGu/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1485.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Fvj5OClLJb_FpVvQMheeCLuBrKda8Z3v/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1490.JPG
-        full_resolution_link: https://drive.google.com/file/d/1brcQV7Ev_J6ZBqTrruTmMaYj3zVxWofZ/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1494.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hkKlX5-ksKVrH5aPaDzHlrnfB_ynmc1H/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1497.JPG
-        full_resolution_link: https://drive.google.com/file/d/1xqtO8o5R3O4AI3dayKoML7oZ0qXKNF2D/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1498.JPG
-        full_resolution_link: https://drive.google.com/file/d/1NksB1lxhH2_8aL2ttu5uJ-kbd3pc14QU/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1500.JPG
-        full_resolution_link: https://drive.google.com/file/d/17QgxpDM8Ny6QqocRdFgluQySwQkdxDP1/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1521.JPG
-        full_resolution_link: https://drive.google.com/file/d/1CCO1nUkS1-lTJGTpv7uaDtmoNgTNbvTR/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1522.JPG
-        full_resolution_link: https://drive.google.com/file/d/1qx0vht6SSJljFr9HVkIXObkj69wX1l9N/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1524.JPG
         full_resolution_link: https://drive.google.com/file/d/1MPQS8pi5j6PzGIjAettcqPuQAHrHL5mR/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1525.JPG
-        full_resolution_link: https://drive.google.com/file/d/1PT9tfB7knyHEPfXK_8y87I1v87gDPTQp/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1526.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AkGE_Wgoti_hDVCXLQ7jnqIot39r7ARj/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1527.JPG
-        full_resolution_link: https://drive.google.com/file/d/1BDdXwfZtWn6sBtXtHKjwzhwf6o0COBpQ/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1528.JPG
-        full_resolution_link: https://drive.google.com/file/d/17PjhMpfBuGn1Ux2OqRP7G-Nl44Hy9BXG/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1529.JPG
-        full_resolution_link: https://drive.google.com/file/d/1u8Y2BeeA8bb1I2XOSp9voEm_Lm60cZzg/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1531.JPG
-        full_resolution_link: https://drive.google.com/file/d/1GL8NNHEZmLE1ryS6Rvz710x6BiS6ACN_/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1542.JPG
-        full_resolution_link: https://drive.google.com/file/d/1h6rXXYozcYJSsqdsUboNQpkbxP2s4gBp/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1555.JPG
-        full_resolution_link: https://drive.google.com/file/d/1TbsUw0j__DtMHnnwqkaPGkNRGBDifRH4/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1557.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Jsailx53BwNNVWHiSPIlAMOSkTd1mzDG/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1571.JPG
-        full_resolution_link: https://drive.google.com/file/d/1jaaKBhu4bBg6FrE7UACaC7PuW6Tnem7R/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1583.JPG
-        full_resolution_link: https://drive.google.com/file/d/1HbRZT8iewirlTuzzXIkEqTvjqS6CFPdK/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1600.JPG
-        full_resolution_link: https://drive.google.com/file/d/1KfWSw7k832jwULqW08T7Gwj0tJJS1mui/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1607.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AuUQvQ0ltysYbv-fZ52GnSeQXlJ4X1XG/preview
-      - low_resolution_path: /Photos/2025/Organizers/_DSC1616.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cpDuzSDkIyKx67M_zq8LsEXtoZzhNoB7/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9917.JPG
-        full_resolution_link: https://drive.google.com/file/d/1A-2LwjCF9MvUGIyTfTL6hkZe6n-HBXAt/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9926.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aRE4dT09LLxWToUW1pZuHX6Rfue16ak4/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9927.JPG
-        full_resolution_link: https://drive.google.com/file/d/1DWkVGNK9o-1CPYVAL44dD-fQW5Y9fjeb/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9928.JPG
-        full_resolution_link: https://drive.google.com/file/d/16FG-r3Fq1g19SZTlsQXkiSTngvhqetmP/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9929.JPG
-        full_resolution_link: https://drive.google.com/file/d/1HRi_p8h3XwtlE5WSfUoUMjP0huGDhJBy/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9932.JPG
-        full_resolution_link: https://drive.google.com/file/d/1VMJNoC0rggFq2U-diIvFvAtKQsOMOyRL/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9933.JPG
-        full_resolution_link: https://drive.google.com/file/d/1tK37mnWamc0dOCoERbkXohhJOCu4t0ud/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9934.JPG
-        full_resolution_link: https://drive.google.com/file/d/17E3boVfEhddQem23Z02o6WIGrGeJ4KHN/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9937.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ZBrD2Ft6Hc2_9qbjEIehN1kbd7N_WJLa/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9942.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bCcemaNFl7n3jt5FMEGOIaZnkWIZpbD1/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9943.JPG
-        full_resolution_link: https://drive.google.com/file/d/1qV-C8p1m7Sf1y46Jc-BfgPKLVBco4_Cn/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9945.JPG
-        full_resolution_link: https://drive.google.com/file/d/1PXj-Bi-M7uVX3Y9U-ypk9W26mKZQ7KmO/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9946.JPG
-        full_resolution_link: https://drive.google.com/file/d/1M8sVBhwMDVY9Lyjys3torMvHThXihOYg/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9948.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ksWrZ9yiZ7_B6NCgsEdbFeDLjITMXxoc/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9949.JPG
-        full_resolution_link: https://drive.google.com/file/d/15gTeawXTr5fUDKIFDhbDlmwCc19Qyv41/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9952.JPG
-        full_resolution_link: https://drive.google.com/file/d/1O0rkjx1m3nsbtqpRKWDmZn7HwtxLynK3/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9953.JPG
-        full_resolution_link: https://drive.google.com/file/d/1OWF3zMzBKES2CXcxrZ4eXjwSLC2LIMSo/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9954.JPG
-        full_resolution_link: https://drive.google.com/file/d/1GNuKq9GkmXC9AhAZDlYM4czVSt9mqUcw/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9955.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3892.JPG
         full_resolution_link: https://drive.google.com/file/d/1acR-EQ0JmzRJ1A-rBhg24rKnApRKo35Y/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9956.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3898.JPG
         full_resolution_link: https://drive.google.com/file/d/1ynFEjKx07rBwZT82iMM1ASo06sCOUCTt/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9957.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3899.JPG
         full_resolution_link: https://drive.google.com/file/d/1yQoiLcUwtrjKCPfFnEwkPeXVBrpeh4ma/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9958.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3901.JPG
         full_resolution_link: https://drive.google.com/file/d/12Hh0LqlVyriqVRfClkJ1RPmciJj8PPaY/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9959.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3904.JPG
         full_resolution_link: https://drive.google.com/file/d/1I24jJVwvNB39TxrkEe_iwE2z5EOKomOv/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9969.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3964.JPG
         full_resolution_link: https://drive.google.com/file/d/1jqwrtfU7ilTc8ebYQBwUwOKqL_i9CzM5/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9970.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3965.JPG
         full_resolution_link: https://drive.google.com/file/d/1FkFOEZM2mFXXftswFYuo7hs5CP653B3L/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9971.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3966.JPG
         full_resolution_link: https://drive.google.com/file/d/1_gBUl6MwcUTG36lccUmq-0Y2AN67_lno/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9972.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3967.JPG
         full_resolution_link: https://drive.google.com/file/d/1xcFdCFeWkbB-XtHWHcFtDjSCKDiTyyNq/preview
-      - low_resolution_path: /Photos/2025/Organizers/IMG_9973.JPG
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3968.JPG
         full_resolution_link: https://drive.google.com/file/d/1MTkwDi0v-EXGtsLg9D5YXKr8nLNnlZqZ/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3970.JPG
+        full_resolution_link: https://drive.google.com/file/d/15Cbfy6V5o5PWzyM6LTQCTBuuXv3VfDdX/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3973.JPG
+        full_resolution_link: https://drive.google.com/file/d/109yRxjPrbZn3FM1azaAqxtTOBubOeirR/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3978.JPG
+        full_resolution_link: https://drive.google.com/file/d/1fGiKl0RlX7q8AoUcLwM_DVuQ_CdX8bme/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3979.JPG
+        full_resolution_link: https://drive.google.com/file/d/1J4xqJznIj5s-oKmwrSdeoVapqhpa-BXX/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3980.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qpjKf_smhnWDuUviozNiY_HBHevj6dgl/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3982.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bel7ne6Bp8MGY_szGAEBM8DuyCb7A6uz/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3983.JPG
+        full_resolution_link: https://drive.google.com/file/d/1FIbnz5C8ffsp1Vfs28LYZv9O_tLO6FTe/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3984.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vkmRdToWDs-jlw9LGlsLi3I5uMBILOKa/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3985.JPG
+        full_resolution_link: https://drive.google.com/file/d/1sblc1zOH594jDZVFTO8aDdAcWdpc7qtG/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3988.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cvhEgb65mciLarQOcNpFz6WZ0UJNBvMy/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3990.JPG
+        full_resolution_link: https://drive.google.com/file/d/1guPaKUgOhBZwNnfTKUpEFJtIBoH3FQxj/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3991.JPG
+        full_resolution_link: https://drive.google.com/file/d/1IGQ1VoAjsJpIzI7ocHNoMjH8XAMWNyaZ/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3995.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-UHv8G5ltjfm1Uo4msg0Fb_EfJf6zl_f/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_4004.JPG
+        full_resolution_link: https://drive.google.com/file/d/1e4NG95udFTlD4aOIy23gIYPwU_TQvj4i/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_4017.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bAA2aYTjvN2bxl04OpL6DUyAPxLmIt3T/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5692.JPG
+        full_resolution_link: https://drive.google.com/file/d/1t7xHUvidIcHHSRJwAQ79Y9rCKyh_54Tm/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5693.JPG
+        full_resolution_link: https://drive.google.com/file/d/1c53AKcCmYNU-EfmP6Q0nVp789GFfU1Js/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5695.JPG
+        full_resolution_link: https://drive.google.com/file/d/1GRb-r2CKzFo4BGAGQnIadgYoXSTkCXB9/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5697.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ja8g00YzRXlcNEKnEf33uoA98L5QXW61/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5698.JPG
+        full_resolution_link: https://drive.google.com/file/d/14yfmnQpl9WDLcVdC8WCFz061a3AjfRPR/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5700.JPG
+        full_resolution_link: https://drive.google.com/file/d/17FooOwbbTOUjgw3LbLI7liErpBLX0x2E/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5701.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nMLAVqdj6UZzq8etbGlbTWwIFWXU1aex/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5705.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AZZl89C7gSzEeU4DYmLP0RoV3Xud2sfb/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5706.JPG
+        full_resolution_link: https://drive.google.com/file/d/1IZ9wC1ON1P3_BBFUrKJBgVHqdxSteewD/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5708.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MaPLFZr-Glmzt2qJ4_oMvISmRDPCFUw-/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5713.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cRv-ZaqiM51GfjyGdAYRREaEuIODNMFd/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5715.JPG
+        full_resolution_link: https://drive.google.com/file/d/1T9p61ygpSdzu5lE3o8ZRXM03KQ6LimeM/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5717.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mbwBpYmJJoAxopBrOIWYTH3OctYdPBKk/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_5719.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mt8F4QxWgW4QwKHm25JtJSQ6Xf3QMybf/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1224.JPG
+        full_resolution_link: https://drive.google.com/file/d/1BDdXwfZtWn6sBtXtHKjwzhwf6o0COBpQ/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1238.JPG
+        full_resolution_link: https://drive.google.com/file/d/1GbGzP-FQ97tQ8-NMaXC56cuBDLM8Mm_C/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1298.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hcVpa5xUxQVETH35tegjTC0bk_pVX7KK/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1299.JPG
+        full_resolution_link: https://drive.google.com/file/d/1BMuOYeG0yikF3gNErINvRHF0EAlzSfWA/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1300.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Zbg-FAIs1Zs68IjtLQJ5J-r8PJyQnZkS/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1301.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wWVmgLqSwQ6aw4UaZZmdvALMvrbfez8f/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1302.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ehP1lvOvE7WTGWJy03b8WAUty_QDpSVP/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1303.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ufndyb3TffrQbgzsglbpsSNsHVvMsww8/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1304.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QTCaYLpoQDblEwxmAk0I1GU2wMTWNIqC/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1305.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ooPV-tbU9EnCOaKItsKR57hLA8r_iglc/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1322.JPG
+        full_resolution_link: https://drive.google.com/file/d/1NPhRTgawbNGi-hjxZ62c2zU-hqrSuRmA/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1323.JPG
+        full_resolution_link: https://drive.google.com/file/d/1N6VYjtokznpu9tXqmDS5zMUgG7xxlyUt/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1408.JPG
+        full_resolution_link: https://drive.google.com/file/d/1epC9OOrRS2u1TWCrMxD96Yr4nHtbdi1k/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1410.JPG
+        full_resolution_link: https://drive.google.com/file/d/1g_oKT_JqK_CQDVoRYymxZy7ZgfslM9-_/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1416.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yW1E747jpcbGEdPbavC259DUPkpwoP6F/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1417.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Zn4FUD3MXgwbEpgVUxG_aQi0-cb2ij20/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1419.JPG
+        full_resolution_link: https://drive.google.com/file/d/1oXLEcIvAI467T2h-B3WhwUOxkh6nj9S2/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1420.JPG
+        full_resolution_link: https://drive.google.com/file/d/1t3Eaz-NrA3lx8fTObjTQ948XK4DdgIG9/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1421.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-7csS-1i9GhxbHngS_k8OXTRlY3SJ4cW/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1430.JPG
+        full_resolution_link: https://drive.google.com/file/d/1kYEIc2LdEaCOnu8x_Ytn_v87BUG8qYYO/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1431.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-U-NVbBDOE_VXtQZpEZKODD_g9iMy-LI/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1448.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JegGho8ClZLGAv3RmJNZqf3FPJIB8SEy/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1449.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dregGrsUn97iP0v6bzyFx-VEt8HyUZPf/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1450.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Nvf2FbzfLastwDuwtGlMcuef9GNxlrkI/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1451.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hyTr9nCO0STnvyMCkmcHgQUWTApnaASL/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1457.JPG
+        full_resolution_link: https://drive.google.com/file/d/198135QlZD_A-TwgHggIYohRv5R7CsoOR/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1459.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JpvP3t9VxOdOvswI9bvNs9dF6wzqNTn_/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1460.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Z8Oi2yFFWwkzzrHVVKZcAlgo-s3mcGkx/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1461.JPG
+        full_resolution_link: https://drive.google.com/file/d/16ogn3G4ReUucU-x711CVy3cRG3Zw456K/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1464.JPG
+        full_resolution_link: https://drive.google.com/file/d/1SOBNNXVnFOTght_w2AvSle3nR9Ef9iDe/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1465.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YbrrnEs4TkKACTb0inTbnolYjkjmc_A3/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1479.JPG
+        full_resolution_link: https://drive.google.com/file/d/1S1nD2d0kTGCnpvrFFHlqFg9CBBT-Y8nR/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1481.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ga6Eb9jJrv_0Rh7mLHrM-VpzmKBIjbK5/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1482.JPG
+        full_resolution_link: https://drive.google.com/file/d/1FrVLdpFINC4vzdHy9wFFcMx1cbevSNX4/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1484.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WkGHSkzqUrOjRuUHWPZJ2B5Ft3Ts01We/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1485.JPG
+        full_resolution_link: https://drive.google.com/file/d/164w6R8AVtERBSIBAK8k5uI3hkoxM6VAu/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1490.JPG
+        full_resolution_link: https://drive.google.com/file/d/1_9l4jbz5bZaMPzbKxIpcSlzmf0ZAXL_2/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1494.JPG
+        full_resolution_link: https://drive.google.com/file/d/1C5ZY11f-SmteuXlTuqfOIRz-EzWFsTgD/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1497.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WW7Qb8JJ0-xILZYBh2PnqxTjK_tq4PLH/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1498.JPG
+        full_resolution_link: https://drive.google.com/file/d/1A-2LwjCF9MvUGIyTfTL6hkZe6n-HBXAt/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1500.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aRE4dT09LLxWToUW1pZuHX6Rfue16ak4/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1521.JPG
+        full_resolution_link: https://drive.google.com/file/d/1DWkVGNK9o-1CPYVAL44dD-fQW5Y9fjeb/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1522.JPG
+        full_resolution_link: https://drive.google.com/file/d/16FG-r3Fq1g19SZTlsQXkiSTngvhqetmP/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1524.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HRi_p8h3XwtlE5WSfUoUMjP0huGDhJBy/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1525.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VMJNoC0rggFq2U-diIvFvAtKQsOMOyRL/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1526.JPG
+        full_resolution_link: https://drive.google.com/file/d/1tK37mnWamc0dOCoERbkXohhJOCu4t0ud/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1527.JPG
+        full_resolution_link: https://drive.google.com/file/d/17E3boVfEhddQem23Z02o6WIGrGeJ4KHN/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1528.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ZBrD2Ft6Hc2_9qbjEIehN1kbd7N_WJLa/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1529.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bCcemaNFl7n3jt5FMEGOIaZnkWIZpbD1/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1531.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qV-C8p1m7Sf1y46Jc-BfgPKLVBco4_Cn/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1542.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PXj-Bi-M7uVX3Y9U-ypk9W26mKZQ7KmO/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1555.JPG
+        full_resolution_link: https://drive.google.com/file/d/1M8sVBhwMDVY9Lyjys3torMvHThXihOYg/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1557.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ksWrZ9yiZ7_B6NCgsEdbFeDLjITMXxoc/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1571.JPG
+        full_resolution_link: https://drive.google.com/file/d/15gTeawXTr5fUDKIFDhbDlmwCc19Qyv41/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1583.JPG
+        full_resolution_link: https://drive.google.com/file/d/14-ldr5eoIpbniiATVwYY-MDRiEUxFEnH/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1600.JPG
+        full_resolution_link: https://drive.google.com/file/d/1O0rkjx1m3nsbtqpRKWDmZn7HwtxLynK3/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1607.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OWF3zMzBKES2CXcxrZ4eXjwSLC2LIMSo/preview
+      - low_resolution_path: /Photos/2025/Organizers/_DSC1616.JPG
+        full_resolution_link: https://drive.google.com/file/d/1GNuKq9GkmXC9AhAZDlYM4czVSt9mqUcw/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9917.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YQ5cJQU33AKDJnTzv6vGAA9EiWnYuBKO/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9926.JPG
+        full_resolution_link: https://drive.google.com/file/d/13Rwy-k_4wDv8y3wHP0G1mS5R4sGk6pOj/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9927.JPG
+        full_resolution_link: https://drive.google.com/file/d/1IVR_mGKj39g52V_VtWirMx3dRAVpnf0f/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9928.JPG
+        full_resolution_link: https://drive.google.com/file/d/1I3Rkn2fpLJZz3almp3P604nMMPWBt7Md/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9929.JPG
+        full_resolution_link: https://drive.google.com/file/d/12dPehW6ElPGv-AjpfdqmgAEFF7zVz21j/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9932.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mp02tDFM31UwZ_Y8I8vohAJSobS9gGGu/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9933.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Fvj5OClLJb_FpVvQMheeCLuBrKda8Z3v/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9934.JPG
+        full_resolution_link: https://drive.google.com/file/d/1brcQV7Ev_J6ZBqTrruTmMaYj3zVxWofZ/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9937.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hkKlX5-ksKVrH5aPaDzHlrnfB_ynmc1H/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9942.JPG
+        full_resolution_link: https://drive.google.com/file/d/1xqtO8o5R3O4AI3dayKoML7oZ0qXKNF2D/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9943.JPG
+        full_resolution_link: https://drive.google.com/file/d/1NksB1lxhH2_8aL2ttu5uJ-kbd3pc14QU/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9945.JPG
+        full_resolution_link: https://drive.google.com/file/d/17QgxpDM8Ny6QqocRdFgluQySwQkdxDP1/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9946.JPG
+        full_resolution_link: https://drive.google.com/file/d/1CCO1nUkS1-lTJGTpv7uaDtmoNgTNbvTR/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9948.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qx0vht6SSJljFr9HVkIXObkj69wX1l9N/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9949.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Kkk9h-MUihp2dMQFEpVVMt0FU9uFxgAa/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9952.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PT9tfB7knyHEPfXK_8y87I1v87gDPTQp/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9953.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AkGE_Wgoti_hDVCXLQ7jnqIot39r7ARj/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9954.JPG
+        full_resolution_link: https://drive.google.com/file/d/17PjhMpfBuGn1Ux2OqRP7G-Nl44Hy9BXG/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9955.JPG
+        full_resolution_link: https://drive.google.com/file/d/1u8Y2BeeA8bb1I2XOSp9voEm_Lm60cZzg/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9956.JPG
+        full_resolution_link: https://drive.google.com/file/d/1GL8NNHEZmLE1ryS6Rvz710x6BiS6ACN_/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9957.JPG
+        full_resolution_link: https://drive.google.com/file/d/1h6rXXYozcYJSsqdsUboNQpkbxP2s4gBp/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9958.JPG
+        full_resolution_link: https://drive.google.com/file/d/1TbsUw0j__DtMHnnwqkaPGkNRGBDifRH4/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9959.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Jsailx53BwNNVWHiSPIlAMOSkTd1mzDG/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9969.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jaaKBhu4bBg6FrE7UACaC7PuW6Tnem7R/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9970.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HbRZT8iewirlTuzzXIkEqTvjqS6CFPdK/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9971.JPG
+        full_resolution_link: https://drive.google.com/file/d/1KfWSw7k832jwULqW08T7Gwj0tJJS1mui/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9972.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AuUQvQ0ltysYbv-fZ52GnSeQXlJ4X1XG/preview
+      - low_resolution_path: /Photos/2025/Organizers/IMG_9973.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cpDuzSDkIyKx67M_zq8LsEXtoZzhNoB7/preview
     - name: Setup
       photos:
       - low_resolution_path: /Photos/2025/Setup/_DSC1261.JPG
-        full_resolution_link: https://drive.google.com/file/d/1v-SjJC0v_Iq92igQW-1a1O-Ztl4peWXj/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3885.JPG
-        full_resolution_link: https://drive.google.com/file/d/1a1prQgFXCsqirA03G2o4bdffUuHbqOTz/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3886.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ki73g13LtiOAa7sm06n-cVFBxssviRh2/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3887.JPG
-        full_resolution_link: https://drive.google.com/file/d/14T9GiGO_M_E3cmIo_zbU13Q-t7fOrwn6/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3888.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lGHFtLH3BqciQrYYATyIaKWOsVrMYTbz/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3889.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wqOIyfwJZRTyrhlzE7NTxzemNEeUCJyR/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3890.JPG
-        full_resolution_link: https://drive.google.com/file/d/1VUcbTLWEUN6TH5n9c8Pw0aNPv-9dMox6/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3891.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hdLSKCnFsoIluh7owdMoL4YT0gTaClSm/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3893.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nsYxfWDlxaRCUFlveLU4z0MEXY91c8L3/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3894.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aLiRrXwpeniJeNtbf9WZ5Gqd7D9a0yMG/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3895.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Bx8xg7fr4E-CVThnGsSDeiGK6KRoHu7S/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3896.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bUR2ZA9mEaQW10K8FdqBjExK3KqPDQkO/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3902.JPG
-        full_resolution_link: https://drive.google.com/file/d/1xtRM8e1WHaCoa2H99bUCowaO0PIpvv5I/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3907.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XOEbREBmEKsVi3HHPWBfrfmTb36CUqWA/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3908.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aB4TK3E1VvDS_ds8Q16LZSvvb3zSCcfK/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_3910.JPG
-        full_resolution_link: https://drive.google.com/file/d/1VNkLMSjwgww1m0ffuQAQ5RZ0oOvcLX3-/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_4018.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mw11ZPoPf6GcgiTxxgX9YczL3zRnljuN/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_4019.JPG
-        full_resolution_link: https://drive.google.com/file/d/1fXrZ4WohI18mRfMt3YjMtreZ3WE6yp40/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_4020.JPG
-        full_resolution_link: https://drive.google.com/file/d/1v92ZINd1AE4w00GxmiRZ-wSrve3_T4D6/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_4021.JPG
-        full_resolution_link: https://drive.google.com/file/d/1b8YC2Eso1qbFJOCBlmlb0N1ZSwuU2Z5w/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_4022.JPG
-        full_resolution_link: https://drive.google.com/file/d/1P0u6EZ8sqjOao8CImqN-2nsGVDs3ud0H/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_5690.JPG
-        full_resolution_link: https://drive.google.com/file/d/1B0q6Dt0l25hM73X7WT7fDPvP91f7R5St/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_5694.JPG
-        full_resolution_link: https://drive.google.com/file/d/1jDDzZdOiMH0PNZmov_HKGVFzavtxJxwZ/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_5702.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MMYVB10gegEF4zaG-knMWMfGs0k332kf/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_5703.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-yjvF0pbCj-Vyl1Dn068akOiBIhs2Wzi/preview
-      - low_resolution_path: /Photos/2025/Setup/DSC_5704.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-CUNCbaNPHWSPqdjM3zJ76oYD3YuIlKw/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1179.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mWiXN4-5qw4z4mcw2rQ3MgbyZ8ycZAXF/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1184.JPG
-        full_resolution_link: https://drive.google.com/file/d/14uIkN7yhlFN13V3Wj9jcoFFygieBsV0F/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1187.JPG
-        full_resolution_link: https://drive.google.com/file/d/1WA2ksF4ZPndOyFPm7pm6t3CjW8SQhCIG/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1189.JPG
-        full_resolution_link: https://drive.google.com/file/d/14Se2AcbaFJATPj9SC_LcLeVzgf_9sOFW/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1192.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wQWUBq3bprB16m131Di_2BRGPsD9X6To/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1194.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QNB7jmZwtQQ9zu4bIQYJato9lpCzHP6X/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1196.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hrlyLIFfPCen20IKczP7MBRNwyjNQnxG/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1197.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UCnfr9y0qoBW9UrMBeww4e4gCbKIqtLe/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1198.JPG
-        full_resolution_link: https://drive.google.com/file/d/1t4qGB76l-pp8IXwGT6PIDlxtcUfybsnp/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1199.JPG
-        full_resolution_link: https://drive.google.com/file/d/162ypVcxQmC82suW5CNqsWRKt0MeHiAxa/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1200.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QNwE4dFN0O9i-awYwNPkk3WvFmXsG3Ho/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1202.JPG
         full_resolution_link: https://drive.google.com/file/d/1ifJycSJsSdnqxBRfeqhdkA8o_upattVl/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1205.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MVNC2W6mItcwnMi7odUcc37Q1SuUHGnd/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1207.JPG
-        full_resolution_link: https://drive.google.com/file/d/1t48mlgcW3wjPNRbz_uWn568SPoG2paSw/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1209.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Nf1UzSGXECnUgADbXQUTcQW1p3TXFziM/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1212.JPG
-        full_resolution_link: https://drive.google.com/file/d/154gnpExiU6yrvxPFKlp4UeGFrP_f3gH_/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1213.JPG
-        full_resolution_link: https://drive.google.com/file/d/1_SGS0TthDmUb5nutXmbjn_XFRxqbuXN7/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1214.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bRLIFKEXYoH_eyTuzxm4PnLFHPi37-uf/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1215.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Z3t3Fag7TKxe16JIcjb0gnlomYBCmVn2/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1217.JPG
-        full_resolution_link: https://drive.google.com/file/d/1R7e_sZNK31vssOyu3cS4KzCm2E3t8jcl/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1218.JPG
-        full_resolution_link: https://drive.google.com/file/d/1csDMwhnFdUhdnGfpxqCNk6dv0lcNKFyr/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1220.JPG
-        full_resolution_link: https://drive.google.com/file/d/100gHaVrjUDXna6j2MmuRCD3vJ45oq3S7/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1221.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XHebXDXHUbGGf9ClkqEZxgnvlh_94PQw/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1222.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nQ4qG5_wmllkV7oDCMvV6xa65WQNXTEa/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1223.JPG
-        full_resolution_link: https://drive.google.com/file/d/1zYGw5o3rQteG6N7qY0kElEY4bDYlr7jG/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1226.JPG
-        full_resolution_link: https://drive.google.com/file/d/1PSWxn6icim2-c9sTvovI1Gr-8JEsKHhp/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1229.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iJqt3QnRg5rAnUq2QR6B4PCpK1ktk3V9/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1230.JPG
-        full_resolution_link: https://drive.google.com/file/d/1RyMF2CH9SOy13CK2yjLD3o7aiZWlhPyy/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1231.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QWDcOViVng4w708Eiu9kAOkkTEvtcxOz/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1234.JPG
-        full_resolution_link: https://drive.google.com/file/d/1qpuDBMqw6xsPC_ZUcvivva_xadknK6mo/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1237.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hc_SvIobnckdpCL2mcQVAGH6oUpdErrQ/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1241.JPG
-        full_resolution_link: https://drive.google.com/file/d/1d0_YN8mpGdUmU8_JJsqzEC8N105MvuBp/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1242.JPG
-        full_resolution_link: https://drive.google.com/file/d/1HDSmLvd-G_g1dG-KNiOWlHvJyWwzIzgf/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1243.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lVmedjZwiDSwpEtQYYsjoNmJPJDCeDOX/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1244.JPG
-        full_resolution_link: https://drive.google.com/file/d/14qexjJBRNj65zR41Pux5FiylCIynu3Wy/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1247.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YCiY-gKpEpqR2i9gUehWnOBtJHAG5JfS/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1248.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ni2tG7rUxfg9QgoVVpu7o3erZTs8hVn0/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1250.JPG
-        full_resolution_link: https://drive.google.com/file/d/1NEF0C0IOw5lbFfb_bt9PNbOIp8Wup8kp/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1251.JPG
-        full_resolution_link: https://drive.google.com/file/d/1g3a7pPEPYZ5uc8HwsBsc_i9kJ9WH52vd/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1252.JPG
-        full_resolution_link: https://drive.google.com/file/d/14gQYRXqT0tZkPko6Vm2yuAASFH4A_maz/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1254.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XvSUYKpPflaWOPgs8GylYH7PAvMPZRZL/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1255.JPG
-        full_resolution_link: https://drive.google.com/file/d/1owiecI9XjIfQlmKMH9XCL8En_Q1aNT1E/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1259.JPG
-        full_resolution_link: https://drive.google.com/file/d/1oe1OxOrNSn9Q-_DKELxxoyue_oHHirtD/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1260.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aJtpgN1rMCngoL9akQo8q7z73i2KKC3q/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1262.JPG
-        full_resolution_link: https://drive.google.com/file/d/1qdr205_Y6sOCHAlDyZBW8qG_bfZacllz/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1265.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Dc-fDm3OF78quSO2_PUyNCfDcTGjDZ3M/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1267.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3885.JPG
         full_resolution_link: https://drive.google.com/file/d/1PxHS4gJiXNlFPPuQj1SG6LvH4cV6wTsU/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1268.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3886.JPG
         full_resolution_link: https://drive.google.com/file/d/1imGakfeLpJsCjtNohKJ60SH2OiEzdFov/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1269.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3887.JPG
         full_resolution_link: https://drive.google.com/file/d/1dQicr6hSRRK8k4JCitG69PBaIY7lbdgQ/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1270.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3888.JPG
         full_resolution_link: https://drive.google.com/file/d/1V1mgkLeoztvUqIm-xGOkDWdQ4bcZHRmJ/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1273.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3889.JPG
         full_resolution_link: https://drive.google.com/file/d/190B_AeB5pXMUkwApmh2JMOZJ4nDBEUjk/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1274.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3890.JPG
         full_resolution_link: https://drive.google.com/file/d/1CMNJTbIlqthO8XVCT8Tl8SuW9cWM-T-c/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1276.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3891.JPG
         full_resolution_link: https://drive.google.com/file/d/1T6uqgWsBDciSKYOYJSoo43nz1HcrlFm7/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1277.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3893.JPG
         full_resolution_link: https://drive.google.com/file/d/1A42NJllv-8yqhsmLy1lO1bYyoiPJTxiQ/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1280.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3894.JPG
         full_resolution_link: https://drive.google.com/file/d/1G8bjriFwCvwNeEWEbNZaqgfrgXDu8CKh/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1281.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3895.JPG
         full_resolution_link: https://drive.google.com/file/d/1iGV-vmKNfIkHT6kbskTrSHxbgTarXYlC/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1282.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3896.JPG
         full_resolution_link: https://drive.google.com/file/d/1uE0gtEJO62zqWB6SA64Zr9XVhbd-tDM5/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1283.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3902.JPG
         full_resolution_link: https://drive.google.com/file/d/1vxMQpTtSEijOVWGjZhcaR43eFkR1lRP1/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1284.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3907.JPG
         full_resolution_link: https://drive.google.com/file/d/14JwNugSO6SFmbRwWOJO5KVCj8NO1U8_7/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1285.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3908.JPG
         full_resolution_link: https://drive.google.com/file/d/1DAhd6bCMk3imzw34LAKLfixNMQxCt9cx/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1286.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_3910.JPG
         full_resolution_link: https://drive.google.com/file/d/1ZgjMU4ThMvwj9YKI7HalwqR_WIOvXnx1/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1287.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_4018.JPG
         full_resolution_link: https://drive.google.com/file/d/10IDMQDdv8OiU9sUX73T-qiMTStqYfpHz/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1288.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_4019.JPG
         full_resolution_link: https://drive.google.com/file/d/1ssSWSDU-VIsiG8-d7Ckor02BgsDOFFq-/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1289.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_4020.JPG
         full_resolution_link: https://drive.google.com/file/d/1LXowFR7VG7qvjIJ0Yx903VSMrSp5_xbE/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1290.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_4021.JPG
         full_resolution_link: https://drive.google.com/file/d/1uLLan-I0QemEn1yDi2XjgLbtjUJEGrSC/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1291.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_4022.JPG
         full_resolution_link: https://drive.google.com/file/d/1m52IhwE741wUC56frMvkf8erGCnBEkdM/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1292.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_5690.JPG
         full_resolution_link: https://drive.google.com/file/d/1GXbkFaK4aMGKCEkljy3lw9mhojc_sGAh/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1293.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_5694.JPG
         full_resolution_link: https://drive.google.com/file/d/1WbKbrOjMo9Ih9sH5tWMl_DdJx5U3Kjvm/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1294.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_5702.JPG
         full_resolution_link: https://drive.google.com/file/d/1ZniQaSmDlhjo-1vpeE_5ZOYDzWj2-z7O/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1306.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_5703.JPG
         full_resolution_link: https://drive.google.com/file/d/1HnWX2kqSNhT3hEYvr4YM-m4Ddo8L42NA/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1412.JPG
+      - low_resolution_path: /Photos/2025/Setup/DSC_5704.JPG
         full_resolution_link: https://drive.google.com/file/d/1M_mzzzZjQhfgBRrM_sO5Bz95GV-VY7I_/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1413.JPG
-        full_resolution_link: https://drive.google.com/file/d/1VPQDJwqJmhZdg9eE557TRos1NY5ZG6wW/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1415.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YlMcVezVlSxDJwQtxx6vNdMS-xQR6Lp5/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1428.JPG
-        full_resolution_link: https://drive.google.com/file/d/1eJB2XhQo_4ED8L9qOTJ7uUVcEAlzAjwk/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1429.JPG
-        full_resolution_link: https://drive.google.com/file/d/1J3Jzl8jT12D-UtkHxNKHKbmdgL0hhlZ3/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1608.JPG
-        full_resolution_link: https://drive.google.com/file/d/1dL7qUnx4GiGBfbXv0dSU-davBCcSuHed/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1611.JPG
-        full_resolution_link: https://drive.google.com/file/d/1SqR1oo7sx2vR-rFdB4KfLpOal6pPAmqt/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1612.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QNjEYtz28ojSuIoFzSo6un9wTYSomHvv/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1614.JPG
-        full_resolution_link: https://drive.google.com/file/d/15aMSv9ynb3dhwpG4w8b3h89S_qVuXHgr/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1615.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ApXHbwT7aK6e5hsTHjF4IAJD3L1KeePf/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9918.JPG
+      - low_resolution_path: /Photos/2025/Setup/_DSC1179.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lGHFtLH3BqciQrYYATyIaKWOsVrMYTbz/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1184.JPG
+        full_resolution_link: https://drive.google.com/file/d/14T9GiGO_M_E3cmIo_zbU13Q-t7fOrwn6/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1187.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wqOIyfwJZRTyrhlzE7NTxzemNEeUCJyR/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1189.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VUcbTLWEUN6TH5n9c8Pw0aNPv-9dMox6/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1192.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hdLSKCnFsoIluh7owdMoL4YT0gTaClSm/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1194.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nsYxfWDlxaRCUFlveLU4z0MEXY91c8L3/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1196.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aLiRrXwpeniJeNtbf9WZ5Gqd7D9a0yMG/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1197.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Bx8xg7fr4E-CVThnGsSDeiGK6KRoHu7S/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1198.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bUR2ZA9mEaQW10K8FdqBjExK3KqPDQkO/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1199.JPG
+        full_resolution_link: https://drive.google.com/file/d/1xtRM8e1WHaCoa2H99bUCowaO0PIpvv5I/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1200.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XOEbREBmEKsVi3HHPWBfrfmTb36CUqWA/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1202.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aB4TK3E1VvDS_ds8Q16LZSvvb3zSCcfK/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1205.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VNkLMSjwgww1m0ffuQAQ5RZ0oOvcLX3-/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1207.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mw11ZPoPf6GcgiTxxgX9YczL3zRnljuN/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1209.JPG
+        full_resolution_link: https://drive.google.com/file/d/1fXrZ4WohI18mRfMt3YjMtreZ3WE6yp40/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1212.JPG
+        full_resolution_link: https://drive.google.com/file/d/1v92ZINd1AE4w00GxmiRZ-wSrve3_T4D6/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1213.JPG
+        full_resolution_link: https://drive.google.com/file/d/1a1prQgFXCsqirA03G2o4bdffUuHbqOTz/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1214.JPG
+        full_resolution_link: https://drive.google.com/file/d/1b8YC2Eso1qbFJOCBlmlb0N1ZSwuU2Z5w/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1215.JPG
+        full_resolution_link: https://drive.google.com/file/d/1P0u6EZ8sqjOao8CImqN-2nsGVDs3ud0H/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1217.JPG
+        full_resolution_link: https://drive.google.com/file/d/1B0q6Dt0l25hM73X7WT7fDPvP91f7R5St/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1218.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jDDzZdOiMH0PNZmov_HKGVFzavtxJxwZ/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1220.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MMYVB10gegEF4zaG-knMWMfGs0k332kf/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1221.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-yjvF0pbCj-Vyl1Dn068akOiBIhs2Wzi/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1222.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-CUNCbaNPHWSPqdjM3zJ76oYD3YuIlKw/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1223.JPG
         full_resolution_link: https://drive.google.com/file/d/1qIIOSJQkbboRiI3C9Y9qTdAUZSfWBVgl/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9921.JPG
-        full_resolution_link: https://drive.google.com/file/d/1zW4oxCPAdjMDRT8tK529UOHYhvyqLNGX/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9922.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aHnB6apg2-VoVd3ZSPkgRDwN7NHMwnGj/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9923.JPG
-        full_resolution_link: https://drive.google.com/file/d/1dDmlIvaP-Z8EosGevY44rg3RCVoRGcpr/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9924.JPG
-        full_resolution_link: https://drive.google.com/file/d/1l1M7gyYPidoZpMvRvRLRTOClWbVtQELZ/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9925.JPG
-        full_resolution_link: https://drive.google.com/file/d/1eOJXZU6_I58lKXxwSjshG92rUzAt4DFW/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9930.JPG
-        full_resolution_link: https://drive.google.com/file/d/1asbzAXVEWTTib5UqzRtYeb4T16eHtaYG/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9935.JPG
-        full_resolution_link: https://drive.google.com/file/d/1rKVEPiWW9PcNeTKTbBU3ZXKJuB_9ml0d/preview
-      - low_resolution_path: /Photos/2025/Setup/IMG_9919.JPG
+      - low_resolution_path: /Photos/2025/Setup/_DSC1226.JPG
         full_resolution_link: https://drive.google.com/file/d/1i1WVo2zLnWXZzkd0Zkb8M5KEmjsTA8pW/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1181.JPG
+      - low_resolution_path: /Photos/2025/Setup/_DSC1229.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zW4oxCPAdjMDRT8tK529UOHYhvyqLNGX/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1230.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aHnB6apg2-VoVd3ZSPkgRDwN7NHMwnGj/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1231.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dDmlIvaP-Z8EosGevY44rg3RCVoRGcpr/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1234.JPG
+        full_resolution_link: https://drive.google.com/file/d/1l1M7gyYPidoZpMvRvRLRTOClWbVtQELZ/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1237.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eOJXZU6_I58lKXxwSjshG92rUzAt4DFW/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1241.JPG
+        full_resolution_link: https://drive.google.com/file/d/1rKVEPiWW9PcNeTKTbBU3ZXKJuB_9ml0d/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1242.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mWiXN4-5qw4z4mcw2rQ3MgbyZ8ycZAXF/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1243.JPG
         full_resolution_link: https://drive.google.com/file/d/1ERRYJzagw-ryjdDW3dIafVSw3jzdqZJJ/preview
-      - low_resolution_path: /Photos/2025/Setup/_DSC1240.JPG
+      - low_resolution_path: /Photos/2025/Setup/_DSC1244.JPG
+        full_resolution_link: https://drive.google.com/file/d/14uIkN7yhlFN13V3Wj9jcoFFygieBsV0F/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1247.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WA2ksF4ZPndOyFPm7pm6t3CjW8SQhCIG/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1248.JPG
+        full_resolution_link: https://drive.google.com/file/d/14Se2AcbaFJATPj9SC_LcLeVzgf_9sOFW/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1250.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wQWUBq3bprB16m131Di_2BRGPsD9X6To/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1251.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QNB7jmZwtQQ9zu4bIQYJato9lpCzHP6X/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1252.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hrlyLIFfPCen20IKczP7MBRNwyjNQnxG/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1254.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UCnfr9y0qoBW9UrMBeww4e4gCbKIqtLe/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1255.JPG
+        full_resolution_link: https://drive.google.com/file/d/1t4qGB76l-pp8IXwGT6PIDlxtcUfybsnp/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1259.JPG
+        full_resolution_link: https://drive.google.com/file/d/162ypVcxQmC82suW5CNqsWRKt0MeHiAxa/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1260.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QNwE4dFN0O9i-awYwNPkk3WvFmXsG3Ho/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1262.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MVNC2W6mItcwnMi7odUcc37Q1SuUHGnd/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1265.JPG
+        full_resolution_link: https://drive.google.com/file/d/1t48mlgcW3wjPNRbz_uWn568SPoG2paSw/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1267.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Nf1UzSGXECnUgADbXQUTcQW1p3TXFziM/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1268.JPG
+        full_resolution_link: https://drive.google.com/file/d/154gnpExiU6yrvxPFKlp4UeGFrP_f3gH_/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1269.JPG
+        full_resolution_link: https://drive.google.com/file/d/1_SGS0TthDmUb5nutXmbjn_XFRxqbuXN7/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1270.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bRLIFKEXYoH_eyTuzxm4PnLFHPi37-uf/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1273.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Z3t3Fag7TKxe16JIcjb0gnlomYBCmVn2/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1274.JPG
+        full_resolution_link: https://drive.google.com/file/d/1R7e_sZNK31vssOyu3cS4KzCm2E3t8jcl/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1276.JPG
+        full_resolution_link: https://drive.google.com/file/d/1csDMwhnFdUhdnGfpxqCNk6dv0lcNKFyr/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1277.JPG
+        full_resolution_link: https://drive.google.com/file/d/100gHaVrjUDXna6j2MmuRCD3vJ45oq3S7/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1280.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XHebXDXHUbGGf9ClkqEZxgnvlh_94PQw/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1281.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nQ4qG5_wmllkV7oDCMvV6xa65WQNXTEa/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1282.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zYGw5o3rQteG6N7qY0kElEY4bDYlr7jG/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1283.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PSWxn6icim2-c9sTvovI1Gr-8JEsKHhp/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1284.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iJqt3QnRg5rAnUq2QR6B4PCpK1ktk3V9/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1285.JPG
+        full_resolution_link: https://drive.google.com/file/d/1RyMF2CH9SOy13CK2yjLD3o7aiZWlhPyy/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1286.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QWDcOViVng4w708Eiu9kAOkkTEvtcxOz/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1287.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qpuDBMqw6xsPC_ZUcvivva_xadknK6mo/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1288.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hc_SvIobnckdpCL2mcQVAGH6oUpdErrQ/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1289.JPG
         full_resolution_link: https://drive.google.com/file/d/1IDEysKtNbeBDOdvh7pw4D7haZjJGi-1C/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1290.JPG
+        full_resolution_link: https://drive.google.com/file/d/1d0_YN8mpGdUmU8_JJsqzEC8N105MvuBp/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1291.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HDSmLvd-G_g1dG-KNiOWlHvJyWwzIzgf/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1292.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lVmedjZwiDSwpEtQYYsjoNmJPJDCeDOX/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1293.JPG
+        full_resolution_link: https://drive.google.com/file/d/14qexjJBRNj65zR41Pux5FiylCIynu3Wy/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1294.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YCiY-gKpEpqR2i9gUehWnOBtJHAG5JfS/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1306.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ni2tG7rUxfg9QgoVVpu7o3erZTs8hVn0/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1412.JPG
+        full_resolution_link: https://drive.google.com/file/d/1NEF0C0IOw5lbFfb_bt9PNbOIp8Wup8kp/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1413.JPG
+        full_resolution_link: https://drive.google.com/file/d/1g3a7pPEPYZ5uc8HwsBsc_i9kJ9WH52vd/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1415.JPG
+        full_resolution_link: https://drive.google.com/file/d/14gQYRXqT0tZkPko6Vm2yuAASFH4A_maz/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1428.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XvSUYKpPflaWOPgs8GylYH7PAvMPZRZL/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1429.JPG
+        full_resolution_link: https://drive.google.com/file/d/1owiecI9XjIfQlmKMH9XCL8En_Q1aNT1E/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1608.JPG
+        full_resolution_link: https://drive.google.com/file/d/1oe1OxOrNSn9Q-_DKELxxoyue_oHHirtD/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1611.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aJtpgN1rMCngoL9akQo8q7z73i2KKC3q/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1612.JPG
+        full_resolution_link: https://drive.google.com/file/d/1v-SjJC0v_Iq92igQW-1a1O-Ztl4peWXj/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1614.JPG
+        full_resolution_link: https://drive.google.com/file/d/1qdr205_Y6sOCHAlDyZBW8qG_bfZacllz/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1615.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Dc-fDm3OF78quSO2_PUyNCfDcTGjDZ3M/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9918.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VPQDJwqJmhZdg9eE557TRos1NY5ZG6wW/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9921.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eJB2XhQo_4ED8L9qOTJ7uUVcEAlzAjwk/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9922.JPG
+        full_resolution_link: https://drive.google.com/file/d/1J3Jzl8jT12D-UtkHxNKHKbmdgL0hhlZ3/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9923.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dL7qUnx4GiGBfbXv0dSU-davBCcSuHed/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9924.JPG
+        full_resolution_link: https://drive.google.com/file/d/1SqR1oo7sx2vR-rFdB4KfLpOal6pPAmqt/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9925.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QNjEYtz28ojSuIoFzSo6un9wTYSomHvv/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9930.JPG
+        full_resolution_link: https://drive.google.com/file/d/15aMSv9ynb3dhwpG4w8b3h89S_qVuXHgr/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9935.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ApXHbwT7aK6e5hsTHjF4IAJD3L1KeePf/preview
+      - low_resolution_path: /Photos/2025/Setup/IMG_9919.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YlMcVezVlSxDJwQtxx6vNdMS-xQR6Lp5/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1181.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ki73g13LtiOAa7sm06n-cVFBxssviRh2/preview
+      - low_resolution_path: /Photos/2025/Setup/_DSC1240.JPG
+        full_resolution_link: https://drive.google.com/file/d/1asbzAXVEWTTib5UqzRtYeb4T16eHtaYG/preview
     - name: Teams In Contest
       photos:
       - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3912.JPG
-        full_resolution_link: https://drive.google.com/file/d/14ShNyf4J42hIGnAMwUgJPNElNk1dl73W/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3916.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bd3OBUDTWMwLjCOY-QCyYM3vIxieLk-T/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3918.JPG
-        full_resolution_link: https://drive.google.com/file/d/1B0Nacv8o7pHkJ_uuhnq6oOymlcmc1KdA/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3919.JPG
-        full_resolution_link: https://drive.google.com/file/d/1amYXxDJdwbImrDMzfGKWQUu7iJBP-4V-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3920.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QqNAHolaPPHgnY0pzf0wCzAW1pendOli/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3921.JPG
-        full_resolution_link: https://drive.google.com/file/d/1_e2wEJ6KYLF9eVGAPUKMI4W6KINZtOID/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3922.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Daw9QA7jJyzVOsgwEsesK6hCwLXry_te/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3924.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vqJlOgw04J3usSGuNI3Vi_t-k-0RKfv4/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3925.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nczvtmQZUBEwNjkMqWOsF6fvSKFyKRxQ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3926.JPG
-        full_resolution_link: https://drive.google.com/file/d/12SzFz4cXum9LMAF5o3F8dgcPHD4mKx0d/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3927.JPG
-        full_resolution_link: https://drive.google.com/file/d/1WteSsiXSOIx7XVoisX8NzvgtS58mbwRQ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3928.JPG
-        full_resolution_link: https://drive.google.com/file/d/1X6jJ-0HpjHzaqQD9xEJr-I0Dn0rKGBg-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3930.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UZ4d7M8gKcp5BFiVQd5_6SGO1PJZAZFd/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3931.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ExvdKthuiR-g-hVP8DKEkuL7Jvr4-kel/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3932.JPG
-        full_resolution_link: https://drive.google.com/file/d/1N8Lfkjtrlke7LwONCn1h1Q9rD0xXEZpZ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3933.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UBiHu9nT7ALEJdfVQBPz7v0YgLPx6rAB/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3934.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MCyJ6Xp50xIBfXYky97bGyntmiMitqWU/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3935.JPG
-        full_resolution_link: https://drive.google.com/file/d/1fLtpuwDJ3eiNBNh14Gf0ffaexxHb_d_l/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3936.JPG
-        full_resolution_link: https://drive.google.com/file/d/1oQ-dvmyZHWYJQtcAQWiK5vhdMD791sML/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3937.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QQWZUE7guE46PChXYshbpc93P4w2mJOn/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3938.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XfIH2k53hq8cSbHMAJ43Fw7ZqWasqYz-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3939.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ZTxh1QEw9CZlVYAp_5z_Qzjx0AN69_dI/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3940.JPG
-        full_resolution_link: https://drive.google.com/file/d/1zW8J213Zr8S21xMgf92PAVDDXROTSUTq/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3941.JPG
-        full_resolution_link: https://drive.google.com/file/d/1VitKDGSWrxWwzWkJR01NcNnySmwdyIiy/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3942.JPG
-        full_resolution_link: https://drive.google.com/file/d/1svN8WUVk_oPeXdO0_fCbQCSJ6tzK3jF6/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3943.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Xl_2HhS3nJDdvVDf47zmxkpSw9Pyf_vF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3944.JPG
-        full_resolution_link: https://drive.google.com/file/d/1eUd1y7MxXEkcxIDdx24XoBnRvncwkbR4/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3946.JPG
-        full_resolution_link: https://drive.google.com/file/d/15NwswAbtuHl3TTYyYGaGaXNPq5GzpY5S/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3947.JPG
-        full_resolution_link: https://drive.google.com/file/d/1tSH62gg-MEVr7eduzSn4L-Q-6D-tP0s1/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3951.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ARjRGHcu1PFhV-UEIQhZ95Af9H_0Z1wo/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3952.JPG
-        full_resolution_link: https://drive.google.com/file/d/1yGEG5gwV0_gAzuhPD4vtQyvRRyHD-KwR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3953.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Dd_SrQ1w3WB7zAItkU1arzBneLxV_bz9/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3954.JPG
-        full_resolution_link: https://drive.google.com/file/d/1neSGEiyqhIsty6wIP4QvgDjJtapuyWUv/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3955.JPG
-        full_resolution_link: https://drive.google.com/file/d/1gOmTQtFnsRxT0jWtoT8t9_9iGWEp1sgK/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3956.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cJZLrX2yLCv_PuIu5d8TbZrr2IpIELJh/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3957.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bAc8kDro68MyVeQHesN6LXZTYrlXZlvc/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3958.JPG
-        full_resolution_link: https://drive.google.com/file/d/1jQq3rMuc89usamloay82KlkBm7yp_whu/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3959.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mSTLqWPgpZhUtqNjC4OvzFdp9h9mhnhb/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3960.JPG
-        full_resolution_link: https://drive.google.com/file/d/10rmZ8HrWFXmpdFNl9kVpfYP-NSt38OKV/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3961.JPG
-        full_resolution_link: https://drive.google.com/file/d/1DKH3FnrQRuP_3IFc9ukDYZe6qB30eLCh/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3962.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JfRwJ8MuLewC9IhdBfl7X6B55vV2b77K/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3963.JPG
-        full_resolution_link: https://drive.google.com/file/d/1rz7gkViX32kfZ2ZLg-45quV1tlpjyFKt/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3994.JPG
-        full_resolution_link: https://drive.google.com/file/d/1f-mfL8QJmnLODXEDk6uCvcGWSGk5XALv/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3999.JPG
-        full_resolution_link: https://drive.google.com/file/d/16TogZL6QlZVbwF8ylHmCwVyvPTvnEQHT/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4000.JPG
-        full_resolution_link: https://drive.google.com/file/d/102SQQ4hHUyWpaKtb59J7E5Z8NdUE_Qln/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4001.JPG
-        full_resolution_link: https://drive.google.com/file/d/1rIR_CXV_RTQ50MnzRfs1gdINaxao5heG/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4003.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lKrwch6TMFaHkuLkhwxvODzs7P3_iWf3/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4005.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nDmc1gcdwGDAAmVh7wTvQJTql7zQYZGC/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4006.JPG
-        full_resolution_link: https://drive.google.com/file/d/1o6s92Mybr2TDNr-rKZ9TX4l4Tb3IPt0l/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4007.JPG
-        full_resolution_link: https://drive.google.com/file/d/1q7dhQpAa_0zDtoVtGOtE_3mJT3vMT6yO/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4009.JPG
-        full_resolution_link: https://drive.google.com/file/d/1h0KPDS0CbjAymWurtQuoUNng0iSwZDz7/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4010.JPG
-        full_resolution_link: https://drive.google.com/file/d/1OgvGzYHw6kqdOazOe9DvG40CK8HswR3l/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4011.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ae9cinmRbFT1rz0eO7RiIVgd559foX5A/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4012.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-tlOJACJMpyQUFm7GYJWjainMO8rEcA-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4013.JPG
-        full_resolution_link: https://drive.google.com/file/d/1FDmIiKepfudQ8j2Se5GcJVIl0H9pgZCO/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4014.JPG
-        full_resolution_link: https://drive.google.com/file/d/1T0q__lNueyA4I7Efsi1gFU_OsTNosZiJ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5709.JPG
-        full_resolution_link: https://drive.google.com/file/d/1OBvb7kNUnBuwNZ-UaYIKkBBGh2YDw_sf/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5710.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Q6oBAl2rAZSNYhpT5y_v-UMG6JywWgjF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5712.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mioD56O31ODfqYmOO2f8nd7h1XFtKL8f/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5720.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ghddn-uWRUD0Cw1DtgEidmojj7hjl6DL/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5721.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XaUIBG3JzEFRMB8AvxsWikApb7LcVrwb/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5722.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LhgkH1ZpNpzpLe-HYSTlk7mbjcDld8gr/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5723.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ceb5qxS-zusdLLrgmHH3d6Vym0DSEr2b/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5724.JPG
-        full_resolution_link: https://drive.google.com/file/d/1u4vPGS639eq7LFiqDzRgG6KIQg8GcfpC/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5725.JPG
-        full_resolution_link: https://drive.google.com/file/d/1N8DyvddOB2lcWRwy_6f3OB-J4eN826AF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5726.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ZIw-npYRhVrKCznQsHwR6h4LYuh66V6t/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5727.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mhMUDPRicgOM2SlgaW_k4abKMi0IBSIZ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5728.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QuMEGoR3VAMIQsqqVvWMf_vnu7J1mm9n/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5729.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vf9tMC5UUl0LAcStHaLVrjqcv_8xyvY5/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5730.JPG
-        full_resolution_link: https://drive.google.com/file/d/13sRinZy7P-2kFMMHhnCG7xwyZ6DBEhnP/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5731.JPG
-        full_resolution_link: https://drive.google.com/file/d/12iCq0iMPpddgDxUci9gzGnSHzJdwul-N/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5732.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LsS70NGeTUPwxgULY124IdemWJP81Zrx/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5733.JPG
-        full_resolution_link: https://drive.google.com/file/d/1PiWyAuUIvGjPsRawV05OrloPvOPDd3qG/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5734.JPG
-        full_resolution_link: https://drive.google.com/file/d/1s8W5lcge_hsTZCMVaMokOQlkOD6zCiif/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5735.JPG
-        full_resolution_link: https://drive.google.com/file/d/1kRmVLbDjOxjK36HYPU1V4NF2s-w2DF5r/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5736.JPG
-        full_resolution_link: https://drive.google.com/file/d/1yYuVYW7luqVyEXtIOJcWGjqg-XRCgW9C/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5737.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iPgAv0xuIT2WzQgXeF1b5eMZ7r5HTsiC/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5738.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Ri1YFrymjB8lGb0PdDKS1JlRutcUK_t-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5740.JPG
-        full_resolution_link: https://drive.google.com/file/d/1CUCpWU3oBhW9fscs17zL7A4y2PhCvyHF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5742.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nIVsNixk2VxcOcYr28STpgBH-5PeuHdk/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5743.JPG
-        full_resolution_link: https://drive.google.com/file/d/1jvGv0ExrZIW3PBM7wJk8gRT53FIzP4P2/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5744.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aaplmoXKl9BfE82TFk37Bdm6WoL1nImx/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5745.JPG
-        full_resolution_link: https://drive.google.com/file/d/17RX3kcTeO9UEeOsdZY2zOixrl8pAGyYr/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5746.JPG
-        full_resolution_link: https://drive.google.com/file/d/1gQc0Y73x1RhcvediB3JlDjQY8__k4k2k/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5747.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iAmJQdFp3P_YI892o_4uI_Q8es5GEok2/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5748.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-slACH8ljA7x1x45YqEjIhSanXzNqkp5/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5749.JPG
-        full_resolution_link: https://drive.google.com/file/d/1G9VftsGjWeE7D_sYWmdixtr-bgxCn27t/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5750.JPG
-        full_resolution_link: https://drive.google.com/file/d/141lnDsNzKwvfQER698db__j2FS2bOkrc/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5751.JPG
         full_resolution_link: https://drive.google.com/file/d/1TbMacaRzyca1y_4GI31Reeacnj1VS77W/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1295.JPG
-        full_resolution_link: https://drive.google.com/file/d/11xfOl-zIW1skf9XOsg3F1PILkXVQQ9zx/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1296.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bp_472KZ0sX_LPuRpXSvSc-TKbpCdYey/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1297.JPG
-        full_resolution_link: https://drive.google.com/file/d/11ivRn3ny_zNyGrPk7nlhWMNeGE91fox8/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1307.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mXqXXAvhF2pO9Dgu0YsHaaW57hBpZONT/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1311.JPG
-        full_resolution_link: https://drive.google.com/file/d/1RuiFQ8zWiTPPL8DTeRRrj74vdCTqsoCd/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1312.JPG
-        full_resolution_link: https://drive.google.com/file/d/11GFgrMfxbsu_kbAA1tw_6X4tt6O0P_rh/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1313.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Tr1NPJu1T-jEai9WFXt_TUkYBgWrIfAp/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1314.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ltM2KCpgU4BJScSN8Bz2gEmNyjSXJVao/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1315.JPG
-        full_resolution_link: https://drive.google.com/file/d/1TOSlz_nYjxW48sGZiWZcIz6xXNkCrgSR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1316.JPG
-        full_resolution_link: https://drive.google.com/file/d/1HTAS_roAVvrQFiOXV7YUer0zYR3E5K_r/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1317.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vVSSqIhJY2CTYd-hK6dmxEaDaVucDpvh/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1318.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wDLRRyikCo8JkUWJzsmoWjhoOr-Tb0hK/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1319.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Jf5vAoz3HASpOWwo6xFRnvOeAE-CrGmL/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1320.JPG
-        full_resolution_link: https://drive.google.com/file/d/1HNCvZe4fn8FVlxElsjAOMs9oApzaI0_x/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1321.JPG
-        full_resolution_link: https://drive.google.com/file/d/1DNEJo-CYxsre_GmLmlKLa7cKWlbFlCMs/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1324.JPG
-        full_resolution_link: https://drive.google.com/file/d/19ticg0GUO4FWiqkS0qCpgeH4FZZUAh_m/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1325.JPG
-        full_resolution_link: https://drive.google.com/file/d/19GmprEpKxD32YD2zdIKAiBdbbvqG7WtF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1326.JPG
-        full_resolution_link: https://drive.google.com/file/d/1yiQeNpVbl66aIf8mfpisD8YXxyyJkiVl/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1327.JPG
-        full_resolution_link: https://drive.google.com/file/d/1eQix0-04GITYv0qh0pjAmitHzWFnj8j1/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1328.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aygnjVMJtT6PzLhkCkMIWNaf5gJKoD5q/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1329.JPG
-        full_resolution_link: https://drive.google.com/file/d/1Lk8ZYGb0iEIQbd2EBvyPssV8ShkgIunO/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1330.JPG
-        full_resolution_link: https://drive.google.com/file/d/1syI7Ep3ycdLUMnlNp3zhVPddt9hMoSAN/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1331.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lxFTcS6aPGRLjlgIlcQ0JYYqUwkj7fJJ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1332.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UHlAbTezTvpP6f3E7wKZObjLCUE4XuRr/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1333.JPG
-        full_resolution_link: https://drive.google.com/file/d/1bEZtw8oO94MypKsMfDKnT9_14QJAozNd/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1334.JPG
-        full_resolution_link: https://drive.google.com/file/d/1d2XMl-ianDYdJo6IKaBCjWcPAdJwuN6g/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1335.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MgnBYFGwduQ9u8q1vpu6Fb_xPm4dvu08/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1336.JPG
-        full_resolution_link: https://drive.google.com/file/d/1-hIesvO0SAxeVUFG-agYtrTArtpNlRU-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1339.JPG
-        full_resolution_link: https://drive.google.com/file/d/152C37NHfHGnK69nYmnlsOwoBwXHEoOol/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1340.JPG
-        full_resolution_link: https://drive.google.com/file/d/15Z3Jpk-aIt81DXKCQVS0HR7v5r_65YfP/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1341.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QgSaindY1mwhYb-ez1AoPkJsdhOKMUiW/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1342.JPG
-        full_resolution_link: https://drive.google.com/file/d/1a6oaA8F8L9FKCgLpC5OElErFa0aiEowo/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1343.JPG
-        full_resolution_link: https://drive.google.com/file/d/1n1XpNrpH6vkYR0ZPRgQkws_UqeKD-5_a/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1344.JPG
-        full_resolution_link: https://drive.google.com/file/d/1uKUmMDk1hWE_SrbqdHKvcvdioHxYttP-/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1345.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XN-WUDjzXJrJ_0VN82kthafOOV6jtxp2/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1346.JPG
-        full_resolution_link: https://drive.google.com/file/d/1vbJQ58o5wMT5adchZkibGjtUVJINRHdR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1347.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mli3QTzxOvGKd6NiKOH4J0CPoz0tQLzD/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1348.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UWhLKGz_KBUczTPQ4u8KNFzPvaRTVa2i/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1349.JPG
-        full_resolution_link: https://drive.google.com/file/d/1P6MXU8MMYE84cGTIV3Q_Wa-5DIsjT9A0/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1350.JPG
-        full_resolution_link: https://drive.google.com/file/d/1p6iQdhMbpWrT5WknrEI9Ms_zHGINHX--/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1351.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mOQ_yQcv91Bf5XPckrI7e3rSsN1J5zvU/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1352.JPG
-        full_resolution_link: https://drive.google.com/file/d/1UwMqg0ZNU7UWTXzbf-zl-fTKZlfxD9xY/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1353.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ddO-m-IeT815jDKVnSXC2xQdb8iQDD4z/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1354.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YjNzmPnfS2pF9odxniSz_WYRC31i4E4s/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1355.JPG
-        full_resolution_link: https://drive.google.com/file/d/1puZUFjEy7AyxghuIDD1YwZNTCCdZiipL/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1356.JPG
-        full_resolution_link: https://drive.google.com/file/d/1_dECtRVwPmDON1xZ2ZYa_A37zZUq2u3Z/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1357.JPG
-        full_resolution_link: https://drive.google.com/file/d/1p0ZDRKnMqT_fabaHWb56wgPJWzPW9QFQ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1358.JPG
-        full_resolution_link: https://drive.google.com/file/d/1xEQWB0BmWMNt2SZrauXTt4ziHrvA0xWn/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1359.JPG
-        full_resolution_link: https://drive.google.com/file/d/11ztEwA4Vfb8ZcgjleaJexQFVYpuGO2Zp/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1361.JPG
-        full_resolution_link: https://drive.google.com/file/d/1i0qhTqDeNLLHki6wM7rALQ2562ET9Ooh/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1363.JPG
-        full_resolution_link: https://drive.google.com/file/d/1WSVflFsmUNngLdMnrj2WpTFybY50ChRb/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1364.JPG
-        full_resolution_link: https://drive.google.com/file/d/1lS5syswdBtluFcmv-FOQ692EQ32SnfEn/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1365.JPG
-        full_resolution_link: https://drive.google.com/file/d/1gG-KnNKCZtMm3w5tbD_U5D-qU3WN5vTz/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1367.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wEey9c3BLv8Mpv0GMdOcQLXybBM7T2cR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1368.JPG
-        full_resolution_link: https://drive.google.com/file/d/1nbrexjkf9o4W2Sdx9y1Vs8RDos8jOB0_/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1371.JPG
-        full_resolution_link: https://drive.google.com/file/d/1hJTrS3W1wNYF3M9jqxYJV-jP7TOPb01V/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1372.JPG
-        full_resolution_link: https://drive.google.com/file/d/1gS_xWx50T6QWoPq0ChSdMoreOMpFyCmf/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1374.JPG
-        full_resolution_link: https://drive.google.com/file/d/11vHgA4V-HOnQ59Qu7ZFRxuf7Rf1rb-de/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1376.JPG
-        full_resolution_link: https://drive.google.com/file/d/1XLBWQesZeV7ikrqoeH6xLI2jnRp6kSiv/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1377.JPG
-        full_resolution_link: https://drive.google.com/file/d/11QsIbOPPvSpDvIBzx2i5UAF3sHG8t-4i/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1378.JPG
-        full_resolution_link: https://drive.google.com/file/d/17B7pNfc5qdvUNSj3FzgawmbgjOQHOAIy/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1379.JPG
-        full_resolution_link: https://drive.google.com/file/d/1gpSrzfKG4NiIFvmF9p78ecHSOlXAc4SN/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1381.JPG
-        full_resolution_link: https://drive.google.com/file/d/11Vuvho9WmQZSpT2sHJQH58Ro5JXU8UEX/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1382.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ROCgwqyxi2zLNYox8kcv40F46Kz2A9rb/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1386.JPG
-        full_resolution_link: https://drive.google.com/file/d/1W2L29ky_V-3dIxo-qhhzUEer_fpc3fVC/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1387.JPG
-        full_resolution_link: https://drive.google.com/file/d/1IN9hpg5WK3wUiSbG39lNI2gf3nb18PjF/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1388.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mz90hbjIzGWn8HuasYLJNsaTvquQjhMl/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1390.JPG
-        full_resolution_link: https://drive.google.com/file/d/17mI6n6VKvZqW1lE1Nts_hlgm-8v7p_BR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1423.JPG
-        full_resolution_link: https://drive.google.com/file/d/1AOa2M-FPiqnbKGkJKZe2rUGtPT-_1w4E/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1424.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ACcL3jTBJ8pJoWn6OLhfJmpWObxu23VW/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1425.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MzbaUlX6KtXRzHcVRt7GKMI87eA8jnLy/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1426.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iFnUo5uVyxlBwU_LPbFoIUTf7JTrrt6D/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1427.JPG
-        full_resolution_link: https://drive.google.com/file/d/1sAVcIq2k3VmRo5uG-5026x6voGugemU5/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1432.JPG
-        full_resolution_link: https://drive.google.com/file/d/1RCISSgoG-GKFM8IvUOiBNHGNfJnatgSA/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1433.JPG
-        full_resolution_link: https://drive.google.com/file/d/1I4V5GiCVbE9TceTNuPukiUluug-6Il4A/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1434.JPG
-        full_resolution_link: https://drive.google.com/file/d/1MLU1K9f1bkpMyPVww9qR-h3CnY9BBZge/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1435.JPG
-        full_resolution_link: https://drive.google.com/file/d/19O8W3qjN2M2e92sbRNgvgj7yu_sEclfi/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1447.JPG
-        full_resolution_link: https://drive.google.com/file/d/1KKqEghfuIQzqWnsYyhJrLDl77BcZjrwM/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1455.JPG
-        full_resolution_link: https://drive.google.com/file/d/11Lt2U1jyBW-BQFtJgwQAtT1HgSdlfd2a/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1456.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aPwNb2bC5pIZN5osK9D-wnW564j5FNIR/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1471.JPG
-        full_resolution_link: https://drive.google.com/file/d/1z0oxHj0ld__qfL0Ykg-DAgwpomdWuONx/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1472.JPG
-        full_resolution_link: https://drive.google.com/file/d/1w6BXzNqof2FcPviZdWByf7dh7gOfOKQ5/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1474.JPG
-        full_resolution_link: https://drive.google.com/file/d/1zCBP9iCcyuLeTt6Bd1vsOs8ykPIe0ufl/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1476.JPG
-        full_resolution_link: https://drive.google.com/file/d/1LdLTk4cmr2RfgRl48x2hzZU3ksMTtaRb/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1477.JPG
-        full_resolution_link: https://drive.google.com/file/d/1YTIvG640eqzB9InlWcsH7EzI-9pAiBlq/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1501.JPG
-        full_resolution_link: https://drive.google.com/file/d/1TdVVTxmWr1cwgOl85U6kGlTOEBfn-yvB/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1502.JPG
-        full_resolution_link: https://drive.google.com/file/d/1BrciaDMx4dRspkm08PcmsMzIVm4kWe20/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1511.JPG
-        full_resolution_link: https://drive.google.com/file/d/1p7FOqHbIo-f2jEMUmlNJFL-hS7W4r3wp/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1598.JPG
-        full_resolution_link: https://drive.google.com/file/d/1cT9Fmcvbqpx3NViVONnCD79JOIBtqDTu/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9936.JPG
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3916.JPG
         full_resolution_link: https://drive.google.com/file/d/1BNt2ds68KQ6l7XMgFwZ0xs2n4qvTrGtt/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9938.JPG
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3918.JPG
         full_resolution_link: https://drive.google.com/file/d/1jf_HbwpqXWQiykM5G6byHef4uK5iKeJn/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9941.JPG
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3919.JPG
         full_resolution_link: https://drive.google.com/file/d/1Bzp9dC4iFG_wHjKkOFyshtF9LYGrkztk/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9944.JPG
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3920.JPG
         full_resolution_link: https://drive.google.com/file/d/1sctycivPj45yCQFHujCfWg_t3P6qgbwQ/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9947.JPG
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3921.JPG
         full_resolution_link: https://drive.google.com/file/d/16VKfI7Hnu10tjZsh1ALk7UkhZjvYgdhC/preview
-      - low_resolution_path: /Photos/2025/Teams In Contest/PXL_20250302_204841097.MP.jpg
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3922.JPG
         full_resolution_link: https://drive.google.com/file/d/1xVCrZHf3VhiqsZUG3DNysgKfIXn2PZyZ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3924.JPG
+        full_resolution_link: https://drive.google.com/file/d/11xfOl-zIW1skf9XOsg3F1PILkXVQQ9zx/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3925.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bp_472KZ0sX_LPuRpXSvSc-TKbpCdYey/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3926.JPG
+        full_resolution_link: https://drive.google.com/file/d/11ivRn3ny_zNyGrPk7nlhWMNeGE91fox8/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3927.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mXqXXAvhF2pO9Dgu0YsHaaW57hBpZONT/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3928.JPG
+        full_resolution_link: https://drive.google.com/file/d/1RuiFQ8zWiTPPL8DTeRRrj74vdCTqsoCd/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3930.JPG
+        full_resolution_link: https://drive.google.com/file/d/11GFgrMfxbsu_kbAA1tw_6X4tt6O0P_rh/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3931.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Tr1NPJu1T-jEai9WFXt_TUkYBgWrIfAp/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3932.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ltM2KCpgU4BJScSN8Bz2gEmNyjSXJVao/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3933.JPG
+        full_resolution_link: https://drive.google.com/file/d/1TOSlz_nYjxW48sGZiWZcIz6xXNkCrgSR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3934.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HTAS_roAVvrQFiOXV7YUer0zYR3E5K_r/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3935.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vVSSqIhJY2CTYd-hK6dmxEaDaVucDpvh/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3936.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wDLRRyikCo8JkUWJzsmoWjhoOr-Tb0hK/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3937.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Jf5vAoz3HASpOWwo6xFRnvOeAE-CrGmL/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3938.JPG
+        full_resolution_link: https://drive.google.com/file/d/1HNCvZe4fn8FVlxElsjAOMs9oApzaI0_x/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3939.JPG
+        full_resolution_link: https://drive.google.com/file/d/1DNEJo-CYxsre_GmLmlKLa7cKWlbFlCMs/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3940.JPG
+        full_resolution_link: https://drive.google.com/file/d/19ticg0GUO4FWiqkS0qCpgeH4FZZUAh_m/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3941.JPG
+        full_resolution_link: https://drive.google.com/file/d/19GmprEpKxD32YD2zdIKAiBdbbvqG7WtF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3942.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yiQeNpVbl66aIf8mfpisD8YXxyyJkiVl/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3943.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eQix0-04GITYv0qh0pjAmitHzWFnj8j1/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3944.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aygnjVMJtT6PzLhkCkMIWNaf5gJKoD5q/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3946.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Lk8ZYGb0iEIQbd2EBvyPssV8ShkgIunO/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3947.JPG
+        full_resolution_link: https://drive.google.com/file/d/1syI7Ep3ycdLUMnlNp3zhVPddt9hMoSAN/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3951.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lxFTcS6aPGRLjlgIlcQ0JYYqUwkj7fJJ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3952.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UHlAbTezTvpP6f3E7wKZObjLCUE4XuRr/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3953.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bEZtw8oO94MypKsMfDKnT9_14QJAozNd/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3954.JPG
+        full_resolution_link: https://drive.google.com/file/d/1d2XMl-ianDYdJo6IKaBCjWcPAdJwuN6g/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3955.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MgnBYFGwduQ9u8q1vpu6Fb_xPm4dvu08/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3956.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-hIesvO0SAxeVUFG-agYtrTArtpNlRU-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3957.JPG
+        full_resolution_link: https://drive.google.com/file/d/152C37NHfHGnK69nYmnlsOwoBwXHEoOol/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3958.JPG
+        full_resolution_link: https://drive.google.com/file/d/15Z3Jpk-aIt81DXKCQVS0HR7v5r_65YfP/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3959.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QgSaindY1mwhYb-ez1AoPkJsdhOKMUiW/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3960.JPG
+        full_resolution_link: https://drive.google.com/file/d/1a6oaA8F8L9FKCgLpC5OElErFa0aiEowo/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3961.JPG
+        full_resolution_link: https://drive.google.com/file/d/1n1XpNrpH6vkYR0ZPRgQkws_UqeKD-5_a/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3962.JPG
+        full_resolution_link: https://drive.google.com/file/d/1uKUmMDk1hWE_SrbqdHKvcvdioHxYttP-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3963.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XN-WUDjzXJrJ_0VN82kthafOOV6jtxp2/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3994.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vbJQ58o5wMT5adchZkibGjtUVJINRHdR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_3999.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mli3QTzxOvGKd6NiKOH4J0CPoz0tQLzD/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4000.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UWhLKGz_KBUczTPQ4u8KNFzPvaRTVa2i/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4001.JPG
+        full_resolution_link: https://drive.google.com/file/d/1P6MXU8MMYE84cGTIV3Q_Wa-5DIsjT9A0/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4003.JPG
+        full_resolution_link: https://drive.google.com/file/d/1p6iQdhMbpWrT5WknrEI9Ms_zHGINHX--/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4005.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mOQ_yQcv91Bf5XPckrI7e3rSsN1J5zvU/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4006.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UwMqg0ZNU7UWTXzbf-zl-fTKZlfxD9xY/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4007.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ddO-m-IeT815jDKVnSXC2xQdb8iQDD4z/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4009.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YjNzmPnfS2pF9odxniSz_WYRC31i4E4s/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4010.JPG
+        full_resolution_link: https://drive.google.com/file/d/1puZUFjEy7AyxghuIDD1YwZNTCCdZiipL/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4011.JPG
+        full_resolution_link: https://drive.google.com/file/d/1_dECtRVwPmDON1xZ2ZYa_A37zZUq2u3Z/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4012.JPG
+        full_resolution_link: https://drive.google.com/file/d/1p0ZDRKnMqT_fabaHWb56wgPJWzPW9QFQ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4013.JPG
+        full_resolution_link: https://drive.google.com/file/d/1xEQWB0BmWMNt2SZrauXTt4ziHrvA0xWn/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_4014.JPG
+        full_resolution_link: https://drive.google.com/file/d/11ztEwA4Vfb8ZcgjleaJexQFVYpuGO2Zp/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5709.JPG
+        full_resolution_link: https://drive.google.com/file/d/1i0qhTqDeNLLHki6wM7rALQ2562ET9Ooh/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5710.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WSVflFsmUNngLdMnrj2WpTFybY50ChRb/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5712.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lS5syswdBtluFcmv-FOQ692EQ32SnfEn/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5720.JPG
+        full_resolution_link: https://drive.google.com/file/d/1gG-KnNKCZtMm3w5tbD_U5D-qU3WN5vTz/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5721.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wEey9c3BLv8Mpv0GMdOcQLXybBM7T2cR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5722.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nbrexjkf9o4W2Sdx9y1Vs8RDos8jOB0_/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5723.JPG
+        full_resolution_link: https://drive.google.com/file/d/1hJTrS3W1wNYF3M9jqxYJV-jP7TOPb01V/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5724.JPG
+        full_resolution_link: https://drive.google.com/file/d/1gS_xWx50T6QWoPq0ChSdMoreOMpFyCmf/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5725.JPG
+        full_resolution_link: https://drive.google.com/file/d/11vHgA4V-HOnQ59Qu7ZFRxuf7Rf1rb-de/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5726.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XLBWQesZeV7ikrqoeH6xLI2jnRp6kSiv/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5727.JPG
+        full_resolution_link: https://drive.google.com/file/d/11QsIbOPPvSpDvIBzx2i5UAF3sHG8t-4i/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5728.JPG
+        full_resolution_link: https://drive.google.com/file/d/17B7pNfc5qdvUNSj3FzgawmbgjOQHOAIy/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5729.JPG
+        full_resolution_link: https://drive.google.com/file/d/1gpSrzfKG4NiIFvmF9p78ecHSOlXAc4SN/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5730.JPG
+        full_resolution_link: https://drive.google.com/file/d/11Vuvho9WmQZSpT2sHJQH58Ro5JXU8UEX/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5731.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ROCgwqyxi2zLNYox8kcv40F46Kz2A9rb/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5732.JPG
+        full_resolution_link: https://drive.google.com/file/d/1W2L29ky_V-3dIxo-qhhzUEer_fpc3fVC/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5733.JPG
+        full_resolution_link: https://drive.google.com/file/d/1IN9hpg5WK3wUiSbG39lNI2gf3nb18PjF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5734.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mz90hbjIzGWn8HuasYLJNsaTvquQjhMl/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5735.JPG
+        full_resolution_link: https://drive.google.com/file/d/17mI6n6VKvZqW1lE1Nts_hlgm-8v7p_BR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5736.JPG
+        full_resolution_link: https://drive.google.com/file/d/1AOa2M-FPiqnbKGkJKZe2rUGtPT-_1w4E/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5737.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ACcL3jTBJ8pJoWn6OLhfJmpWObxu23VW/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5738.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MzbaUlX6KtXRzHcVRt7GKMI87eA8jnLy/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5740.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iFnUo5uVyxlBwU_LPbFoIUTf7JTrrt6D/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5742.JPG
+        full_resolution_link: https://drive.google.com/file/d/1sAVcIq2k3VmRo5uG-5026x6voGugemU5/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5743.JPG
+        full_resolution_link: https://drive.google.com/file/d/1I4V5GiCVbE9TceTNuPukiUluug-6Il4A/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5744.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MLU1K9f1bkpMyPVww9qR-h3CnY9BBZge/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5745.JPG
+        full_resolution_link: https://drive.google.com/file/d/19O8W3qjN2M2e92sbRNgvgj7yu_sEclfi/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5746.JPG
+        full_resolution_link: https://drive.google.com/file/d/1KKqEghfuIQzqWnsYyhJrLDl77BcZjrwM/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5747.JPG
+        full_resolution_link: https://drive.google.com/file/d/11Lt2U1jyBW-BQFtJgwQAtT1HgSdlfd2a/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5748.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aPwNb2bC5pIZN5osK9D-wnW564j5FNIR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5749.JPG
+        full_resolution_link: https://drive.google.com/file/d/1z0oxHj0ld__qfL0Ykg-DAgwpomdWuONx/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5750.JPG
+        full_resolution_link: https://drive.google.com/file/d/1w6BXzNqof2FcPviZdWByf7dh7gOfOKQ5/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/DSC_5751.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zCBP9iCcyuLeTt6Bd1vsOs8ykPIe0ufl/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1295.JPG
+        full_resolution_link: https://drive.google.com/file/d/1RCISSgoG-GKFM8IvUOiBNHGNfJnatgSA/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1296.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bd3OBUDTWMwLjCOY-QCyYM3vIxieLk-T/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1297.JPG
+        full_resolution_link: https://drive.google.com/file/d/1B0Nacv8o7pHkJ_uuhnq6oOymlcmc1KdA/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1307.JPG
+        full_resolution_link: https://drive.google.com/file/d/1amYXxDJdwbImrDMzfGKWQUu7iJBP-4V-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1311.JPG
+        full_resolution_link: https://drive.google.com/file/d/14ShNyf4J42hIGnAMwUgJPNElNk1dl73W/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1312.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QqNAHolaPPHgnY0pzf0wCzAW1pendOli/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1313.JPG
+        full_resolution_link: https://drive.google.com/file/d/1_e2wEJ6KYLF9eVGAPUKMI4W6KINZtOID/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1314.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Daw9QA7jJyzVOsgwEsesK6hCwLXry_te/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1315.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vqJlOgw04J3usSGuNI3Vi_t-k-0RKfv4/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1316.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nczvtmQZUBEwNjkMqWOsF6fvSKFyKRxQ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1317.JPG
+        full_resolution_link: https://drive.google.com/file/d/12SzFz4cXum9LMAF5o3F8dgcPHD4mKx0d/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1318.JPG
+        full_resolution_link: https://drive.google.com/file/d/1WteSsiXSOIx7XVoisX8NzvgtS58mbwRQ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1319.JPG
+        full_resolution_link: https://drive.google.com/file/d/1X6jJ-0HpjHzaqQD9xEJr-I0Dn0rKGBg-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1320.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UZ4d7M8gKcp5BFiVQd5_6SGO1PJZAZFd/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1321.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ExvdKthuiR-g-hVP8DKEkuL7Jvr4-kel/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1324.JPG
+        full_resolution_link: https://drive.google.com/file/d/1N8Lfkjtrlke7LwONCn1h1Q9rD0xXEZpZ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1325.JPG
+        full_resolution_link: https://drive.google.com/file/d/1UBiHu9nT7ALEJdfVQBPz7v0YgLPx6rAB/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1326.JPG
+        full_resolution_link: https://drive.google.com/file/d/1MCyJ6Xp50xIBfXYky97bGyntmiMitqWU/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1327.JPG
+        full_resolution_link: https://drive.google.com/file/d/1fLtpuwDJ3eiNBNh14Gf0ffaexxHb_d_l/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1328.JPG
+        full_resolution_link: https://drive.google.com/file/d/1oQ-dvmyZHWYJQtcAQWiK5vhdMD791sML/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1329.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QQWZUE7guE46PChXYshbpc93P4w2mJOn/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1330.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XfIH2k53hq8cSbHMAJ43Fw7ZqWasqYz-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1331.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ZTxh1QEw9CZlVYAp_5z_Qzjx0AN69_dI/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1332.JPG
+        full_resolution_link: https://drive.google.com/file/d/1zW8J213Zr8S21xMgf92PAVDDXROTSUTq/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1333.JPG
+        full_resolution_link: https://drive.google.com/file/d/1VitKDGSWrxWwzWkJR01NcNnySmwdyIiy/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1334.JPG
+        full_resolution_link: https://drive.google.com/file/d/1svN8WUVk_oPeXdO0_fCbQCSJ6tzK3jF6/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1335.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Xl_2HhS3nJDdvVDf47zmxkpSw9Pyf_vF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1336.JPG
+        full_resolution_link: https://drive.google.com/file/d/1eUd1y7MxXEkcxIDdx24XoBnRvncwkbR4/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1339.JPG
+        full_resolution_link: https://drive.google.com/file/d/15NwswAbtuHl3TTYyYGaGaXNPq5GzpY5S/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1340.JPG
+        full_resolution_link: https://drive.google.com/file/d/1tSH62gg-MEVr7eduzSn4L-Q-6D-tP0s1/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1341.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ARjRGHcu1PFhV-UEIQhZ95Af9H_0Z1wo/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1342.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yGEG5gwV0_gAzuhPD4vtQyvRRyHD-KwR/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1343.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Dd_SrQ1w3WB7zAItkU1arzBneLxV_bz9/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1344.JPG
+        full_resolution_link: https://drive.google.com/file/d/1neSGEiyqhIsty6wIP4QvgDjJtapuyWUv/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1345.JPG
+        full_resolution_link: https://drive.google.com/file/d/1gOmTQtFnsRxT0jWtoT8t9_9iGWEp1sgK/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1346.JPG
+        full_resolution_link: https://drive.google.com/file/d/1cJZLrX2yLCv_PuIu5d8TbZrr2IpIELJh/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1347.JPG
+        full_resolution_link: https://drive.google.com/file/d/1bAc8kDro68MyVeQHesN6LXZTYrlXZlvc/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1348.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jQq3rMuc89usamloay82KlkBm7yp_whu/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1349.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mSTLqWPgpZhUtqNjC4OvzFdp9h9mhnhb/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1350.JPG
+        full_resolution_link: https://drive.google.com/file/d/10rmZ8HrWFXmpdFNl9kVpfYP-NSt38OKV/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1351.JPG
+        full_resolution_link: https://drive.google.com/file/d/1DKH3FnrQRuP_3IFc9ukDYZe6qB30eLCh/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1352.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JfRwJ8MuLewC9IhdBfl7X6B55vV2b77K/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1353.JPG
+        full_resolution_link: https://drive.google.com/file/d/1rz7gkViX32kfZ2ZLg-45quV1tlpjyFKt/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1354.JPG
+        full_resolution_link: https://drive.google.com/file/d/1f-mfL8QJmnLODXEDk6uCvcGWSGk5XALv/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1355.JPG
+        full_resolution_link: https://drive.google.com/file/d/16TogZL6QlZVbwF8ylHmCwVyvPTvnEQHT/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1356.JPG
+        full_resolution_link: https://drive.google.com/file/d/102SQQ4hHUyWpaKtb59J7E5Z8NdUE_Qln/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1357.JPG
+        full_resolution_link: https://drive.google.com/file/d/1rIR_CXV_RTQ50MnzRfs1gdINaxao5heG/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1358.JPG
+        full_resolution_link: https://drive.google.com/file/d/1lKrwch6TMFaHkuLkhwxvODzs7P3_iWf3/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1359.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nDmc1gcdwGDAAmVh7wTvQJTql7zQYZGC/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1361.JPG
+        full_resolution_link: https://drive.google.com/file/d/1o6s92Mybr2TDNr-rKZ9TX4l4Tb3IPt0l/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1363.JPG
+        full_resolution_link: https://drive.google.com/file/d/1q7dhQpAa_0zDtoVtGOtE_3mJT3vMT6yO/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1364.JPG
+        full_resolution_link: https://drive.google.com/file/d/1h0KPDS0CbjAymWurtQuoUNng0iSwZDz7/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1365.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OgvGzYHw6kqdOazOe9DvG40CK8HswR3l/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1367.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ae9cinmRbFT1rz0eO7RiIVgd559foX5A/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1368.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-tlOJACJMpyQUFm7GYJWjainMO8rEcA-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1371.JPG
+        full_resolution_link: https://drive.google.com/file/d/1FDmIiKepfudQ8j2Se5GcJVIl0H9pgZCO/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1372.JPG
+        full_resolution_link: https://drive.google.com/file/d/1T0q__lNueyA4I7Efsi1gFU_OsTNosZiJ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1374.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OBvb7kNUnBuwNZ-UaYIKkBBGh2YDw_sf/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1376.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Q6oBAl2rAZSNYhpT5y_v-UMG6JywWgjF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1377.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mioD56O31ODfqYmOO2f8nd7h1XFtKL8f/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1378.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ghddn-uWRUD0Cw1DtgEidmojj7hjl6DL/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1379.JPG
+        full_resolution_link: https://drive.google.com/file/d/1XaUIBG3JzEFRMB8AvxsWikApb7LcVrwb/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1381.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LhgkH1ZpNpzpLe-HYSTlk7mbjcDld8gr/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1382.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ceb5qxS-zusdLLrgmHH3d6Vym0DSEr2b/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1386.JPG
+        full_resolution_link: https://drive.google.com/file/d/1u4vPGS639eq7LFiqDzRgG6KIQg8GcfpC/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1387.JPG
+        full_resolution_link: https://drive.google.com/file/d/1N8DyvddOB2lcWRwy_6f3OB-J4eN826AF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1388.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ZIw-npYRhVrKCznQsHwR6h4LYuh66V6t/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1390.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mhMUDPRicgOM2SlgaW_k4abKMi0IBSIZ/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1423.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QuMEGoR3VAMIQsqqVvWMf_vnu7J1mm9n/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1424.JPG
+        full_resolution_link: https://drive.google.com/file/d/1vf9tMC5UUl0LAcStHaLVrjqcv_8xyvY5/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1425.JPG
+        full_resolution_link: https://drive.google.com/file/d/13sRinZy7P-2kFMMHhnCG7xwyZ6DBEhnP/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1426.JPG
+        full_resolution_link: https://drive.google.com/file/d/12iCq0iMPpddgDxUci9gzGnSHzJdwul-N/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1427.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LsS70NGeTUPwxgULY124IdemWJP81Zrx/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1432.JPG
+        full_resolution_link: https://drive.google.com/file/d/1PiWyAuUIvGjPsRawV05OrloPvOPDd3qG/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1433.JPG
+        full_resolution_link: https://drive.google.com/file/d/1s8W5lcge_hsTZCMVaMokOQlkOD6zCiif/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1434.JPG
+        full_resolution_link: https://drive.google.com/file/d/1kRmVLbDjOxjK36HYPU1V4NF2s-w2DF5r/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1435.JPG
+        full_resolution_link: https://drive.google.com/file/d/1yYuVYW7luqVyEXtIOJcWGjqg-XRCgW9C/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1447.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iPgAv0xuIT2WzQgXeF1b5eMZ7r5HTsiC/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1455.JPG
+        full_resolution_link: https://drive.google.com/file/d/1Ri1YFrymjB8lGb0PdDKS1JlRutcUK_t-/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1456.JPG
+        full_resolution_link: https://drive.google.com/file/d/1CUCpWU3oBhW9fscs17zL7A4y2PhCvyHF/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1471.JPG
+        full_resolution_link: https://drive.google.com/file/d/1nIVsNixk2VxcOcYr28STpgBH-5PeuHdk/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1472.JPG
+        full_resolution_link: https://drive.google.com/file/d/1jvGv0ExrZIW3PBM7wJk8gRT53FIzP4P2/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1474.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aaplmoXKl9BfE82TFk37Bdm6WoL1nImx/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1476.JPG
+        full_resolution_link: https://drive.google.com/file/d/17RX3kcTeO9UEeOsdZY2zOixrl8pAGyYr/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1477.JPG
+        full_resolution_link: https://drive.google.com/file/d/1gQc0Y73x1RhcvediB3JlDjQY8__k4k2k/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1501.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iAmJQdFp3P_YI892o_4uI_Q8es5GEok2/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1502.JPG
+        full_resolution_link: https://drive.google.com/file/d/1-slACH8ljA7x1x45YqEjIhSanXzNqkp5/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1511.JPG
+        full_resolution_link: https://drive.google.com/file/d/1G9VftsGjWeE7D_sYWmdixtr-bgxCn27t/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/_DSC1598.JPG
+        full_resolution_link: https://drive.google.com/file/d/141lnDsNzKwvfQER698db__j2FS2bOkrc/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9936.JPG
+        full_resolution_link: https://drive.google.com/file/d/1LdLTk4cmr2RfgRl48x2hzZU3ksMTtaRb/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9938.JPG
+        full_resolution_link: https://drive.google.com/file/d/1YTIvG640eqzB9InlWcsH7EzI-9pAiBlq/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9941.JPG
+        full_resolution_link: https://drive.google.com/file/d/1TdVVTxmWr1cwgOl85U6kGlTOEBfn-yvB/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9944.JPG
+        full_resolution_link: https://drive.google.com/file/d/1BrciaDMx4dRspkm08PcmsMzIVm4kWe20/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/IMG_9947.JPG
+        full_resolution_link: https://drive.google.com/file/d/1p7FOqHbIo-f2jEMUmlNJFL-hS7W4r3wp/preview
+      - low_resolution_path: /Photos/2025/Teams In Contest/PXL_20250302_204841097.MP.jpg
+        full_resolution_link: https://drive.google.com/file/d/1cT9Fmcvbqpx3NViVONnCD79JOIBtqDTu/preview
     - name: tourist
       photos:
       - low_resolution_path: /Photos/2025/tourist/DSC_3917.JPG
-        full_resolution_link: https://drive.google.com/file/d/1tmedQD9aQJbtpKHkkVe6pqxIAQ6ZBuvR/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_3987.JPG
-        full_resolution_link: https://drive.google.com/file/d/11B3uWxcUgmN0FO-kiPKC2VoT1XqsJHEp/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_3992.JPG
-        full_resolution_link: https://drive.google.com/file/d/1QKoPoj6OSOuYH28ZRpDdeuvgOLYyih-w/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_3993.JPG
-        full_resolution_link: https://drive.google.com/file/d/10HNuxrTc36q84BZM2oxkVL-Ei8jvHOmn/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_3998.JPG
-        full_resolution_link: https://drive.google.com/file/d/1RT-gTnx1gZ0x5uHO1TRL2ezIowquv6-i/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_4015.JPG
-        full_resolution_link: https://drive.google.com/file/d/1mZijO13Jua4wSufFIWQstWAaGJH89IcR/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_4016.JPG
-        full_resolution_link: https://drive.google.com/file/d/1aU1-WiGkKoAu7RigSOZ_2ESyOk_NdfI0/preview
-      - low_resolution_path: /Photos/2025/tourist/DSC_5741.JPG
-        full_resolution_link: https://drive.google.com/file/d/1OuOkgAc8qzmr1XUvJlEeXo8CMh9EisGr/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1308.JPG
-        full_resolution_link: https://drive.google.com/file/d/1houHOOmEkQWMPQxFeC8IQsYDh-oVvVE1/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1309.JPG
-        full_resolution_link: https://drive.google.com/file/d/1dXUGgvf4su6T9IjsmlIS5Cp1-f7ACUuD/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1310.JPG
-        full_resolution_link: https://drive.google.com/file/d/1S7KrUi_HsVjk05vcX_umx1Cv_ClNKpeK/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1383.JPG
-        full_resolution_link: https://drive.google.com/file/d/1JGbtWDe7fW3qWuYNcR-YkqTiGUEyxMH-/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1384.JPG
-        full_resolution_link: https://drive.google.com/file/d/13dRqDiSC8L--lUsNAf5pQnmyABcGk7lO/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1385.JPG
-        full_resolution_link: https://drive.google.com/file/d/1iMJ0Er21FFK6Cdi9kVPIafIB5P82Gp6e/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1422.JPG
-        full_resolution_link: https://drive.google.com/file/d/1wt5HklpQx6knzQTDSxGO084SUZXsrhXI/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1446.JPG
-        full_resolution_link: https://drive.google.com/file/d/1u8S8r5PcAjv72K-tJsqB2z-bv-JeEKYz/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1453.JPG
         full_resolution_link: https://drive.google.com/file/d/1cEgj-KQYk1T40wMjWjl3Ix2OFYd5Bpvh/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1466.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_3987.JPG
         full_resolution_link: https://drive.google.com/file/d/1tVIQzwyJ_lpSBg10_xFBBY-SlUr01dMc/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1469.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_3992.JPG
         full_resolution_link: https://drive.google.com/file/d/1hOkZygkq-8SOPib12S-P4w40PhyXlV7j/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1470.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_3993.JPG
         full_resolution_link: https://drive.google.com/file/d/1imHuZbD9qSNnwbJyf5RNlbV8yW9VgKiS/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1475.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_3998.JPG
         full_resolution_link: https://drive.google.com/file/d/1Wk7vtmH5OGIf18FZBqPdCvuPL76OOh21/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1554.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_4015.JPG
         full_resolution_link: https://drive.google.com/file/d/17df3TaUXpiNB7TtgTCNYd7nDMTBygJuK/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1575.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_4016.JPG
         full_resolution_link: https://drive.google.com/file/d/1QQ90r5RkzsksQrzw61exMLcS8_Rux3Be/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1603.JPG
+      - low_resolution_path: /Photos/2025/tourist/DSC_5741.JPG
         full_resolution_link: https://drive.google.com/file/d/1fYjgF4_rTYA8ANaNj-dFeNDqcZ6nDWVB/preview
-      - low_resolution_path: /Photos/2025/tourist/_DSC1604.JPG
-        full_resolution_link: https://drive.google.com/file/d/1F3-swuNmIsjvnMpiQ9H9ltk5Fpv_sjZF/preview
-      - low_resolution_path: /Photos/2025/tourist/IMG_9950.JPG
+      - low_resolution_path: /Photos/2025/tourist/_DSC1308.JPG
+        full_resolution_link: https://drive.google.com/file/d/11B3uWxcUgmN0FO-kiPKC2VoT1XqsJHEp/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1309.JPG
+        full_resolution_link: https://drive.google.com/file/d/1QKoPoj6OSOuYH28ZRpDdeuvgOLYyih-w/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1310.JPG
+        full_resolution_link: https://drive.google.com/file/d/10HNuxrTc36q84BZM2oxkVL-Ei8jvHOmn/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1383.JPG
+        full_resolution_link: https://drive.google.com/file/d/1tmedQD9aQJbtpKHkkVe6pqxIAQ6ZBuvR/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1384.JPG
+        full_resolution_link: https://drive.google.com/file/d/1RT-gTnx1gZ0x5uHO1TRL2ezIowquv6-i/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1385.JPG
+        full_resolution_link: https://drive.google.com/file/d/1mZijO13Jua4wSufFIWQstWAaGJH89IcR/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1422.JPG
+        full_resolution_link: https://drive.google.com/file/d/1aU1-WiGkKoAu7RigSOZ_2ESyOk_NdfI0/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1446.JPG
+        full_resolution_link: https://drive.google.com/file/d/1OuOkgAc8qzmr1XUvJlEeXo8CMh9EisGr/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1453.JPG
         full_resolution_link: https://drive.google.com/file/d/1mUsfihcnVQvvVdsDYJBsF1pIgThe0m63/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1466.JPG
+        full_resolution_link: https://drive.google.com/file/d/1houHOOmEkQWMPQxFeC8IQsYDh-oVvVE1/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1469.JPG
+        full_resolution_link: https://drive.google.com/file/d/1dXUGgvf4su6T9IjsmlIS5Cp1-f7ACUuD/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1470.JPG
+        full_resolution_link: https://drive.google.com/file/d/1S7KrUi_HsVjk05vcX_umx1Cv_ClNKpeK/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1475.JPG
+        full_resolution_link: https://drive.google.com/file/d/1JGbtWDe7fW3qWuYNcR-YkqTiGUEyxMH-/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1554.JPG
+        full_resolution_link: https://drive.google.com/file/d/13dRqDiSC8L--lUsNAf5pQnmyABcGk7lO/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1575.JPG
+        full_resolution_link: https://drive.google.com/file/d/1iMJ0Er21FFK6Cdi9kVPIafIB5P82Gp6e/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1603.JPG
+        full_resolution_link: https://drive.google.com/file/d/1wt5HklpQx6knzQTDSxGO084SUZXsrhXI/preview
+      - low_resolution_path: /Photos/2025/tourist/_DSC1604.JPG
+        full_resolution_link: https://drive.google.com/file/d/1u8S8r5PcAjv72K-tJsqB2z-bv-JeEKYz/preview
+      - low_resolution_path: /Photos/2025/tourist/IMG_9950.JPG
+        full_resolution_link: https://drive.google.com/file/d/1F3-swuNmIsjvnMpiQ9H9ltk5Fpv_sjZF/preview
