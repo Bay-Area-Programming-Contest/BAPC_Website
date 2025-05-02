@@ -1,6 +1,6 @@
 import math
 from pathlib import Path
-from PIL import Image
+from PIL import Image, ImageOps
 
 
 # https://stackoverflow.com/questions/10607468/how-to-reduce-the-image-file-size-using-pil
@@ -37,6 +37,7 @@ def compress_photo(photo_path: Path) -> None:
 
     print(f"Resizing {photo_path} to {new_size[0]} by {new_size[1]}")
     photo = photo.resize(new_size, Image.Resampling.LANCZOS)
+    photo = ImageOps.exif_transpose(photo)
     photo.save(photo_path, optimize=True)
 
 
