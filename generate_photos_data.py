@@ -180,7 +180,7 @@ def ask_user_for_links(full_category_name: str, category: Category) -> Category:
             print(f"Category {full_category_name} with {len(category['photos'])} photos is missing some Drive links.")
             print("Please enter the Drive links separated by commas, in the order of the file name.")
             print("To get the links, go to the Drive folder that corresponds to the category, select all the files, right click, and select Share > Copy links.")
-            print("Note that this returns the sharing link to the drive object, not the preview link. The script will automatically convert the link.")
+            print("IMPORTANT: Be careful about the order of the links. The initially selected file will come first in the list, so make sure to click on the first file before selecting all the files, or don't click on any of them and use cmd+A to select.")
             links = input(f"Please paste all {len(category['photos'])} links, or hit enter to skip. >").strip()
 
             if links:
