@@ -13,10 +13,7 @@ For each category that's missing the links, the script will ask the user to past
 (These links can be copied from Google Drive by selecting all the photos you want links for, right-clicking, and selecting Share > Copy links.)
 The script will replace the "/view?usp=drive_link" suffix with the "/preview" suffix.
 
-TODO: Add a third functionality:
-3) Compress the existing photos in /Photos so they are at a certain resolution.
-Make sure you have the full-resolution version backed up somewhere!
-
+See compress_photos.py for an image compression tool.
 
 This script took so long to write (4 hours) that I think it would have been faster to just do the work manually...
 
