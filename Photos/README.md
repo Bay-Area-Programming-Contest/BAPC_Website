@@ -82,3 +82,12 @@ Try clicking on some of the preview images to make sure the full-resolution imag
 Ping Stanley (@qpwoeirut on Discord) with any questions.
 In theory, this should be a tool that "just works" without any manual intervention.
 In practice, it's unlikely that'll be the case.
+
+## TODOs
+Some possible improvements:
+* Reduce the amount of the HTML in the generated photos page.
+After adding the 2025 photos, it's 899 KB.
+This is large enough that the parser has a noticeable lag when the page loads.
+* Create one modal element for the whole page instead of one per photo.
+* Support using arrow keys to jump between the full-size photo modals.
+  * Optionally, preemptively load the preview iframes for the previous and next photos for a faster UX.
