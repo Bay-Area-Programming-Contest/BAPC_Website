@@ -77,3 +77,8 @@ Try clicking on some of the preview images to make sure the full-resolution imag
 10. Commit your changes and push.
 11. Wait for the changes to deploy and then do a bit more testing.
 12. Announce that the photos are ready on the BAPC Discord.
+
+## Questions
+Ping Stanley (@qpwoeirut on Discord) with any questions.
+In theory, this should be a tool that "just works" without any manual intervention.
+In practice, it's unlikely that'll be the case.
