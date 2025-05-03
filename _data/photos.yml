@@ -939,8 +939,6 @@ all:
       photos:
       - low_resolution_path: /Photos/2025/Organizers/IMG_9951.JPG
         full_resolution_link: https://drive.google.com/file/d/1PT9tfB7knyHEPfXK_8y87I1v87gDPTQp/preview
-      - low_resolution_path: /Photos/2025/Organizers/DSC_3892.JPG
-        full_resolution_link: https://drive.google.com/file/d/1ynFEjKx07rBwZT82iMM1ASo06sCOUCTt/preview
       - low_resolution_path: /Photos/2025/Organizers/DSC_3898.JPG
         full_resolution_link: https://drive.google.com/file/d/1yQoiLcUwtrjKCPfFnEwkPeXVBrpeh4ma/preview
       - low_resolution_path: /Photos/2025/Organizers/DSC_3899.JPG
@@ -1189,6 +1187,8 @@ all:
         full_resolution_link: https://drive.google.com/file/d/1AuUQvQ0ltysYbv-fZ52GnSeQXlJ4X1XG/preview
       - low_resolution_path: /Photos/2025/Organizers/IMG_9973.JPG
         full_resolution_link: https://drive.google.com/file/d/1cpDuzSDkIyKx67M_zq8LsEXtoZzhNoB7/preview
+      - low_resolution_path: /Photos/2025/Organizers/DSC_3892.JPG
+        full_resolution_link: https://drive.google.com/file/d/1ynFEjKx07rBwZT82iMM1ASo06sCOUCTt/preview
     - name: Setup
       photos:
       - low_resolution_path: /Photos/2025/Setup/_DSC1261.JPG
