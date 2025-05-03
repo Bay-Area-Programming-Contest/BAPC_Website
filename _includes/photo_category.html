@@ -2,7 +2,7 @@
 <div class="row">
     {% for photo in include.category.photos %}
         <div class="col col-6 col-sm-4 col-md-3 my-2">
-            <div class="card h-100 bg-dark">
+            <div class="card bg-dark">
                 <img src="{{ photo.low_resolution_path }}" class="card-img-top" alt="{{ photo.caption }}" data-bs-toggle="modal" data-bs-target="#modal-{{ photo.low_resolution_path | slugify }}" role="button" loading="lazy">
             </div>
         </div>
