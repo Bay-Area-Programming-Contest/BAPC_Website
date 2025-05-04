@@ -1,7 +1,7 @@
 - year: 2025
   link: https://codeforces.com/blog/entry/140262
   image: images/misc/Archive2024image.png
-  leaderboard: /bapc2025_Scoreboard/index.html
+  leaderboard: /bapc2025_scoreboard/index.html
   sponsors:
     - name: X-Camp
       tier: Platinum
