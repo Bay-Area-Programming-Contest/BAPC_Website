@@ -1,6 +1,6 @@
 - year: 2025
   link: https://codeforces.com/blog/entry/140262
-  image: images/misc/Archive2024image.png
+  image: images/misc/Archive2025.png
   leaderboard: /bapc2025_scoreboard/index.html
   sponsors:
     - name: X-Camp
@@ -30,7 +30,7 @@
 
 - year: 2024
   link: https://codeforces.com/blog/entry/126716
-  image: images/misc/Archive2024image.png
+  image: images/misc/Archive2024.png
   leaderboard: /bapc2024-scoreboard/index.html
   sponsors:
     - name: Jane Street
