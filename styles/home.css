@@ -165,13 +165,13 @@
 
 #registerButton {
     width: 100%;
-    font-size: 2.5vw;
+    font-size: min(2.5vw, 2.6em);
     color: var(--bs-body-color);
     text-decoration: none;
     text-align: center;
     border-radius: 10px;
     outline: 0.2vw solid #9b0e2d;
-    padding: 20px 48px;
+    padding: 1vw;
     backdrop-filter: blur(5px);
     background-color: #ff114420;
 }
@@ -184,21 +184,20 @@
 
 #discordButton {
     color: #9656ce;
-    font-size: 2vw;
-    text-decoration: none;
     width: 100%;
+    font-size: min(1.9vw, 1.9em);
+    text-decoration: none;
+    text-align: center;
     border-radius: 10px;
     outline: 0.2vw solid #9656ce;
-    padding: 20px 20px;
+    padding: 1vw;
     backdrop-filter: blur(5px);
     background-color: #9656ce25;
-    text-align: center;
 }
 
 #discordButton:hover {
     font-weight: bold;
-    border-radius: 10px;
-    box-shadow: 0 0 1.15vw 1px rgb(150, 86, 206);
+    box-shadow: 0 0 1.15vw 1px #9656ce;
     rotate: 1deg;
 }
 
