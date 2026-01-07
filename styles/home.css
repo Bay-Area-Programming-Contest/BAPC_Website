@@ -165,7 +165,7 @@
 
 #registerButton {
     width: 100%;
-    font-size: 2.6vw;
+    font-size: 2.5vw;
     color: var(--bs-body-color);
     text-decoration: none;
     text-align: center;
@@ -178,7 +178,6 @@
 
 #registerButton:hover {
     font-weight: bold;
-    border-radius: 10px;
     box-shadow: 0 0 1.15vw 1px var(--bs-border-color);
     rotate: 1deg;
 }
