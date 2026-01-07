@@ -48,7 +48,7 @@
 
 #home-mask {
     width: 664px;
-    height: 350px;
+    height: 50%;
     background-color: var(--bs-body-bg);
     border-radius: 70px;
     position: absolute;
@@ -82,7 +82,6 @@
 .char {
     text-align: center;
     display: inline-block;
-    color: red;
     position: absolute;
     opacity: 1;
     animation: explode2 1s cubic-bezier(0.25, 1, 0.5, 1) reverse, shake 0.1s ease-out forwards;
@@ -90,6 +89,15 @@
     animation-iteration-count: 1, 2;
     text-shadow: 0 0 10px red;
     transition-duration: 1s;
+
+    color: #ff1044;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: #ff1044;
+    font-family: 'Jura', monospace;
+    font-size: 120px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px;
 }
 
 /* Character positions */
