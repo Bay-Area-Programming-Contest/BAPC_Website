@@ -49,3 +49,7 @@
     width: 24px;
     height: 24px;
 }
+
+.organizer-name {
+    white-space: nowrap;
+}
