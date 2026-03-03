@@ -1,55 +1,50 @@
 - name: Agastya Goel
   role: Organizer
   image: agastya.png
-  description: Agastya is a senior at Gunn High School, a participant of MOP, and a member of team USA at IOI 2023. In his free time, he sings, plays tennis, and always wins the card game Coup.
+  description: Agastya is a Freshman at MIT, a participant of MOP, a member of team USA at IOI 2023 & 2024, and a member of team USA at IPhO 2025. In his free time, he sings, plays tennis, and always wins the card game Coup.
   codeforces: gustergoose27
-
-- name: Nathan Ye
-  role: Organizer
-  image: nathan.png
-  description: Nathan is a senior at Palo Alto High School. He is a participant in the USACO Platinum division and a 6-time AIME Qualifier. He also enjoys CTFing with his friends.
-  codeforces: ench_lolz
-  github: enchlolz
-
-- name: Hongyi Shi
-  role: Organizer
-  image: hongyi.png
-  description: Hongyi is a senior at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
-  github: resplendentHSHI
 
 - name: Grant Ho
   role: Organizer
   image: grant.png
-  description: Grant is a junior at Irvington High School and a participant in the USACO Gold division. He is also a Candidate Master on Codeforces and a 3-time AIME Qualifier. In his free time, he likes playing catan in his free time.
+  description: Grant is a Senior at Irvington High School and a participant in the USACO Platinum division. He is also a Master on Codeforces and a 3-time AIME Qualifier. In his free time, he likes playing catan in his free time.
   codeforces: hihitherethere
-
-- name: Jason Lin
-  role: Organizer
-  image: jason.png
-  description: Jason is a senior at Gunn High School, a Specialist on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes computer overclocking and playing the violin.
-  codeforces: Hector2173
-
-- name: Kaicheng Luo
-  role: Organizer
-  image: kaicheng.png
-  description: Kaicheng is a Senior at Gunn High School, a participant in the USACO Gold division, and a 4-time AIME Qualifier. In his free time, he enjoys playing tennis and hanging out.
-  codeforces: Kaichengxdd
 
 - name: Michael Ma
   role: Organizer
   image: michael.png
-  description: Michael is a Sophomore at Gunn High School, a participant in the USACO Gold division, and an AIME Qualifier. Outside of competitive programming, he enjoys watching the 49ers and hopes Patrick Mahomes retires soon.
+  description: Michael is a Sophomore at Gunn High School, a participant in the USACO Platinum division, and an AIME Qualifier. Outside of competitive programming, he enjoys watching the Warriors and hopes Podziemski gets good at basketball soon.
 
+- name: Brian Zhao
+  role: Organizer
+  image: brian.png
+  description: Brian is a Sophomore from Mission San Jose High School and a participant in the USACO Platinum division. He is also on his school’s science olympiad team. In his free time, he enjoys playing badminton.
+
+- name: Aarush Rachakonda
+  role: Organizer
+  image: aarush.png
+  description: Aarush is a Sophmore at Gunn High School, a participant in the USACO Gold division, and a USAJMO qualifier. His favorite Mario character is Donkey Kong (DK <3).
+
+- name: Vineet Petlur
+  role: Organizer
+  image: vineet.jpg
+  description: Vineet is a Junior at Gunn High School, a participant in the USACO Gold division, a Quizbowl Nationalist Qualifier, and a member of Gunn Robotics. Outside of academics, he enjoys reading Jules Verne and playing the oboe.
 - name: Simren Arora
   role: Organizer
   image: simren.png
-  description: Simren is a Sophomore at Gunn High School and a participant in the USACO Bronze Division. Aside from competitive programming and attending hackathons, she competes in taekwondo sparring and enjoys spending time outdoors.
-
-
+  description: Simren is a Sophomore at Gunn High School and a participant in the USACO Silver Division. Aside from competitive programming and attending hackathons, she competes in taekwondo sparring and enjoys spending time outdoors.
+- name: Sameer Mallik
+  role: Organizer
+  image: sameer.jpg
+  description: Sameer is a freshman at gunn and a participant of the USACO Gold division and an AIME qualifier. Outside of programming, he likes playing basketball for Gunn and playing saxophone for Gunn jazz.
+- name: Seyth Jain
+  role: Organizer
+  image: seyth.jpg
+  description: Seyth is a Freshman at Gunn High School and a participant in the USACO Silver Division. Aside from competitive prgramming, he is also a competitive swimmer.
 - name: Mary Yu
   role: Photographer
   image: mary.png
-  description: Mary is a junior at Gunn High School. She likes taking photos.
+  description: Mary is a Senior at Gunn High School. She likes taking photos.
 
 - name: Ezra Furtado-Tiwari
   role: Advisor
@@ -70,3 +65,27 @@
   description: Stanley is a Gunn alum (class of 2023) who currently works at Google. He enjoys participating in competitive programming, AI, and CTF competitions and plays chess and ultimate frisbee. If the infrastructure breaks, it's probably his fault.
   codeforces: qpwoeirut
   github: qpwoeirut
+- name: Nathan Ye
+  role: Advisor
+  image: nathan.png
+  description: Nathan is a Freshman at Carniegie Mellon University. He is a participant in the USACO Platinum division and a 6-time AIME Qualifier. He also enjoys CTFing with his friends.
+  codeforces: ench_lolz
+  github: enchlolz
+
+- name: Hongyi Shi
+  role: Advisor
+  image: hongyi.png
+  description: Hongyi is a Freshman at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
+  github: resplendentHSHI
+
+- name: Jason Lin
+  role: Advisor
+  image: jason.png
+  description: Jason is a Freshman at Carniegie Mellon University, a Specialist on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes computer overclocking and playing the violin.
+  codeforces: Hector2173
+
+- name: Kaicheng Luo
+  role: Advisor
+  image: kaicheng.png
+  description: Kaicheng is a Freshman at Carniegie Mellon University, a participant in the USACO Gold division, and a 4-time AIME Qualifier. In his free time, he enjoys playing tennis and hanging out.
+  codeforces: Kaichengxdd
