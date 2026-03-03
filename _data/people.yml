@@ -1,7 +1,7 @@
 - name: Agastya Goel
   role: Organizer
   image: agastya.png
-  description: Agastya is a Freshman at MIT, a participant of MOP, a member of team USA at IOI 2023 & 2024, and a member of team USA at IPhO 2025. In his free time, he sings, plays tennis, and always wins the card game Coup.
+  description: Agastya is a Gunn alum (class of 2025) and student at MIT. He was a participant of MOP, a member of team USA at IOI 2023 & 2024, and a member of team USA at IPhO 2025. In his free time, he sings, plays tennis, and always wins the card game Coup.
   codeforces: gustergoose27
 
 - name: Grant Ho
@@ -68,24 +68,24 @@
 - name: Nathan Ye
   role: Advisor
   image: nathan.png
-  description: Nathan is a Freshman at Carniegie Mellon University. He is a participant in the USACO Platinum division and a 6-time AIME Qualifier. He also enjoys CTFing with his friends.
+  description: Nathan is Palo Alto High School alum (class of 2025) and a student at Carniegie Mellon University. He was a participant in the USACO Platinum division and a 6-time AIME Qualifier. He also enjoys CTFing with his friends.
   codeforces: ench_lolz
   github: enchlolz
 
 - name: Hongyi Shi
   role: Advisor
   image: hongyi.png
-  description: Hongyi is a Freshman at Gunn High School and a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
+  description: Hongyi is a Gunn alum (class of 2025), student at Carnegie Mellon University, and was a participant in the USACO Platinum division. Outside of competitive programming, he likes to work on bioinformatics research, play SET, and hike.
   github: resplendentHSHI
 
 - name: Jason Lin
   role: Advisor
   image: jason.png
-  description: Jason is a Freshman at Carniegie Mellon University, a Specialist on the competitive programming platform Codeforces, and a 4-time AIME Qualifier. He also likes computer overclocking and playing the violin.
+  description: Jason is a Gunn alum (class of 2025) and student at Carniegie Mellon University. He was a Specialist on the competitive programming platform Codeforces and a 4-time AIME Qualifier. He also likes computer overclocking and playing the violin.
   codeforces: Hector2173
 
 - name: Kaicheng Luo
   role: Advisor
   image: kaicheng.png
-  description: Kaicheng is a Freshman at Carniegie Mellon University, a participant in the USACO Gold division, and a 4-time AIME Qualifier. In his free time, he enjoys playing tennis and hanging out.
+  description: Kaicheng was a Gunn alum (class of 2025) and a student at Carniegie Mellon University. He was a participant in the USACO Gold division, and a 4-time AIME Qualifier. In his free time, he enjoys playing tennis and hanging out.
   codeforces: Kaichengxdd
