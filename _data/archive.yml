@@ -1,7 +1,9 @@
 - year: 2025
   link: https://codeforces.com/blog/entry/140262
   image: images/misc/Archive2025.jpg
-  leaderboard: /bapc2025_scoreboard/index.html
+  leaderboards:
+    - link: /bapc2025_scoreboard/index.html
+      label: Leaderboard
   sponsors:
     - name: X-Camp
       tier: Platinum
@@ -31,7 +33,9 @@
 - year: 2024
   link: https://codeforces.com/blog/entry/126716
   image: images/misc/Archive2024.png
-  leaderboard: /bapc2024-scoreboard/index.html
+  leaderboards:
+    - link: /bapc2024_scoreboard/index.html
+      label: Leaderboard
   sponsors:
     - name: Jane Street
       tier: Silver
@@ -61,7 +65,9 @@
 - year: 2022
   link: https://codeforces.com/group/5kleZAqa52/
   image: images/misc/Old_BAPC_Logo.png
-  leaderboard: https://codeforces.com/group/5kleZAqa52/contests
+  leaderboards:
+    - link: https://codeforces.com/group/5kleZAqa52/contests
+      label: Leaderboard
   sponsors:
     - name: Aops
       tier: Bronze
@@ -82,7 +88,9 @@
 
 - year: 2021
   link: https://codeforces.com/group/0HcLbgqiJ8/
-  leaderboard: https://codeforces.com/group/0HcLbgqiJ8/contests
+  leaderboards:
+    - link: https://codeforces.com/group/0HcLbgqiJ8/contests
+      label: Leaderboard
   image: images/misc/Old_BAPC_Logo.png
 
 
