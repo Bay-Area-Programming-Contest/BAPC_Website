@@ -1,3 +1,37 @@
+- year: 2026
+  link: https://codeforces.com/blog/entry/151085?#comment-1352114
+  image: images/misc/Archive2026.jpg
+  leaderboards:
+    - link: /bapc2026-novice_scoreboard/index.html
+      label: Novice
+    - link: /bapc2026-advanced_scoreboard/index.html
+      label: Advanced
+  sponsors:
+    - name: X-Camp
+      tier: Platinum
+      image: X-Camp.png
+      link: https://x-camp.academy/
+    - name: HRT
+      tier: Silver
+      image: HRT_Logo.png
+      link: https://www.hudsonrivertrading.com/
+    - name: Jane Street
+      tier: Silver
+      image: Jane_Street_Logo.png
+      link: https://www.janestreet.com/
+    - name: Citadel
+      tier: Silver
+      image: Citadel.png
+      link: https://www.citadelsecurities.com/
+    - name: Stanford Research Park
+      tier: Silver
+      image: SRP_Logo.png
+      link: https://stanfordresearchpark.com/
+    - name: Competitive Programming Initiative
+      tier: Partner
+      image: CPI_Logo_1.png
+      link: https://joincpi.org/
+
 - year: 2025
   link: https://codeforces.com/blog/entry/140262
   image: images/misc/Archive2025.jpg

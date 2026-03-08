@@ -58,7 +58,6 @@
     position: relative;
 }
 
-/* Media Queries */
 @media (max-width: 768px) {
     .archive-sponsor {
         font-size: 2rem;
@@ -75,7 +74,7 @@
     }
 
     .archive-button-label p {
-        font-size: 1.25rem;
+        font-size: 0.8rem;
     }
 
     .archive-image {
@@ -89,7 +88,7 @@
     }
 
     .archive-button-label p {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
     }
 
     .archive-image {
@@ -103,7 +102,7 @@
     }
 
     .archive-button-label p {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .archive-image {
@@ -117,7 +116,7 @@
     }
 
     .archive-button-label p {
-        font-size: 2.5rem;
+        font-size: 1.75rem;
     }
 
     .archive-image {
